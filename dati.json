@@ -1,0 +1,8738 @@
+[
+ {
+   "SEZIONE": 1,
+   "TIPO_SEZ": "N",
+   "MASCHI": 339,
+   "FEMMINE": 374,
+   "INDIRIZZO": "VIA SAVARE MANLIO E GIOAC. 2"
+ },
+ {
+   "SEZIONE": 2,
+   "TIPO_SEZ": "N",
+   "MASCHI": 265,
+   "FEMMINE": 293,
+   "INDIRIZZO": "VIA TRILUSSA 10/A"
+ },
+ {
+   "SEZIONE": 3,
+   "TIPO_SEZ": "N",
+   "MASCHI": 427,
+   "FEMMINE": 463,
+   "INDIRIZZO": "VIA GRAF ARTURO 70"
+ },
+ {
+   "SEZIONE": 4,
+   "TIPO_SEZ": "N",
+   "MASCHI": 360,
+   "FEMMINE": 357,
+   "INDIRIZZO": "VIA MUGGIANO 16"
+ },
+ {
+   "SEZIONE": 5,
+   "TIPO_SEZ": "N",
+   "MASCHI": 605,
+   "FEMMINE": 383,
+   "INDIRIZZO": "CSO PORTA ROMANA 112"
+ },
+ {
+   "SEZIONE": 6,
+   "TIPO_SEZ": "N",
+   "MASCHI": 454,
+   "FEMMINE": 431,
+   "INDIRIZZO": "VIA MANN THOMAS 8"
+ },
+ {
+   "SEZIONE": 7,
+   "TIPO_SEZ": "N",
+   "MASCHI": 378,
+   "FEMMINE": 440,
+   "INDIRIZZO": "VIA SAVARE MANLIO E GIOAC. 2"
+ },
+ {
+   "SEZIONE": 8,
+   "TIPO_SEZ": "N",
+   "MASCHI": 307,
+   "FEMMINE": 390,
+   "INDIRIZZO": "VIA VESPRI SICILIANI 75"
+ },
+ {
+   "SEZIONE": 9,
+   "TIPO_SEZ": "N",
+   "MASCHI": 279,
+   "FEMMINE": 242,
+   "INDIRIZZO": "VIA CROCEFISSO 11"
+ },
+ {
+   "SEZIONE": 10,
+   "TIPO_SEZ": "O",
+   "MASCHI": 0,
+   "FEMMINE": 0,
+   "INDIRIZZO": "VIA JOMMELLI NICCOLO', 17"
+ },
+ {
+   "SEZIONE": 11,
+   "TIPO_SEZ": "N",
+   "MASCHI": 407,
+   "FEMMINE": 457,
+   "INDIRIZZO": "VIA GRAF ARTURO 70"
+ },
+ {
+   "SEZIONE": 12,
+   "TIPO_SEZ": "N",
+   "MASCHI": 289,
+   "FEMMINE": 375,
+   "INDIRIZZO": "VIA DEI SALICI 2"
+ },
+ {
+   "SEZIONE": 13,
+   "TIPO_SEZ": "N",
+   "MASCHI": 393,
+   "FEMMINE": 406,
+   "INDIRIZZO": "VIA SANT'ORSOLA 15"
+ },
+ {
+   "SEZIONE": 14,
+   "TIPO_SEZ": "N",
+   "MASCHI": 313,
+   "FEMMINE": 328,
+   "INDIRIZZO": "VIA VISCONTI ALEX 16"
+ },
+ {
+   "SEZIONE": 15,
+   "TIPO_SEZ": "N",
+   "MASCHI": 151,
+   "FEMMINE": 142,
+   "INDIRIZZO": "VIA MONTE BALDO 11"
+ },
+ {
+   "SEZIONE": 16,
+   "TIPO_SEZ": "N",
+   "MASCHI": 361,
+   "FEMMINE": 390,
+   "INDIRIZZO": "VIA SANT'ORSOLA 15"
+ },
+ {
+   "SEZIONE": 17,
+   "TIPO_SEZ": "O",
+   "MASCHI": 0,
+   "FEMMINE": 0,
+   "INDIRIZZO": "VIA RIPAMONTI GIUSEPPE 435"
+ },
+ {
+   "SEZIONE": 18,
+   "TIPO_SEZ": "N",
+   "MASCHI": 345,
+   "FEMMINE": 399,
+   "INDIRIZZO": "VIA OJETTI UGO 13"
+ },
+ {
+   "SEZIONE": 19,
+   "TIPO_SEZ": "S",
+   "MASCHI": 355,
+   "FEMMINE": 481,
+   "INDIRIZZO": "VIA DELLE ANDE 4/A"
+ },
+ {
+   "SEZIONE": 20,
+   "TIPO_SEZ": "N",
+   "MASCHI": 345,
+   "FEMMINE": 422,
+   "INDIRIZZO": "VIA OJETTI UGO 13"
+ },
+ {
+   "SEZIONE": 21,
+   "TIPO_SEZ": "N",
+   "MASCHI": 23,
+   "FEMMINE": 25,
+   "INDIRIZZO": "VIA MARTINENGO FRANCESCO 36/A"
+ },
+ {
+   "SEZIONE": 22,
+   "TIPO_SEZ": "N",
+   "MASCHI": 307,
+   "FEMMINE": 396,
+   "INDIRIZZO": "VIA CROCEFISSO 11"
+ },
+ {
+   "SEZIONE": 23,
+   "TIPO_SEZ": "S",
+   "MASCHI": 593,
+   "FEMMINE": 542,
+   "INDIRIZZO": "VIA PINI TOMMASO 3/A"
+ },
+ {
+   "SEZIONE": 24,
+   "TIPO_SEZ": "O",
+   "MASCHI": 328,
+   "FEMMINE": 419,
+   "INDIRIZZO": "VIA CROCEFISSO 11"
+ },
+ {
+   "SEZIONE": 25,
+   "TIPO_SEZ": "N",
+   "MASCHI": 333,
+   "FEMMINE": 388,
+   "INDIRIZZO": "VIA DELLE ANDE 4/A"
+ },
+ {
+   "SEZIONE": 26,
+   "TIPO_SEZ": "O",
+   "MASCHI": 309,
+   "FEMMINE": 317,
+   "INDIRIZZO": "VIA CROCEFISSO 11"
+ },
+ {
+   "SEZIONE": 27,
+   "TIPO_SEZ": "N",
+   "MASCHI": 394,
+   "FEMMINE": 419,
+   "INDIRIZZO": "VIA CROCEFISSO 15"
+ },
+ {
+   "SEZIONE": 28,
+   "TIPO_SEZ": "N",
+   "MASCHI": 289,
+   "FEMMINE": 350,
+   "INDIRIZZO": "VIA CROCEFISSO 15"
+ },
+ {
+   "SEZIONE": 29,
+   "TIPO_SEZ": "N",
+   "MASCHI": 441,
+   "FEMMINE": 443,
+   "INDIRIZZO": "VIA PESCARENICO 6/A"
+ },
+ {
+   "SEZIONE": 30,
+   "TIPO_SEZ": "N",
+   "MASCHI": 341,
+   "FEMMINE": 385,
+   "INDIRIZZO": "VIA DELLE ANDE 4"
+ },
+ {
+   "SEZIONE": 31,
+   "TIPO_SEZ": "N",
+   "MASCHI": 323,
+   "FEMMINE": 395,
+   "INDIRIZZO": "VIA DELLE ANDE 4"
+ },
+ {
+   "SEZIONE": 32,
+   "TIPO_SEZ": "N",
+   "MASCHI": 500,
+   "FEMMINE": 517,
+   "INDIRIZZO": "VIA PINI TOMMASO 3/A"
+ },
+ {
+   "SEZIONE": 33,
+   "TIPO_SEZ": "N",
+   "MASCHI": 325,
+   "FEMMINE": 404,
+   "INDIRIZZO": "VIA PESCARENICO 6/A"
+ },
+ {
+   "SEZIONE": 34,
+   "TIPO_SEZ": "O",
+   "MASCHI": 0,
+   "FEMMINE": 0,
+   "INDIRIZZO": "VIA BIANCHI MOSE', 90"
+ },
+ {
+   "SEZIONE": 35,
+   "TIPO_SEZ": "N",
+   "MASCHI": 271,
+   "FEMMINE": 256,
+   "INDIRIZZO": "VIA MONTE PIANA 11"
+ },
+ {
+   "SEZIONE": 36,
+   "TIPO_SEZ": "N",
+   "MASCHI": 368,
+   "FEMMINE": 411,
+   "INDIRIZZO": "PZA MASSAIA GUGLIELMO 2"
+ },
+ {
+   "SEZIONE": 37,
+   "TIPO_SEZ": "N",
+   "MASCHI": 447,
+   "FEMMINE": 437,
+   "INDIRIZZO": "VIA MUGGIANO 16"
+ },
+ {
+   "SEZIONE": 38,
+   "TIPO_SEZ": "N",
+   "MASCHI": 418,
+   "FEMMINE": 435,
+   "INDIRIZZO": "VIA LAMENNAIS 20"
+ },
+ {
+   "SEZIONE": 39,
+   "TIPO_SEZ": "N",
+   "MASCHI": 380,
+   "FEMMINE": 450,
+   "INDIRIZZO": "PZA MASSAIA GUGLIELMO 2"
+ },
+ {
+   "SEZIONE": 40,
+   "TIPO_SEZ": "N",
+   "MASCHI": 354,
+   "FEMMINE": 309,
+   "INDIRIZZO": "VIA MONTE PIANA 11"
+ },
+ {
+   "SEZIONE": 41,
+   "TIPO_SEZ": "N",
+   "MASCHI": 315,
+   "FEMMINE": 398,
+   "INDIRIZZO": "PZA MASSAIA GUGLIELMO 2"
+ },
+ {
+   "SEZIONE": 42,
+   "TIPO_SEZ": "N",
+   "MASCHI": 327,
+   "FEMMINE": 372,
+   "INDIRIZZO": "VIA SAVONA 71/B"
+ },
+ {
+   "SEZIONE": 43,
+   "TIPO_SEZ": "N",
+   "MASCHI": 245,
+   "FEMMINE": 307,
+   "INDIRIZZO": "PZA MASSAIA GUGLIELMO 2"
+ },
+ {
+   "SEZIONE": 44,
+   "TIPO_SEZ": "N",
+   "MASCHI": 329,
+   "FEMMINE": 366,
+   "INDIRIZZO": "VIA OLONA 14"
+ },
+ {
+   "SEZIONE": 45,
+   "TIPO_SEZ": "O",
+   "MASCHI": 12,
+   "FEMMINE": 13,
+   "INDIRIZZO": "VIA PIO II 3"
+ },
+ {
+   "SEZIONE": 46,
+   "TIPO_SEZ": "N",
+   "MASCHI": 393,
+   "FEMMINE": 435,
+   "INDIRIZZO": "VIA SANT'ORSOLA 15"
+ },
+ {
+   "SEZIONE": 47,
+   "TIPO_SEZ": "N",
+   "MASCHI": 298,
+   "FEMMINE": 340,
+   "INDIRIZZO": "VIA SANT'ORSOLA 15"
+ },
+ {
+   "SEZIONE": 48,
+   "TIPO_SEZ": "N",
+   "MASCHI": 296,
+   "FEMMINE": 366,
+   "INDIRIZZO": "VIA SANT'ORSOLA 15"
+ },
+ {
+   "SEZIONE": 49,
+   "TIPO_SEZ": "O",
+   "MASCHI": 0,
+   "FEMMINE": 0,
+   "INDIRIZZO": "VIA PIO II 3"
+ },
+ {
+   "SEZIONE": 50,
+   "TIPO_SEZ": "O",
+   "MASCHI": 0,
+   "FEMMINE": 0,
+   "INDIRIZZO": "VIA GALEAZZI RICCARDO 4"
+ },
+ {
+   "SEZIONE": 54,
+   "TIPO_SEZ": "O",
+   "MASCHI": 0,
+   "FEMMINE": 0,
+   "INDIRIZZO": "CSO DI PORTA NUOVA 23"
+ },
+ {
+   "SEZIONE": 55,
+   "TIPO_SEZ": "N",
+   "MASCHI": 404,
+   "FEMMINE": 464,
+   "INDIRIZZO": "VIA DEGLI ANEMONI 10"
+ },
+ {
+   "SEZIONE": 56,
+   "TIPO_SEZ": "N",
+   "MASCHI": 457,
+   "FEMMINE": 434,
+   "INDIRIZZO": "VIA GOITO 4/A"
+ },
+ {
+   "SEZIONE": 57,
+   "TIPO_SEZ": "N",
+   "MASCHI": 371,
+   "FEMMINE": 452,
+   "INDIRIZZO": "VIA COLA DI RIENZO 1"
+ },
+ {
+   "SEZIONE": 58,
+   "TIPO_SEZ": "N",
+   "MASCHI": 335,
+   "FEMMINE": 370,
+   "INDIRIZZO": "VIA GOITO 4"
+ },
+ {
+   "SEZIONE": 59,
+   "TIPO_SEZ": "N",
+   "MASCHI": 391,
+   "FEMMINE": 423,
+   "INDIRIZZO": "VIA CILEA FRANCESCO, 12/A"
+ },
+ {
+   "SEZIONE": 61,
+   "TIPO_SEZ": "N",
+   "MASCHI": 424,
+   "FEMMINE": 485,
+   "INDIRIZZO": "PZA SICILIA 2"
+ },
+ {
+   "SEZIONE": 64,
+   "TIPO_SEZ": "N",
+   "MASCHI": 314,
+   "FEMMINE": 319,
+   "INDIRIZZO": "VIA DE NICOLA ENRICO 2/A"
+ },
+ {
+   "SEZIONE": 65,
+   "TIPO_SEZ": "N",
+   "MASCHI": 338,
+   "FEMMINE": 383,
+   "INDIRIZZO": "VIA GOITO 4"
+ },
+ {
+   "SEZIONE": 66,
+   "TIPO_SEZ": "N",
+   "MASCHI": 290,
+   "FEMMINE": 385,
+   "INDIRIZZO": "VIA VAL LAGARINA 44"
+ },
+ {
+   "SEZIONE": 69,
+   "TIPO_SEZ": "N",
+   "MASCHI": 334,
+   "FEMMINE": 385,
+   "INDIRIZZO": "VIA GOITO 4/A"
+ },
+ {
+   "SEZIONE": 72,
+   "TIPO_SEZ": "N",
+   "MASCHI": 320,
+   "FEMMINE": 368,
+   "INDIRIZZO": "VIA DELLE ANDE 4"
+ },
+ {
+   "SEZIONE": 73,
+   "TIPO_SEZ": "N",
+   "MASCHI": 297,
+   "FEMMINE": 297,
+   "INDIRIZZO": "VIA DELLA SPIGA 29"
+ },
+ {
+   "SEZIONE": 74,
+   "TIPO_SEZ": "N",
+   "MASCHI": 283,
+   "FEMMINE": 350,
+   "INDIRIZZO": "VIA BROCCHI VIRGILIO 5"
+ },
+ {
+   "SEZIONE": 78,
+   "TIPO_SEZ": "N",
+   "MASCHI": 308,
+   "FEMMINE": 342,
+   "INDIRIZZO": "VIA DELLA SPIGA 29"
+ },
+ {
+   "SEZIONE": 79,
+   "TIPO_SEZ": "N",
+   "MASCHI": 247,
+   "FEMMINE": 281,
+   "INDIRIZZO": "VIA DELLA SPIGA 29"
+ },
+ {
+   "SEZIONE": 80,
+   "TIPO_SEZ": "N",
+   "MASCHI": 355,
+   "FEMMINE": 411,
+   "INDIRIZZO": "VIA SCROSATI LUIGI 3/A"
+ },
+ {
+   "SEZIONE": 82,
+   "TIPO_SEZ": "N",
+   "MASCHI": 315,
+   "FEMMINE": 362,
+   "INDIRIZZO": "VIA DELLA SPIGA 29"
+ },
+ {
+   "SEZIONE": 83,
+   "TIPO_SEZ": "N",
+   "MASCHI": 335,
+   "FEMMINE": 379,
+   "INDIRIZZO": "VIA DELLA SPIGA 29"
+ },
+ {
+   "SEZIONE": 84,
+   "TIPO_SEZ": "N",
+   "MASCHI": 365,
+   "FEMMINE": 387,
+   "INDIRIZZO": "VIA DE NICOLA ENRICO 2/A"
+ },
+ {
+   "SEZIONE": 86,
+   "TIPO_SEZ": "N",
+   "MASCHI": 350,
+   "FEMMINE": 401,
+   "INDIRIZZO": "VIA MONTE VELINO 4"
+ },
+ {
+   "SEZIONE": 87,
+   "TIPO_SEZ": "N",
+   "MASCHI": 407,
+   "FEMMINE": 480,
+   "INDIRIZZO": "VIA PISACANE CARLO 9"
+ },
+ {
+   "SEZIONE": 88,
+   "TIPO_SEZ": "N",
+   "MASCHI": 434,
+   "FEMMINE": 496,
+   "INDIRIZZO": "VIA DEI GUARNERI 21"
+ },
+ {
+   "SEZIONE": 91,
+   "TIPO_SEZ": "N",
+   "MASCHI": 366,
+   "FEMMINE": 432,
+   "INDIRIZZO": "VIA CAGLIERO GIOVANNI 20"
+ },
+ {
+   "SEZIONE": 92,
+   "TIPO_SEZ": "N",
+   "MASCHI": 358,
+   "FEMMINE": 465,
+   "INDIRIZZO": "VIA OJETTI UGO 13"
+ },
+ {
+   "SEZIONE": 93,
+   "TIPO_SEZ": "O",
+   "MASCHI": 410,
+   "FEMMINE": 457,
+   "INDIRIZZO": "VIA SAVARE MANLIO E GIOAC. 2"
+ },
+ {
+   "SEZIONE": 94,
+   "TIPO_SEZ": "N",
+   "MASCHI": 336,
+   "FEMMINE": 377,
+   "INDIRIZZO": "VIA SAVARE MANLIO E GIOAC. 2"
+ },
+ {
+   "SEZIONE": 97,
+   "TIPO_SEZ": "N",
+   "MASCHI": 380,
+   "FEMMINE": 430,
+   "INDIRIZZO": "VIA OJETTI UGO 13"
+ },
+ {
+   "SEZIONE": 99,
+   "TIPO_SEZ": "N",
+   "MASCHI": 342,
+   "FEMMINE": 404,
+   "INDIRIZZO": "VIA SAVARE MANLIO E GIOAC. 2"
+ },
+ {
+   "SEZIONE": 100,
+   "TIPO_SEZ": "N",
+   "MASCHI": 416,
+   "FEMMINE": 421,
+   "INDIRIZZO": "VIA DE NICOLA ENRICO 2/A"
+ },
+ {
+   "SEZIONE": 104,
+   "TIPO_SEZ": "N",
+   "MASCHI": 413,
+   "FEMMINE": 505,
+   "INDIRIZZO": "VIA PISACANE CARLO 9/A"
+ },
+ {
+   "SEZIONE": 105,
+   "TIPO_SEZ": "N",
+   "MASCHI": 292,
+   "FEMMINE": 361,
+   "INDIRIZZO": "VIA BROCCHI VIRGILIO 5"
+ },
+ {
+   "SEZIONE": 106,
+   "TIPO_SEZ": "N",
+   "MASCHI": 365,
+   "FEMMINE": 445,
+   "INDIRIZZO": "VIA PISACANE CARLO 13"
+ },
+ {
+   "SEZIONE": 109,
+   "TIPO_SEZ": "N",
+   "MASCHI": 403,
+   "FEMMINE": 449,
+   "INDIRIZZO": "VIA PISACANE CARLO 13"
+ },
+ {
+   "SEZIONE": 110,
+   "TIPO_SEZ": "N",
+   "MASCHI": 349,
+   "FEMMINE": 370,
+   "INDIRIZZO": "VIA PISACANE CARLO 9/A"
+ },
+ {
+   "SEZIONE": 111,
+   "TIPO_SEZ": "N",
+   "MASCHI": 337,
+   "FEMMINE": 394,
+   "INDIRIZZO": "VIA PISACANE CARLO 13"
+ },
+ {
+   "SEZIONE": 112,
+   "TIPO_SEZ": "N",
+   "MASCHI": 355,
+   "FEMMINE": 414,
+   "INDIRIZZO": "PZA ASCOLI GRAZIADIO ISAIA 2/A"
+ },
+ {
+   "SEZIONE": 113,
+   "TIPO_SEZ": "N",
+   "MASCHI": 490,
+   "FEMMINE": 575,
+   "INDIRIZZO": "VIA PISACANE CARLO 9/A"
+ },
+ {
+   "SEZIONE": 114,
+   "TIPO_SEZ": "N",
+   "MASCHI": 363,
+   "FEMMINE": 439,
+   "INDIRIZZO": "VIA PISACANE CARLO 13"
+ },
+ {
+   "SEZIONE": 116,
+   "TIPO_SEZ": "N",
+   "MASCHI": 296,
+   "FEMMINE": 370,
+   "INDIRIZZO": "VIA PISACANE CARLO 13"
+ },
+ {
+   "SEZIONE": 117,
+   "TIPO_SEZ": "N",
+   "MASCHI": 425,
+   "FEMMINE": 460,
+   "INDIRIZZO": "VIA SAN MAMETE 11/A"
+ },
+ {
+   "SEZIONE": 119,
+   "TIPO_SEZ": "N",
+   "MASCHI": 289,
+   "FEMMINE": 371,
+   "INDIRIZZO": "VIA DEI SALICI 2"
+ },
+ {
+   "SEZIONE": 120,
+   "TIPO_SEZ": "N",
+   "MASCHI": 378,
+   "FEMMINE": 439,
+   "INDIRIZZO": "VIA IVREA 6"
+ },
+ {
+   "SEZIONE": 122,
+   "TIPO_SEZ": "N",
+   "MASCHI": 337,
+   "FEMMINE": 412,
+   "INDIRIZZO": "VIA PISACANE CARLO 9"
+ },
+ {
+   "SEZIONE": 123,
+   "TIPO_SEZ": "N",
+   "MASCHI": 362,
+   "FEMMINE": 427,
+   "INDIRIZZO": "VIA MOROSINI EMILIO 11"
+ },
+ {
+   "SEZIONE": 125,
+   "TIPO_SEZ": "N",
+   "MASCHI": 426,
+   "FEMMINE": 466,
+   "INDIRIZZO": "VIA SCIALOIA VITTORIO 19"
+ },
+ {
+   "SEZIONE": 126,
+   "TIPO_SEZ": "N",
+   "MASCHI": 388,
+   "FEMMINE": 464,
+   "INDIRIZZO": "VIA BEZZECCA 18"
+ },
+ {
+   "SEZIONE": 128,
+   "TIPO_SEZ": "N",
+   "MASCHI": 400,
+   "FEMMINE": 480,
+   "INDIRIZZO": "VIA PISACANE CARLO 13"
+ },
+ {
+   "SEZIONE": 129,
+   "TIPO_SEZ": "N",
+   "MASCHI": 387,
+   "FEMMINE": 498,
+   "INDIRIZZO": "VIA PISACANE CARLO 9"
+ },
+ {
+   "SEZIONE": 130,
+   "TIPO_SEZ": "N",
+   "MASCHI": 373,
+   "FEMMINE": 430,
+   "INDIRIZZO": "VIA PISACANE CARLO 9"
+ },
+ {
+   "SEZIONE": 131,
+   "TIPO_SEZ": "N",
+   "MASCHI": 350,
+   "FEMMINE": 445,
+   "INDIRIZZO": "VIA MOROSINI EMILIO 11/A"
+ },
+ {
+   "SEZIONE": 135,
+   "TIPO_SEZ": "N",
+   "MASCHI": 351,
+   "FEMMINE": 478,
+   "INDIRIZZO": "VIA MOROSINI EMILIO 11"
+ },
+ {
+   "SEZIONE": 138,
+   "TIPO_SEZ": "N",
+   "MASCHI": 332,
+   "FEMMINE": 389,
+   "INDIRIZZO": "VIA MOROSINI EMILIO 11/A"
+ },
+ {
+   "SEZIONE": 139,
+   "TIPO_SEZ": "N",
+   "MASCHI": 339,
+   "FEMMINE": 404,
+   "INDIRIZZO": "VIA MOROSINI EMILIO 11/A"
+ },
+ {
+   "SEZIONE": 140,
+   "TIPO_SEZ": "N",
+   "MASCHI": 374,
+   "FEMMINE": 460,
+   "INDIRIZZO": "VIA MOROSINI EMILIO 11/A"
+ },
+ {
+   "SEZIONE": 141,
+   "TIPO_SEZ": "S",
+   "MASCHI": 409,
+   "FEMMINE": 455,
+   "INDIRIZZO": "VLE MUGELLO 3"
+ },
+ {
+   "SEZIONE": 142,
+   "TIPO_SEZ": "N",
+   "MASCHI": 368,
+   "FEMMINE": 452,
+   "INDIRIZZO": "VLE MUGELLO 5"
+ },
+ {
+   "SEZIONE": 144,
+   "TIPO_SEZ": "N",
+   "MASCHI": 310,
+   "FEMMINE": 397,
+   "INDIRIZZO": "VIA BORSA MARIO 26"
+ },
+ {
+   "SEZIONE": 146,
+   "TIPO_SEZ": "N",
+   "MASCHI": 368,
+   "FEMMINE": 452,
+   "INDIRIZZO": "VLE MUGELLO 3"
+ },
+ {
+   "SEZIONE": 147,
+   "TIPO_SEZ": "O",
+   "MASCHI": 324,
+   "FEMMINE": 390,
+   "INDIRIZZO": "VLE MUGELLO 3"
+ },
+ {
+   "SEZIONE": 149,
+   "TIPO_SEZ": "N",
+   "MASCHI": 379,
+   "FEMMINE": 485,
+   "INDIRIZZO": "VIA MOROSINI EMILIO 11"
+ },
+ {
+   "SEZIONE": 151,
+   "TIPO_SEZ": "N",
+   "MASCHI": 307,
+   "FEMMINE": 372,
+   "INDIRIZZO": "VIA MOROSINI EMILIO 11"
+ },
+ {
+   "SEZIONE": 152,
+   "TIPO_SEZ": "N",
+   "MASCHI": 340,
+   "FEMMINE": 377,
+   "INDIRIZZO": "VIA MOROSINI EMILIO 11/A"
+ },
+ {
+   "SEZIONE": 153,
+   "TIPO_SEZ": "N",
+   "MASCHI": 268,
+   "FEMMINE": 305,
+   "INDIRIZZO": "VIA BEZZECCA 18"
+ },
+ {
+   "SEZIONE": 157,
+   "TIPO_SEZ": "N",
+   "MASCHI": 395,
+   "FEMMINE": 425,
+   "INDIRIZZO": "VIA BEZZECCA 18"
+ },
+ {
+   "SEZIONE": 158,
+   "TIPO_SEZ": "N",
+   "MASCHI": 377,
+   "FEMMINE": 435,
+   "INDIRIZZO": "VIA MOROSINI EMILIO 11/A"
+ },
+ {
+   "SEZIONE": 160,
+   "TIPO_SEZ": "N",
+   "MASCHI": 233,
+   "FEMMINE": 276,
+   "INDIRIZZO": "VIA DELLA COMMENDA 22"
+ },
+ {
+   "SEZIONE": 161,
+   "TIPO_SEZ": "N",
+   "MASCHI": 132,
+   "FEMMINE": 153,
+   "INDIRIZZO": "VIA POLESINE 12"
+ },
+ {
+   "SEZIONE": 162,
+   "TIPO_SEZ": "O",
+   "MASCHI": 1,
+   "FEMMINE": 0,
+   "INDIRIZZO": "VIA DELLA COMMENDA 12"
+ },
+ {
+   "SEZIONE": 164,
+   "TIPO_SEZ": "N",
+   "MASCHI": 307,
+   "FEMMINE": 313,
+   "INDIRIZZO": "VIA DELLA COMMENDA 24"
+ },
+ {
+   "SEZIONE": 167,
+   "TIPO_SEZ": "N",
+   "MASCHI": 277,
+   "FEMMINE": 322,
+   "INDIRIZZO": "VIA DELLA COMMENDA 24"
+ },
+ {
+   "SEZIONE": 168,
+   "TIPO_SEZ": "N",
+   "MASCHI": 368,
+   "FEMMINE": 301,
+   "INDIRIZZO": "VIA DELLA COMMENDA 24"
+ },
+ {
+   "SEZIONE": 169,
+   "TIPO_SEZ": "O",
+   "MASCHI": 326,
+   "FEMMINE": 428,
+   "INDIRIZZO": "VIA DELLA COMMENDA 24"
+ },
+ {
+   "SEZIONE": 172,
+   "TIPO_SEZ": "N",
+   "MASCHI": 337,
+   "FEMMINE": 398,
+   "INDIRIZZO": "VIA VISCONTI ALEX 16"
+ },
+ {
+   "SEZIONE": 173,
+   "TIPO_SEZ": "N",
+   "MASCHI": 184,
+   "FEMMINE": 219,
+   "INDIRIZZO": "VIA DELLA COMMENDA 22"
+ },
+ {
+   "SEZIONE": 175,
+   "TIPO_SEZ": "N",
+   "MASCHI": 397,
+   "FEMMINE": 482,
+   "INDIRIZZO": "VIA DELLA COMMENDA 22"
+ },
+ {
+   "SEZIONE": 177,
+   "TIPO_SEZ": "N",
+   "MASCHI": 301,
+   "FEMMINE": 359,
+   "INDIRIZZO": "VIA BROCCHI VIRGILIO 5"
+ },
+ {
+   "SEZIONE": 179,
+   "TIPO_SEZ": "N",
+   "MASCHI": 327,
+   "FEMMINE": 394,
+   "INDIRIZZO": "CSO PORTA ROMANA 112"
+ },
+ {
+   "SEZIONE": 181,
+   "TIPO_SEZ": "N",
+   "MASCHI": 498,
+   "FEMMINE": 493,
+   "INDIRIZZO": "VIA DEI GUARNERI 21"
+ },
+ {
+   "SEZIONE": 182,
+   "TIPO_SEZ": "N",
+   "MASCHI": 324,
+   "FEMMINE": 396,
+   "INDIRIZZO": "CSO PORTA ROMANA 112"
+ },
+ {
+   "SEZIONE": 184,
+   "TIPO_SEZ": "O",
+   "MASCHI": 429,
+   "FEMMINE": 448,
+   "INDIRIZZO": "VIA DELLA COMMENDA 24"
+ },
+ {
+   "SEZIONE": 185,
+   "TIPO_SEZ": "N",
+   "MASCHI": 319,
+   "FEMMINE": 376,
+   "INDIRIZZO": "VIA SAVONA 71/B"
+ },
+ {
+   "SEZIONE": 186,
+   "TIPO_SEZ": "N",
+   "MASCHI": 348,
+   "FEMMINE": 455,
+   "INDIRIZZO": "VIA MOROSINI EMILIO 11"
+ },
+ {
+   "SEZIONE": 187,
+   "TIPO_SEZ": "N",
+   "MASCHI": 324,
+   "FEMMINE": 380,
+   "INDIRIZZO": "VIA LORIA MOISE 37"
+ },
+ {
+   "SEZIONE": 188,
+   "TIPO_SEZ": "N",
+   "MASCHI": 402,
+   "FEMMINE": 467,
+   "INDIRIZZO": "VIA EINSTEIN ALBERTO 3/A"
+ },
+ {
+   "SEZIONE": 189,
+   "TIPO_SEZ": "N",
+   "MASCHI": 361,
+   "FEMMINE": 428,
+   "INDIRIZZO": "VIA EINSTEIN ALBERTO 3/A"
+ },
+ {
+   "SEZIONE": 190,
+   "TIPO_SEZ": "N",
+   "MASCHI": 342,
+   "FEMMINE": 397,
+   "INDIRIZZO": "VIA COLLETTA PIETRO 49/A"
+ },
+ {
+   "SEZIONE": 191,
+   "TIPO_SEZ": "N",
+   "MASCHI": 383,
+   "FEMMINE": 381,
+   "INDIRIZZO": "VIA COLLETTA PIETRO 49/A"
+ },
+ {
+   "SEZIONE": 193,
+   "TIPO_SEZ": "N",
+   "MASCHI": 428,
+   "FEMMINE": 493,
+   "INDIRIZZO": "VIA COLLETTA PIETRO 49/A"
+ },
+ {
+   "SEZIONE": 195,
+   "TIPO_SEZ": "N",
+   "MASCHI": 341,
+   "FEMMINE": 384,
+   "INDIRIZZO": "VIA COLLETTA PIETRO 49"
+ },
+ {
+   "SEZIONE": 196,
+   "TIPO_SEZ": "N",
+   "MASCHI": 317,
+   "FEMMINE": 364,
+   "INDIRIZZO": "VIA COLLETTA PIETRO 49/A"
+ },
+ {
+   "SEZIONE": 197,
+   "TIPO_SEZ": "N",
+   "MASCHI": 350,
+   "FEMMINE": 426,
+   "INDIRIZZO": "VIA VISCONTI ALEX 16"
+ },
+ {
+   "SEZIONE": 198,
+   "TIPO_SEZ": "N",
+   "MASCHI": 354,
+   "FEMMINE": 429,
+   "INDIRIZZO": "VIA COLLETTA PIETRO 49"
+ },
+ {
+   "SEZIONE": 199,
+   "TIPO_SEZ": "N",
+   "MASCHI": 317,
+   "FEMMINE": 331,
+   "INDIRIZZO": "VIA CILEA FRANCESCO 12"
+ },
+ {
+   "SEZIONE": 200,
+   "TIPO_SEZ": "N",
+   "MASCHI": 322,
+   "FEMMINE": 383,
+   "INDIRIZZO": "VIA ROMANO GIULIO 2/A"
+ },
+ {
+   "SEZIONE": 201,
+   "TIPO_SEZ": "N",
+   "MASCHI": 360,
+   "FEMMINE": 410,
+   "INDIRIZZO": "VIA ROMANO GIULIO 2"
+ },
+ {
+   "SEZIONE": 204,
+   "TIPO_SEZ": "N",
+   "MASCHI": 441,
+   "FEMMINE": 522,
+   "INDIRIZZO": "VIA FORZE ARMATE 279"
+ },
+ {
+   "SEZIONE": 205,
+   "TIPO_SEZ": "N",
+   "MASCHI": 364,
+   "FEMMINE": 389,
+   "INDIRIZZO": "VIA VISCONTI ALEX 16"
+ },
+ {
+   "SEZIONE": 206,
+   "TIPO_SEZ": "N",
+   "MASCHI": 329,
+   "FEMMINE": 391,
+   "INDIRIZZO": "VIA ROMANO GIULIO 2/A"
+ },
+ {
+   "SEZIONE": 207,
+   "TIPO_SEZ": "N",
+   "MASCHI": 295,
+   "FEMMINE": 364,
+   "INDIRIZZO": "VIA ROMANO GIULIO 2/A"
+ },
+ {
+   "SEZIONE": 208,
+   "TIPO_SEZ": "N",
+   "MASCHI": 379,
+   "FEMMINE": 420,
+   "INDIRIZZO": "VIA ROMANO GIULIO 2/A"
+ },
+ {
+   "SEZIONE": 212,
+   "TIPO_SEZ": "N",
+   "MASCHI": 342,
+   "FEMMINE": 363,
+   "INDIRIZZO": "VIA BOCCONI FERDINANDO 17"
+ },
+ {
+   "SEZIONE": 213,
+   "TIPO_SEZ": "N",
+   "MASCHI": 316,
+   "FEMMINE": 364,
+   "INDIRIZZO": "VIA BOCCONI FERDINANDO 17"
+ },
+ {
+   "SEZIONE": 214,
+   "TIPO_SEZ": "N",
+   "MASCHI": 326,
+   "FEMMINE": 392,
+   "INDIRIZZO": "VIA CILEA FRANCESCO 12"
+ },
+ {
+   "SEZIONE": 215,
+   "TIPO_SEZ": "N",
+   "MASCHI": 450,
+   "FEMMINE": 501,
+   "INDIRIZZO": "VIA ROMANO GIULIO 2"
+ },
+ {
+   "SEZIONE": 217,
+   "TIPO_SEZ": "N",
+   "MASCHI": 347,
+   "FEMMINE": 430,
+   "INDIRIZZO": "VIA BOCCONI FERDINANDO 17"
+ },
+ {
+   "SEZIONE": 220,
+   "TIPO_SEZ": "S",
+   "MASCHI": 266,
+   "FEMMINE": 389,
+   "INDIRIZZO": "VIA QUADRONNO 32"
+ },
+ {
+   "SEZIONE": 221,
+   "TIPO_SEZ": "N",
+   "MASCHI": 314,
+   "FEMMINE": 392,
+   "INDIRIZZO": "VIA FORZE ARMATE 279/A"
+ },
+ {
+   "SEZIONE": 223,
+   "TIPO_SEZ": "N",
+   "MASCHI": 426,
+   "FEMMINE": 526,
+   "INDIRIZZO": "VIA QUADRONNO 32"
+ },
+ {
+   "SEZIONE": 224,
+   "TIPO_SEZ": "N",
+   "MASCHI": 310,
+   "FEMMINE": 335,
+   "INDIRIZZO": "VIA QUADRONNO 32"
+ },
+ {
+   "SEZIONE": 226,
+   "TIPO_SEZ": "N",
+   "MASCHI": 316,
+   "FEMMINE": 373,
+   "INDIRIZZO": "VIA QUADRONNO 32"
+ },
+ {
+   "SEZIONE": 229,
+   "TIPO_SEZ": "N",
+   "MASCHI": 277,
+   "FEMMINE": 348,
+   "INDIRIZZO": "VIA BOCCONI FERDINANDO 17"
+ },
+ {
+   "SEZIONE": 230,
+   "TIPO_SEZ": "N",
+   "MASCHI": 392,
+   "FEMMINE": 451,
+   "INDIRIZZO": "VIA ROMANO GIULIO 2/A"
+ },
+ {
+   "SEZIONE": 232,
+   "TIPO_SEZ": "N",
+   "MASCHI": 324,
+   "FEMMINE": 374,
+   "INDIRIZZO": "VIA DELLA GIUSTIZIA 6"
+ },
+ {
+   "SEZIONE": 234,
+   "TIPO_SEZ": "N",
+   "MASCHI": 314,
+   "FEMMINE": 350,
+   "INDIRIZZO": "VIA BOCCONI FERDINANDO 17"
+ },
+ {
+   "SEZIONE": 235,
+   "TIPO_SEZ": "N",
+   "MASCHI": 271,
+   "FEMMINE": 321,
+   "INDIRIZZO": "VIA BOCCONI FERDINANDO 15"
+ },
+ {
+   "SEZIONE": 236,
+   "TIPO_SEZ": "N",
+   "MASCHI": 325,
+   "FEMMINE": 376,
+   "INDIRIZZO": "VIA BOCCONI FERDINANDO 15"
+ },
+ {
+   "SEZIONE": 237,
+   "TIPO_SEZ": "N",
+   "MASCHI": 345,
+   "FEMMINE": 423,
+   "INDIRIZZO": "VIA GENTILINO 14"
+ },
+ {
+   "SEZIONE": 238,
+   "TIPO_SEZ": "N",
+   "MASCHI": 410,
+   "FEMMINE": 463,
+   "INDIRIZZO": "VIA GENTILINO 14"
+ },
+ {
+   "SEZIONE": 240,
+   "TIPO_SEZ": "N",
+   "MASCHI": 375,
+   "FEMMINE": 459,
+   "INDIRIZZO": "VIA GENTILINO 14"
+ },
+ {
+   "SEZIONE": 242,
+   "TIPO_SEZ": "N",
+   "MASCHI": 465,
+   "FEMMINE": 510,
+   "INDIRIZZO": "VIA GENTILINO 14"
+ },
+ {
+   "SEZIONE": 243,
+   "TIPO_SEZ": "N",
+   "MASCHI": 328,
+   "FEMMINE": 382,
+   "INDIRIZZO": "VIA BRUNACCI VINCENZO 2/A"
+ },
+ {
+   "SEZIONE": 246,
+   "TIPO_SEZ": "N",
+   "MASCHI": 311,
+   "FEMMINE": 379,
+   "INDIRIZZO": "VIA CROCEFISSO 11/A"
+ },
+ {
+   "SEZIONE": 250,
+   "TIPO_SEZ": "N",
+   "MASCHI": 334,
+   "FEMMINE": 395,
+   "INDIRIZZO": "VIA CROCEFISSO 11/A"
+ },
+ {
+   "SEZIONE": 251,
+   "TIPO_SEZ": "O",
+   "MASCHI": 35,
+   "FEMMINE": 169,
+   "INDIRIZZO": "VIA DEI PANIGAROLA 14"
+ },
+ {
+   "SEZIONE": 252,
+   "TIPO_SEZ": "N",
+   "MASCHI": 400,
+   "FEMMINE": 421,
+   "INDIRIZZO": "VIA CROCEFISSO 11/A"
+ },
+ {
+   "SEZIONE": 257,
+   "TIPO_SEZ": "N",
+   "MASCHI": 347,
+   "FEMMINE": 406,
+   "INDIRIZZO": "VIA ARIBERTO 14"
+ },
+ {
+   "SEZIONE": 259,
+   "TIPO_SEZ": "N",
+   "MASCHI": 330,
+   "FEMMINE": 386,
+   "INDIRIZZO": "VIA BORSA MARIO 26"
+ },
+ {
+   "SEZIONE": 262,
+   "TIPO_SEZ": "N",
+   "MASCHI": 339,
+   "FEMMINE": 403,
+   "INDIRIZZO": "VIA WOLF FERRARI ERMANNO 6"
+ },
+ {
+   "SEZIONE": 263,
+   "TIPO_SEZ": "N",
+   "MASCHI": 378,
+   "FEMMINE": 438,
+   "INDIRIZZO": "VIA ARIBERTO 14/A"
+ },
+ {
+   "SEZIONE": 264,
+   "TIPO_SEZ": "N",
+   "MASCHI": 419,
+   "FEMMINE": 504,
+   "INDIRIZZO": "VIA ARIBERTO 14"
+ },
+ {
+   "SEZIONE": 265,
+   "TIPO_SEZ": "N",
+   "MASCHI": 418,
+   "FEMMINE": 492,
+   "INDIRIZZO": "VIA ARIBERTO 14/A"
+ },
+ {
+   "SEZIONE": 269,
+   "TIPO_SEZ": "N",
+   "MASCHI": 361,
+   "FEMMINE": 485,
+   "INDIRIZZO": "VIA ARIBERTO 14/A"
+ },
+ {
+   "SEZIONE": 271,
+   "TIPO_SEZ": "S",
+   "MASCHI": 305,
+   "FEMMINE": 376,
+   "INDIRIZZO": "VIA OLONA 14"
+ },
+ {
+   "SEZIONE": 272,
+   "TIPO_SEZ": "S",
+   "MASCHI": 339,
+   "FEMMINE": 278,
+   "INDIRIZZO": "VIA OLONA 14"
+ },
+ {
+   "SEZIONE": 274,
+   "TIPO_SEZ": "N",
+   "MASCHI": 267,
+   "FEMMINE": 325,
+   "INDIRIZZO": "VIA CRIMEA 22/A"
+ },
+ {
+   "SEZIONE": 277,
+   "TIPO_SEZ": "S",
+   "MASCHI": 364,
+   "FEMMINE": 473,
+   "INDIRIZZO": "VIA DALMAZIA 4"
+ },
+ {
+   "SEZIONE": 279,
+   "TIPO_SEZ": "N",
+   "MASCHI": 405,
+   "FEMMINE": 488,
+   "INDIRIZZO": "VIA GENTILINO 10"
+ },
+ {
+   "SEZIONE": 280,
+   "TIPO_SEZ": "N",
+   "MASCHI": 399,
+   "FEMMINE": 496,
+   "INDIRIZZO": "VIA GENTILINO 10"
+ },
+ {
+   "SEZIONE": 281,
+   "TIPO_SEZ": "N",
+   "MASCHI": 433,
+   "FEMMINE": 458,
+   "INDIRIZZO": "VIA GENTILINO 10"
+ },
+ {
+   "SEZIONE": 282,
+   "TIPO_SEZ": "N",
+   "MASCHI": 283,
+   "FEMMINE": 321,
+   "INDIRIZZO": "VIA SALERNO 1"
+ },
+ {
+   "SEZIONE": 284,
+   "TIPO_SEZ": "N",
+   "MASCHI": 321,
+   "FEMMINE": 433,
+   "INDIRIZZO": "VIA GENTILINO 10"
+ },
+ {
+   "SEZIONE": 286,
+   "TIPO_SEZ": "N",
+   "MASCHI": 400,
+   "FEMMINE": 423,
+   "INDIRIZZO": "VIA GENTILINO 10"
+ },
+ {
+   "SEZIONE": 288,
+   "TIPO_SEZ": "N",
+   "MASCHI": 311,
+   "FEMMINE": 395,
+   "INDIRIZZO": "VIA GENTILINO 10"
+ },
+ {
+   "SEZIONE": 291,
+   "TIPO_SEZ": "N",
+   "MASCHI": 334,
+   "FEMMINE": 416,
+   "INDIRIZZO": "VIA BRUNACCI VINCENZO 2/A"
+ },
+ {
+   "SEZIONE": 292,
+   "TIPO_SEZ": "N",
+   "MASCHI": 307,
+   "FEMMINE": 353,
+   "INDIRIZZO": "VIA BRUNACCI VINCENZO 2/A"
+ },
+ {
+   "SEZIONE": 294,
+   "TIPO_SEZ": "N",
+   "MASCHI": 383,
+   "FEMMINE": 427,
+   "INDIRIZZO": "VIA BRUNACCI VINCENZO 2/A"
+ },
+ {
+   "SEZIONE": 295,
+   "TIPO_SEZ": "N",
+   "MASCHI": 365,
+   "FEMMINE": 409,
+   "INDIRIZZO": "VIA SALERNO 3/A"
+ },
+ {
+   "SEZIONE": 297,
+   "TIPO_SEZ": "N",
+   "MASCHI": 289,
+   "FEMMINE": 381,
+   "INDIRIZZO": "VIA DEI SALICI 2"
+ },
+ {
+   "SEZIONE": 299,
+   "TIPO_SEZ": "N",
+   "MASCHI": 336,
+   "FEMMINE": 372,
+   "INDIRIZZO": "VIA VIGEVANO 19"
+ },
+ {
+   "SEZIONE": 300,
+   "TIPO_SEZ": "N",
+   "MASCHI": 443,
+   "FEMMINE": 488,
+   "INDIRIZZO": "VIA VIGEVANO 19"
+ },
+ {
+   "SEZIONE": 301,
+   "TIPO_SEZ": "N",
+   "MASCHI": 428,
+   "FEMMINE": 526,
+   "INDIRIZZO": "VIA VIGEVANO 19"
+ },
+ {
+   "SEZIONE": 303,
+   "TIPO_SEZ": "N",
+   "MASCHI": 347,
+   "FEMMINE": 395,
+   "INDIRIZZO": "VIA VIGEVANO 19"
+ },
+ {
+   "SEZIONE": 305,
+   "TIPO_SEZ": "O",
+   "MASCHI": 365,
+   "FEMMINE": 527,
+   "INDIRIZZO": "VIA DEGLI ANEMONI 10"
+ },
+ {
+   "SEZIONE": 306,
+   "TIPO_SEZ": "N",
+   "MASCHI": 374,
+   "FEMMINE": 440,
+   "INDIRIZZO": "VIA VIGEVANO 19"
+ },
+ {
+   "SEZIONE": 309,
+   "TIPO_SEZ": "N",
+   "MASCHI": 322,
+   "FEMMINE": 410,
+   "INDIRIZZO": "VIA VIGEVANO 19"
+ },
+ {
+   "SEZIONE": 311,
+   "TIPO_SEZ": "N",
+   "MASCHI": 490,
+   "FEMMINE": 529,
+   "INDIRIZZO": "VIA TOSI FRANCO 21"
+ },
+ {
+   "SEZIONE": 313,
+   "TIPO_SEZ": "N",
+   "MASCHI": 405,
+   "FEMMINE": 459,
+   "INDIRIZZO": "VIA PESTALOZZI GIOVANNI 13"
+ },
+ {
+   "SEZIONE": 315,
+   "TIPO_SEZ": "N",
+   "MASCHI": 327,
+   "FEMMINE": 410,
+   "INDIRIZZO": "VIA ARIBERTO 14"
+ },
+ {
+   "SEZIONE": 316,
+   "TIPO_SEZ": "N",
+   "MASCHI": 339,
+   "FEMMINE": 404,
+   "INDIRIZZO": "VIA ARIBERTO 14"
+ },
+ {
+   "SEZIONE": 317,
+   "TIPO_SEZ": "N",
+   "MASCHI": 226,
+   "FEMMINE": 294,
+   "INDIRIZZO": "VIA OLONA 14/A"
+ },
+ {
+   "SEZIONE": 319,
+   "TIPO_SEZ": "N",
+   "MASCHI": 382,
+   "FEMMINE": 509,
+   "INDIRIZZO": "VIA ARIBERTO 14/A"
+ },
+ {
+   "SEZIONE": 320,
+   "TIPO_SEZ": "N",
+   "MASCHI": 273,
+   "FEMMINE": 307,
+   "INDIRIZZO": "VIA SAVONA 71/B"
+ },
+ {
+   "SEZIONE": 321,
+   "TIPO_SEZ": "N",
+   "MASCHI": 456,
+   "FEMMINE": 498,
+   "INDIRIZZO": "VIA MONTE POPERA 12/A"
+ },
+ {
+   "SEZIONE": 322,
+   "TIPO_SEZ": "N",
+   "MASCHI": 319,
+   "FEMMINE": 368,
+   "INDIRIZZO": "VIA SAVONA 71/B"
+ },
+ {
+   "SEZIONE": 323,
+   "TIPO_SEZ": "N",
+   "MASCHI": 314,
+   "FEMMINE": 401,
+   "INDIRIZZO": "VIA ANCO MARZIO 9"
+ },
+ {
+   "SEZIONE": 324,
+   "TIPO_SEZ": "N",
+   "MASCHI": 300,
+   "FEMMINE": 374,
+   "INDIRIZZO": "VIA ANCO MARZIO 9"
+ },
+ {
+   "SEZIONE": 325,
+   "TIPO_SEZ": "N",
+   "MASCHI": 322,
+   "FEMMINE": 440,
+   "INDIRIZZO": "VIA COLA DI RIENZO 1"
+ },
+ {
+   "SEZIONE": 326,
+   "TIPO_SEZ": "N",
+   "MASCHI": 278,
+   "FEMMINE": 354,
+   "INDIRIZZO": "VIA CRIMEA 22"
+ },
+ {
+   "SEZIONE": 327,
+   "TIPO_SEZ": "N",
+   "MASCHI": 277,
+   "FEMMINE": 367,
+   "INDIRIZZO": "VIA SAVONA 71/B"
+ },
+ {
+   "SEZIONE": 329,
+   "TIPO_SEZ": "N",
+   "MASCHI": 432,
+   "FEMMINE": 469,
+   "INDIRIZZO": "VIA DELL' ARCADIA 22/A"
+ },
+ {
+   "SEZIONE": 331,
+   "TIPO_SEZ": "N",
+   "MASCHI": 409,
+   "FEMMINE": 489,
+   "INDIRIZZO": "VIA MAURI ANGELO 10"
+ },
+ {
+   "SEZIONE": 333,
+   "TIPO_SEZ": "N",
+   "MASCHI": 369,
+   "FEMMINE": 409,
+   "INDIRIZZO": "VIA FLLI RUFFINI 4"
+ },
+ {
+   "SEZIONE": 334,
+   "TIPO_SEZ": "N",
+   "MASCHI": 353,
+   "FEMMINE": 444,
+   "INDIRIZZO": "VIA FLLI RUFFINI 4/A"
+ },
+ {
+   "SEZIONE": 335,
+   "TIPO_SEZ": "N",
+   "MASCHI": 361,
+   "FEMMINE": 423,
+   "INDIRIZZO": "VIA ASTURIE 1"
+ },
+ {
+   "SEZIONE": 336,
+   "TIPO_SEZ": "N",
+   "MASCHI": 368,
+   "FEMMINE": 438,
+   "INDIRIZZO": "VIA FLLI RUFFINI 4"
+ },
+ {
+   "SEZIONE": 337,
+   "TIPO_SEZ": "O",
+   "MASCHI": 317,
+   "FEMMINE": 358,
+   "INDIRIZZO": "VIA FLLI RUFFINI 4/A"
+ },
+ {
+   "SEZIONE": 338,
+   "TIPO_SEZ": "N",
+   "MASCHI": 378,
+   "FEMMINE": 417,
+   "INDIRIZZO": "VIA FLLI RUFFINI 4/A"
+ },
+ {
+   "SEZIONE": 340,
+   "TIPO_SEZ": "N",
+   "MASCHI": 411,
+   "FEMMINE": 477,
+   "INDIRIZZO": "VIA SAPONARO MICHELE 20/A"
+ },
+ {
+   "SEZIONE": 342,
+   "TIPO_SEZ": "N",
+   "MASCHI": 390,
+   "FEMMINE": 403,
+   "INDIRIZZO": "VIA FLLI RUFFINI 4"
+ },
+ {
+   "SEZIONE": 343,
+   "TIPO_SEZ": "N",
+   "MASCHI": 433,
+   "FEMMINE": 499,
+   "INDIRIZZO": "VIA IVREA 6"
+ },
+ {
+   "SEZIONE": 345,
+   "TIPO_SEZ": "N",
+   "MASCHI": 315,
+   "FEMMINE": 361,
+   "INDIRIZZO": "VIA MAURI ANGELO 5/A"
+ },
+ {
+   "SEZIONE": 346,
+   "TIPO_SEZ": "N",
+   "MASCHI": 377,
+   "FEMMINE": 415,
+   "INDIRIZZO": "VIA FLLI RUFFINI 4"
+ },
+ {
+   "SEZIONE": 348,
+   "TIPO_SEZ": "N",
+   "MASCHI": 374,
+   "FEMMINE": 410,
+   "INDIRIZZO": "VIA BEZZECCA 18"
+ },
+ {
+   "SEZIONE": 350,
+   "TIPO_SEZ": "N",
+   "MASCHI": 426,
+   "FEMMINE": 486,
+   "INDIRIZZO": "VIA RASORI GIOVANNI 19"
+ },
+ {
+   "SEZIONE": 351,
+   "TIPO_SEZ": "N",
+   "MASCHI": 366,
+   "FEMMINE": 408,
+   "INDIRIZZO": "VIA RASORI GIOVANNI 19"
+ },
+ {
+   "SEZIONE": 353,
+   "TIPO_SEZ": "N",
+   "MASCHI": 357,
+   "FEMMINE": 421,
+   "INDIRIZZO": "VIA RASORI GIOVANNI 19"
+ },
+ {
+   "SEZIONE": 354,
+   "TIPO_SEZ": "N",
+   "MASCHI": 307,
+   "FEMMINE": 386,
+   "INDIRIZZO": "VIA MAURI ANGELO 5/A"
+ },
+ {
+   "SEZIONE": 357,
+   "TIPO_SEZ": "N",
+   "MASCHI": 219,
+   "FEMMINE": 286,
+   "INDIRIZZO": "VIA OLONA 14/A"
+ },
+ {
+   "SEZIONE": 362,
+   "TIPO_SEZ": "N",
+   "MASCHI": 370,
+   "FEMMINE": 425,
+   "INDIRIZZO": "VIA LORIA MOISE 37/A"
+ },
+ {
+   "SEZIONE": 363,
+   "TIPO_SEZ": "N",
+   "MASCHI": 382,
+   "FEMMINE": 479,
+   "INDIRIZZO": "VIA COLA DI RIENZO 1"
+ },
+ {
+   "SEZIONE": 364,
+   "TIPO_SEZ": "N",
+   "MASCHI": 361,
+   "FEMMINE": 449,
+   "INDIRIZZO": "VIA MATTEI GIANFRANCO 12/A"
+ },
+ {
+   "SEZIONE": 365,
+   "TIPO_SEZ": "S",
+   "MASCHI": 363,
+   "FEMMINE": 495,
+   "INDIRIZZO": "VIA LORIA MOISE 37"
+ },
+ {
+   "SEZIONE": 366,
+   "TIPO_SEZ": "N",
+   "MASCHI": 325,
+   "FEMMINE": 370,
+   "INDIRIZZO": "VIA BORSA MARIO 26"
+ },
+ {
+   "SEZIONE": 367,
+   "TIPO_SEZ": "N",
+   "MASCHI": 331,
+   "FEMMINE": 433,
+   "INDIRIZZO": "VIA LORIA MOISE 37/A"
+ },
+ {
+   "SEZIONE": 368,
+   "TIPO_SEZ": "N",
+   "MASCHI": 311,
+   "FEMMINE": 388,
+   "INDIRIZZO": "VIA COLA DI RIENZO 1"
+ },
+ {
+   "SEZIONE": 370,
+   "TIPO_SEZ": "N",
+   "MASCHI": 307,
+   "FEMMINE": 354,
+   "INDIRIZZO": "VIA BORSA MARIO 26"
+ },
+ {
+   "SEZIONE": 371,
+   "TIPO_SEZ": "N",
+   "MASCHI": 196,
+   "FEMMINE": 263,
+   "INDIRIZZO": "VIA ZUARA 7"
+ },
+ {
+   "SEZIONE": 372,
+   "TIPO_SEZ": "S",
+   "MASCHI": 393,
+   "FEMMINE": 493,
+   "INDIRIZZO": "VIA MAURI ANGELO 10"
+ },
+ {
+   "SEZIONE": 373,
+   "TIPO_SEZ": "N",
+   "MASCHI": 334,
+   "FEMMINE": 400,
+   "INDIRIZZO": "VIA MAURI ANGELO 10"
+ },
+ {
+   "SEZIONE": 375,
+   "TIPO_SEZ": "N",
+   "MASCHI": 390,
+   "FEMMINE": 517,
+   "INDIRIZZO": "VIA MAURI ANGELO 5/A"
+ },
+ {
+   "SEZIONE": 377,
+   "TIPO_SEZ": "N",
+   "MASCHI": 321,
+   "FEMMINE": 355,
+   "INDIRIZZO": "VIA BORSA MARIO 26"
+ },
+ {
+   "SEZIONE": 378,
+   "TIPO_SEZ": "N",
+   "MASCHI": 324,
+   "FEMMINE": 384,
+   "INDIRIZZO": "VIA MAURI ANGELO 5/A"
+ },
+ {
+   "SEZIONE": 379,
+   "TIPO_SEZ": "N",
+   "MASCHI": 360,
+   "FEMMINE": 463,
+   "INDIRIZZO": "VIA MAURI ANGELO 10"
+ },
+ {
+   "SEZIONE": 381,
+   "TIPO_SEZ": "N",
+   "MASCHI": 336,
+   "FEMMINE": 419,
+   "INDIRIZZO": "VIA MAURI ANGELO 10"
+ },
+ {
+   "SEZIONE": 383,
+   "TIPO_SEZ": "N",
+   "MASCHI": 473,
+   "FEMMINE": 533,
+   "INDIRIZZO": "VIA SAN GIACOMO 1"
+ },
+ {
+   "SEZIONE": 384,
+   "TIPO_SEZ": "N",
+   "MASCHI": 356,
+   "FEMMINE": 455,
+   "INDIRIZZO": "VIA MASSAUA 5/A"
+ },
+ {
+   "SEZIONE": 385,
+   "TIPO_SEZ": "N",
+   "MASCHI": 270,
+   "FEMMINE": 327,
+   "INDIRIZZO": "VIA MASSAUA 5/A"
+ },
+ {
+   "SEZIONE": 386,
+   "TIPO_SEZ": "N",
+   "MASCHI": 405,
+   "FEMMINE": 495,
+   "INDIRIZZO": "VIA MASSAUA 5"
+ },
+ {
+   "SEZIONE": 387,
+   "TIPO_SEZ": "N",
+   "MASCHI": 350,
+   "FEMMINE": 430,
+   "INDIRIZZO": "VIA SARDEGNA 14"
+ },
+ {
+   "SEZIONE": 388,
+   "TIPO_SEZ": "N",
+   "MASCHI": 389,
+   "FEMMINE": 465,
+   "INDIRIZZO": "VIA SARDEGNA 14"
+ },
+ {
+   "SEZIONE": 389,
+   "TIPO_SEZ": "N",
+   "MASCHI": 383,
+   "FEMMINE": 464,
+   "INDIRIZZO": "VIA SARDEGNA 14"
+ },
+ {
+   "SEZIONE": 391,
+   "TIPO_SEZ": "N",
+   "MASCHI": 409,
+   "FEMMINE": 507,
+   "INDIRIZZO": "VIA SARDEGNA 14"
+ },
+ {
+   "SEZIONE": 393,
+   "TIPO_SEZ": "N",
+   "MASCHI": 379,
+   "FEMMINE": 451,
+   "INDIRIZZO": "PZA SICILIA 2"
+ },
+ {
+   "SEZIONE": 394,
+   "TIPO_SEZ": "N",
+   "MASCHI": 258,
+   "FEMMINE": 292,
+   "INDIRIZZO": "VIA DEI NARCISI 2"
+ },
+ {
+   "SEZIONE": 396,
+   "TIPO_SEZ": "N",
+   "MASCHI": 338,
+   "FEMMINE": 379,
+   "INDIRIZZO": "VIA RUSSO VINCENZO 27/A"
+ },
+ {
+   "SEZIONE": 397,
+   "TIPO_SEZ": "N",
+   "MASCHI": 390,
+   "FEMMINE": 424,
+   "INDIRIZZO": "VIA COLONNA VITTORIA 42/A"
+ },
+ {
+   "SEZIONE": 399,
+   "TIPO_SEZ": "N",
+   "MASCHI": 374,
+   "FEMMINE": 448,
+   "INDIRIZZO": "VIA RASORI GIOVANNI 19"
+ },
+ {
+   "SEZIONE": 400,
+   "TIPO_SEZ": "N",
+   "MASCHI": 446,
+   "FEMMINE": 486,
+   "INDIRIZZO": "PZA SICILIA 2"
+ },
+ {
+   "SEZIONE": 401,
+   "TIPO_SEZ": "N",
+   "MASCHI": 370,
+   "FEMMINE": 411,
+   "INDIRIZZO": "VIA COLONNA VITTORIA 42/A"
+ },
+ {
+   "SEZIONE": 402,
+   "TIPO_SEZ": "N",
+   "MASCHI": 115,
+   "FEMMINE": 106,
+   "INDIRIZZO": "VIA MOSCATI PIETRO 1"
+ },
+ {
+   "SEZIONE": 403,
+   "TIPO_SEZ": "O",
+   "MASCHI": 338,
+   "FEMMINE": 432,
+   "INDIRIZZO": "VIA COLONNA VITTORIA 42"
+ },
+ {
+   "SEZIONE": 406,
+   "TIPO_SEZ": "N",
+   "MASCHI": 439,
+   "FEMMINE": 518,
+   "INDIRIZZO": "VIA COLONNA VITTORIA 42"
+ },
+ {
+   "SEZIONE": 407,
+   "TIPO_SEZ": "N",
+   "MASCHI": 346,
+   "FEMMINE": 404,
+   "INDIRIZZO": "VIA COLONNA VITTORIA 42"
+ },
+ {
+   "SEZIONE": 409,
+   "TIPO_SEZ": "N",
+   "MASCHI": 371,
+   "FEMMINE": 438,
+   "INDIRIZZO": "VIA COLONNA VITTORIA 42"
+ },
+ {
+   "SEZIONE": 411,
+   "TIPO_SEZ": "N",
+   "MASCHI": 294,
+   "FEMMINE": 394,
+   "INDIRIZZO": "VIA COLONNA VITTORIA 42"
+ },
+ {
+   "SEZIONE": 414,
+   "TIPO_SEZ": "O",
+   "MASCHI": 364,
+   "FEMMINE": 417,
+   "INDIRIZZO": "VIA DOLCI CARLO 5"
+ },
+ {
+   "SEZIONE": 415,
+   "TIPO_SEZ": "N",
+   "MASCHI": 325,
+   "FEMMINE": 403,
+   "INDIRIZZO": "BNI DI PORTA VOLTA 16/A"
+ },
+ {
+   "SEZIONE": 416,
+   "TIPO_SEZ": "S",
+   "MASCHI": 245,
+   "FEMMINE": 432,
+   "INDIRIZZO": "VIA GIUSTI GIUSEPPE 15/A"
+ },
+ {
+   "SEZIONE": 417,
+   "TIPO_SEZ": "N",
+   "MASCHI": 352,
+   "FEMMINE": 427,
+   "INDIRIZZO": "VIA GIUSTI GIUSEPPE 15/B"
+ },
+ {
+   "SEZIONE": 418,
+   "TIPO_SEZ": "O",
+   "MASCHI": 400,
+   "FEMMINE": 449,
+   "INDIRIZZO": "VIA GIUSTI GIUSEPPE 15/B"
+ },
+ {
+   "SEZIONE": 422,
+   "TIPO_SEZ": "N",
+   "MASCHI": 291,
+   "FEMMINE": 231,
+   "INDIRIZZO": "VIA LINNEO CARLO 2"
+ },
+ {
+   "SEZIONE": 423,
+   "TIPO_SEZ": "N",
+   "MASCHI": 436,
+   "FEMMINE": 506,
+   "INDIRIZZO": "VIA LINNEO CARLO 2"
+ },
+ {
+   "SEZIONE": 424,
+   "TIPO_SEZ": "N",
+   "MASCHI": 255,
+   "FEMMINE": 299,
+   "INDIRIZZO": "VIA LINNEO CARLO 2/A"
+ },
+ {
+   "SEZIONE": 425,
+   "TIPO_SEZ": "N",
+   "MASCHI": 475,
+   "FEMMINE": 524,
+   "INDIRIZZO": "VIA LINNEO CARLO 2"
+ },
+ {
+   "SEZIONE": 426,
+   "TIPO_SEZ": "N",
+   "MASCHI": 161,
+   "FEMMINE": 199,
+   "INDIRIZZO": "VIA MOSCATI PIETRO 1"
+ },
+ {
+   "SEZIONE": 427,
+   "TIPO_SEZ": "N",
+   "MASCHI": 360,
+   "FEMMINE": 411,
+   "INDIRIZZO": "VIA MOSCATI PIETRO 1"
+ },
+ {
+   "SEZIONE": 428,
+   "TIPO_SEZ": "N",
+   "MASCHI": 286,
+   "FEMMINE": 356,
+   "INDIRIZZO": "VIA MOSCATI PIETRO 5"
+ },
+ {
+   "SEZIONE": 430,
+   "TIPO_SEZ": "N",
+   "MASCHI": 342,
+   "FEMMINE": 386,
+   "INDIRIZZO": "VIA MOSCATI PIETRO 5"
+ },
+ {
+   "SEZIONE": 431,
+   "TIPO_SEZ": "N",
+   "MASCHI": 323,
+   "FEMMINE": 387,
+   "INDIRIZZO": "VIA MOSCATI PIETRO 5"
+ },
+ {
+   "SEZIONE": 433,
+   "TIPO_SEZ": "N",
+   "MASCHI": 393,
+   "FEMMINE": 446,
+   "INDIRIZZO": "VIA DOLCI CARLO 5"
+ },
+ {
+   "SEZIONE": 435,
+   "TIPO_SEZ": "N",
+   "MASCHI": 353,
+   "FEMMINE": 497,
+   "INDIRIZZO": "VIA UCCELLO PAOLO 1/A"
+ },
+ {
+   "SEZIONE": 436,
+   "TIPO_SEZ": "N",
+   "MASCHI": 315,
+   "FEMMINE": 308,
+   "INDIRIZZO": "VIA UCCELLO PAOLO 1/A"
+ },
+ {
+   "SEZIONE": 437,
+   "TIPO_SEZ": "N",
+   "MASCHI": 343,
+   "FEMMINE": 416,
+   "INDIRIZZO": "VIA DOLCI CARLO 5"
+ },
+ {
+   "SEZIONE": 438,
+   "TIPO_SEZ": "N",
+   "MASCHI": 395,
+   "FEMMINE": 486,
+   "INDIRIZZO": "VIA DOLCI CARLO 5"
+ },
+ {
+   "SEZIONE": 439,
+   "TIPO_SEZ": "N",
+   "MASCHI": 367,
+   "FEMMINE": 432,
+   "INDIRIZZO": "VIA LOVERE 4"
+ },
+ {
+   "SEZIONE": 440,
+   "TIPO_SEZ": "N",
+   "MASCHI": 247,
+   "FEMMINE": 282,
+   "INDIRIZZO": "PLE TURR STEFANO 1"
+ },
+ {
+   "SEZIONE": 441,
+   "TIPO_SEZ": "N",
+   "MASCHI": 411,
+   "FEMMINE": 521,
+   "INDIRIZZO": "VIA UCCELLO PAOLO 1/A"
+ },
+ {
+   "SEZIONE": 444,
+   "TIPO_SEZ": "N",
+   "MASCHI": 332,
+   "FEMMINE": 391,
+   "INDIRIZZO": "VIA FARAVELLI LUIGI G. 32"
+ },
+ {
+   "SEZIONE": 446,
+   "TIPO_SEZ": "N",
+   "MASCHI": 353,
+   "FEMMINE": 405,
+   "INDIRIZZO": "VIA FARAVELLI LUIGI G. 32"
+ },
+ {
+   "SEZIONE": 447,
+   "TIPO_SEZ": "N",
+   "MASCHI": 195,
+   "FEMMINE": 208,
+   "INDIRIZZO": "VIA FARAVELLI LUIGI G. 32"
+ },
+ {
+   "SEZIONE": 449,
+   "TIPO_SEZ": "N",
+   "MASCHI": 311,
+   "FEMMINE": 373,
+   "INDIRIZZO": "VIA FARAVELLI LUIGI G. 32"
+ },
+ {
+   "SEZIONE": 450,
+   "TIPO_SEZ": "N",
+   "MASCHI": 388,
+   "FEMMINE": 480,
+   "INDIRIZZO": "PLE TURR STEFANO 1"
+ },
+ {
+   "SEZIONE": 451,
+   "TIPO_SEZ": "N",
+   "MASCHI": 175,
+   "FEMMINE": 208,
+   "INDIRIZZO": "VIA GATTAMELATA 37"
+ },
+ {
+   "SEZIONE": 452,
+   "TIPO_SEZ": "N",
+   "MASCHI": 340,
+   "FEMMINE": 403,
+   "INDIRIZZO": "PLE TURR STEFANO 1"
+ },
+ {
+   "SEZIONE": 453,
+   "TIPO_SEZ": "N",
+   "MASCHI": 338,
+   "FEMMINE": 350,
+   "INDIRIZZO": "VIA DE NICOLA ENRICO 2/A"
+ },
+ {
+   "SEZIONE": 454,
+   "TIPO_SEZ": "N",
+   "MASCHI": 334,
+   "FEMMINE": 391,
+   "INDIRIZZO": "VIA MOSCATI PIETRO 5"
+ },
+ {
+   "SEZIONE": 457,
+   "TIPO_SEZ": "N",
+   "MASCHI": 442,
+   "FEMMINE": 527,
+   "INDIRIZZO": "VIA LINNEO CARLO 2"
+ },
+ {
+   "SEZIONE": 458,
+   "TIPO_SEZ": "N",
+   "MASCHI": 339,
+   "FEMMINE": 407,
+   "INDIRIZZO": "VIA MANTEGNA ANDREA, 10"
+ },
+ {
+   "SEZIONE": 460,
+   "TIPO_SEZ": "N",
+   "MASCHI": 319,
+   "FEMMINE": 391,
+   "INDIRIZZO": "VIA SALERNO 3/A"
+ },
+ {
+   "SEZIONE": 461,
+   "TIPO_SEZ": "N",
+   "MASCHI": 402,
+   "FEMMINE": 444,
+   "INDIRIZZO": "VIA GIUSTI GIUSEPPE 15/B"
+ },
+ {
+   "SEZIONE": 462,
+   "TIPO_SEZ": "N",
+   "MASCHI": 385,
+   "FEMMINE": 480,
+   "INDIRIZZO": "VIA GIUSTI GIUSEPPE 15/B"
+ },
+ {
+   "SEZIONE": 465,
+   "TIPO_SEZ": "N",
+   "MASCHI": 356,
+   "FEMMINE": 386,
+   "INDIRIZZO": "VIA AIRAGHI 42"
+ },
+ {
+   "SEZIONE": 467,
+   "TIPO_SEZ": "N",
+   "MASCHI": 337,
+   "FEMMINE": 390,
+   "INDIRIZZO": "VIA GIUSTI GIUSEPPE 15/A"
+ },
+ {
+   "SEZIONE": 468,
+   "TIPO_SEZ": "N",
+   "MASCHI": 375,
+   "FEMMINE": 454,
+   "INDIRIZZO": "VIA GIUSTI GIUSEPPE 15/A"
+ },
+ {
+   "SEZIONE": 469,
+   "TIPO_SEZ": "N",
+   "MASCHI": 361,
+   "FEMMINE": 410,
+   "INDIRIZZO": "VIA COLLETTA PIETRO 49"
+ },
+ {
+   "SEZIONE": 474,
+   "TIPO_SEZ": "N",
+   "MASCHI": 357,
+   "FEMMINE": 400,
+   "INDIRIZZO": "VIA GIUSTI GIUSEPPE 15/B"
+ },
+ {
+   "SEZIONE": 477,
+   "TIPO_SEZ": "N",
+   "MASCHI": 416,
+   "FEMMINE": 522,
+   "INDIRIZZO": "VIA MANTEGNA ANDREA, 10"
+ },
+ {
+   "SEZIONE": 479,
+   "TIPO_SEZ": "N",
+   "MASCHI": 463,
+   "FEMMINE": 537,
+   "INDIRIZZO": "VIA MANTEGNA ANDREA, 10"
+ },
+ {
+   "SEZIONE": 480,
+   "TIPO_SEZ": "S",
+   "MASCHI": 340,
+   "FEMMINE": 452,
+   "INDIRIZZO": "VIA MONVISO 2"
+ },
+ {
+   "SEZIONE": 482,
+   "TIPO_SEZ": "N",
+   "MASCHI": 454,
+   "FEMMINE": 484,
+   "INDIRIZZO": "VIA SAN MAMETE 11/A"
+ },
+ {
+   "SEZIONE": 483,
+   "TIPO_SEZ": "N",
+   "MASCHI": 400,
+   "FEMMINE": 478,
+   "INDIRIZZO": "VIA MANTEGNA ANDREA, 10/A"
+ },
+ {
+   "SEZIONE": 484,
+   "TIPO_SEZ": "N",
+   "MASCHI": 340,
+   "FEMMINE": 473,
+   "INDIRIZZO": "VIA MONVISO 2"
+ },
+ {
+   "SEZIONE": 485,
+   "TIPO_SEZ": "N",
+   "MASCHI": 330,
+   "FEMMINE": 428,
+   "INDIRIZZO": "VIA MANTEGNA ANDREA, 10/A"
+ },
+ {
+   "SEZIONE": 487,
+   "TIPO_SEZ": "N",
+   "MASCHI": 498,
+   "FEMMINE": 551,
+   "INDIRIZZO": "VIA CASTELLINO DA CASTELLO 10/"
+ },
+ {
+   "SEZIONE": 488,
+   "TIPO_SEZ": "N",
+   "MASCHI": 372,
+   "FEMMINE": 400,
+   "INDIRIZZO": "VIA CASTELLINO DA CASTELLO 10/"
+ },
+ {
+   "SEZIONE": 489,
+   "TIPO_SEZ": "N",
+   "MASCHI": 416,
+   "FEMMINE": 498,
+   "INDIRIZZO": "VIA MAC MAHON 96"
+ },
+ {
+   "SEZIONE": 490,
+   "TIPO_SEZ": "N",
+   "MASCHI": 327,
+   "FEMMINE": 397,
+   "INDIRIZZO": "VIA MAC MAHON 96"
+ },
+ {
+   "SEZIONE": 493,
+   "TIPO_SEZ": "N",
+   "MASCHI": 378,
+   "FEMMINE": 447,
+   "INDIRIZZO": "VIA MAC MAHON 96"
+ },
+ {
+   "SEZIONE": 495,
+   "TIPO_SEZ": "N",
+   "MASCHI": 342,
+   "FEMMINE": 371,
+   "INDIRIZZO": "VIA GIUSTI GIUSEPPE 15/A"
+ },
+ {
+   "SEZIONE": 498,
+   "TIPO_SEZ": "N",
+   "MASCHI": 367,
+   "FEMMINE": 427,
+   "INDIRIZZO": "VIA GIUSTI GIUSEPPE 15/A"
+ },
+ {
+   "SEZIONE": 499,
+   "TIPO_SEZ": "N",
+   "MASCHI": 341,
+   "FEMMINE": 402,
+   "INDIRIZZO": "BNI DI PORTA VOLTA 16/A"
+ },
+ {
+   "SEZIONE": 501,
+   "TIPO_SEZ": "N",
+   "MASCHI": 315,
+   "FEMMINE": 376,
+   "INDIRIZZO": "VIA GOITO 4"
+ },
+ {
+   "SEZIONE": 502,
+   "TIPO_SEZ": "N",
+   "MASCHI": 394,
+   "FEMMINE": 473,
+   "INDIRIZZO": "VIA SCROSATI LUIGI 4"
+ },
+ {
+   "SEZIONE": 504,
+   "TIPO_SEZ": "N",
+   "MASCHI": 432,
+   "FEMMINE": 474,
+   "INDIRIZZO": "VIA LAMENNAIS 20"
+ },
+ {
+   "SEZIONE": 505,
+   "TIPO_SEZ": "N",
+   "MASCHI": 349,
+   "FEMMINE": 415,
+   "INDIRIZZO": "VIA SOLFERINO 50"
+ },
+ {
+   "SEZIONE": 506,
+   "TIPO_SEZ": "N",
+   "MASCHI": 286,
+   "FEMMINE": 356,
+   "INDIRIZZO": "VIA SOLFERINO 52"
+ },
+ {
+   "SEZIONE": 508,
+   "TIPO_SEZ": "N",
+   "MASCHI": 357,
+   "FEMMINE": 473,
+   "INDIRIZZO": "VIA EINSTEIN ALBERTO 3"
+ },
+ {
+   "SEZIONE": 510,
+   "TIPO_SEZ": "N",
+   "MASCHI": 404,
+   "FEMMINE": 441,
+   "INDIRIZZO": "VIA GABBRO 6"
+ },
+ {
+   "SEZIONE": 511,
+   "TIPO_SEZ": "N",
+   "MASCHI": 504,
+   "FEMMINE": 572,
+   "INDIRIZZO": "VIA DORA BALTEA 16"
+ },
+ {
+   "SEZIONE": 512,
+   "TIPO_SEZ": "N",
+   "MASCHI": 349,
+   "FEMMINE": 381,
+   "INDIRIZZO": "VIA GOITO 4/A"
+ },
+ {
+   "SEZIONE": 514,
+   "TIPO_SEZ": "N",
+   "MASCHI": 381,
+   "FEMMINE": 426,
+   "INDIRIZZO": "VIA GOITO 4/A"
+ },
+ {
+   "SEZIONE": 515,
+   "TIPO_SEZ": "N",
+   "MASCHI": 335,
+   "FEMMINE": 421,
+   "INDIRIZZO": "VIA GOITO 4/A"
+ },
+ {
+   "SEZIONE": 518,
+   "TIPO_SEZ": "N",
+   "MASCHI": 353,
+   "FEMMINE": 380,
+   "INDIRIZZO": "VIA BARONA 70"
+ },
+ {
+   "SEZIONE": 519,
+   "TIPO_SEZ": "N",
+   "MASCHI": 267,
+   "FEMMINE": 308,
+   "INDIRIZZO": "VIA SOLFERINO 52"
+ },
+ {
+   "SEZIONE": 521,
+   "TIPO_SEZ": "N",
+   "MASCHI": 292,
+   "FEMMINE": 341,
+   "INDIRIZZO": "VIA SOLFERINO 52"
+ },
+ {
+   "SEZIONE": 523,
+   "TIPO_SEZ": "N",
+   "MASCHI": 358,
+   "FEMMINE": 414,
+   "INDIRIZZO": "VIA SOLFERINO 50"
+ },
+ {
+   "SEZIONE": 525,
+   "TIPO_SEZ": "N",
+   "MASCHI": 342,
+   "FEMMINE": 424,
+   "INDIRIZZO": "VIA SOLFERINO 50"
+ },
+ {
+   "SEZIONE": 526,
+   "TIPO_SEZ": "N",
+   "MASCHI": 314,
+   "FEMMINE": 397,
+   "INDIRIZZO": "BNI DI PORTA VOLTA 16/A"
+ },
+ {
+   "SEZIONE": 530,
+   "TIPO_SEZ": "O",
+   "MASCHI": 1,
+   "FEMMINE": 0,
+   "INDIRIZZO": "CSO DI PORTA NUOVA 23"
+ },
+ {
+   "SEZIONE": 532,
+   "TIPO_SEZ": "N",
+   "MASCHI": 396,
+   "FEMMINE": 433,
+   "INDIRIZZO": "VIA SAN COLOMBANO 8"
+ },
+ {
+   "SEZIONE": 534,
+   "TIPO_SEZ": "N",
+   "MASCHI": 373,
+   "FEMMINE": 427,
+   "INDIRIZZO": "VLE MONTE GRAPPA 1/A"
+ },
+ {
+   "SEZIONE": 535,
+   "TIPO_SEZ": "N",
+   "MASCHI": 215,
+   "FEMMINE": 267,
+   "INDIRIZZO": "VLE MONTE GRAPPA 1/A"
+ },
+ {
+   "SEZIONE": 537,
+   "TIPO_SEZ": "N",
+   "MASCHI": 41,
+   "FEMMINE": 54,
+   "INDIRIZZO": "VLE MONTE GRAPPA 1/A"
+ },
+ {
+   "SEZIONE": 538,
+   "TIPO_SEZ": "N",
+   "MASCHI": 382,
+   "FEMMINE": 444,
+   "INDIRIZZO": "VIA CALABRIA DON GIOVANNI 16"
+ },
+ {
+   "SEZIONE": 539,
+   "TIPO_SEZ": "N",
+   "MASCHI": 248,
+   "FEMMINE": 275,
+   "INDIRIZZO": "VIA DEI NARCISI 2/A"
+ },
+ {
+   "SEZIONE": 540,
+   "TIPO_SEZ": "N",
+   "MASCHI": 423,
+   "FEMMINE": 469,
+   "INDIRIZZO": "VLE MONTE GRAPPA 1/A"
+ },
+ {
+   "SEZIONE": 541,
+   "TIPO_SEZ": "N",
+   "MASCHI": 253,
+   "FEMMINE": 349,
+   "INDIRIZZO": "VIA DEI NARCISI 4/A"
+ },
+ {
+   "SEZIONE": 542,
+   "TIPO_SEZ": "N",
+   "MASCHI": 355,
+   "FEMMINE": 401,
+   "INDIRIZZO": "VLE MONTE GRAPPA 1/A"
+ },
+ {
+   "SEZIONE": 543,
+   "TIPO_SEZ": "N",
+   "MASCHI": 401,
+   "FEMMINE": 429,
+   "INDIRIZZO": "VIA CILEA FRANCESCO, 12/A"
+ },
+ {
+   "SEZIONE": 547,
+   "TIPO_SEZ": "N",
+   "MASCHI": 453,
+   "FEMMINE": 488,
+   "INDIRIZZO": "VIA PEPE GUGLIELMO 40"
+ },
+ {
+   "SEZIONE": 548,
+   "TIPO_SEZ": "N",
+   "MASCHI": 315,
+   "FEMMINE": 384,
+   "INDIRIZZO": "VIA JACOPO DAL VERME 10"
+ },
+ {
+   "SEZIONE": 549,
+   "TIPO_SEZ": "N",
+   "MASCHI": 272,
+   "FEMMINE": 330,
+   "INDIRIZZO": "VIA BORSA MARIO 26"
+ },
+ {
+   "SEZIONE": 550,
+   "TIPO_SEZ": "N",
+   "MASCHI": 441,
+   "FEMMINE": 492,
+   "INDIRIZZO": "VIA JACOPO DAL VERME 10"
+ },
+ {
+   "SEZIONE": 551,
+   "TIPO_SEZ": "N",
+   "MASCHI": 322,
+   "FEMMINE": 362,
+   "INDIRIZZO": "VIA BROCCHI VIRGILIO 5"
+ },
+ {
+   "SEZIONE": 552,
+   "TIPO_SEZ": "N",
+   "MASCHI": 353,
+   "FEMMINE": 399,
+   "INDIRIZZO": "VIA SALERNO 3"
+ },
+ {
+   "SEZIONE": 555,
+   "TIPO_SEZ": "N",
+   "MASCHI": 337,
+   "FEMMINE": 385,
+   "INDIRIZZO": "VIA JACOPO DAL VERME 10"
+ },
+ {
+   "SEZIONE": 556,
+   "TIPO_SEZ": "N",
+   "MASCHI": 445,
+   "FEMMINE": 490,
+   "INDIRIZZO": "VIA JACOPO DAL VERME 10"
+ },
+ {
+   "SEZIONE": 558,
+   "TIPO_SEZ": "N",
+   "MASCHI": 363,
+   "FEMMINE": 421,
+   "INDIRIZZO": "VIA JACOPO DAL VERME 10"
+ },
+ {
+   "SEZIONE": 561,
+   "TIPO_SEZ": "N",
+   "MASCHI": 326,
+   "FEMMINE": 320,
+   "INDIRIZZO": "VIA PEPE GUGLIELMO 40"
+ },
+ {
+   "SEZIONE": 562,
+   "TIPO_SEZ": "N",
+   "MASCHI": 454,
+   "FEMMINE": 451,
+   "INDIRIZZO": "VIA PEPE GUGLIELMO 40"
+ },
+ {
+   "SEZIONE": 564,
+   "TIPO_SEZ": "N",
+   "MASCHI": 316,
+   "FEMMINE": 333,
+   "INDIRIZZO": "VIA DEGLI ANEMONI 10/A"
+ },
+ {
+   "SEZIONE": 566,
+   "TIPO_SEZ": "N",
+   "MASCHI": 297,
+   "FEMMINE": 299,
+   "INDIRIZZO": "VIA GALVANI LUIGI 7"
+ },
+ {
+   "SEZIONE": 567,
+   "TIPO_SEZ": "N",
+   "MASCHI": 427,
+   "FEMMINE": 481,
+   "INDIRIZZO": "VIA VEGLIA 80"
+ },
+ {
+   "SEZIONE": 568,
+   "TIPO_SEZ": "N",
+   "MASCHI": 183,
+   "FEMMINE": 191,
+   "INDIRIZZO": "VIA GALVANI LUIGI 7"
+ },
+ {
+   "SEZIONE": 569,
+   "TIPO_SEZ": "N",
+   "MASCHI": 330,
+   "FEMMINE": 297,
+   "INDIRIZZO": "VIA GALVANI LUIGI 7"
+ },
+ {
+   "SEZIONE": 570,
+   "TIPO_SEZ": "N",
+   "MASCHI": 317,
+   "FEMMINE": 407,
+   "INDIRIZZO": "VIA CAVIGLIA ENRICO 8"
+ },
+ {
+   "SEZIONE": 571,
+   "TIPO_SEZ": "N",
+   "MASCHI": 352,
+   "FEMMINE": 299,
+   "INDIRIZZO": "VIA GALVANI LUIGI 7"
+ },
+ {
+   "SEZIONE": 573,
+   "TIPO_SEZ": "N",
+   "MASCHI": 296,
+   "FEMMINE": 357,
+   "INDIRIZZO": "VIA GALVANI LUIGI 7"
+ },
+ {
+   "SEZIONE": 574,
+   "TIPO_SEZ": "N",
+   "MASCHI": 352,
+   "FEMMINE": 347,
+   "INDIRIZZO": "VIA MUZIO EMANUELE 5"
+ },
+ {
+   "SEZIONE": 575,
+   "TIPO_SEZ": "N",
+   "MASCHI": 374,
+   "FEMMINE": 423,
+   "INDIRIZZO": "VIA MUZIO EMANUELE 5"
+ },
+ {
+   "SEZIONE": 580,
+   "TIPO_SEZ": "N",
+   "MASCHI": 347,
+   "FEMMINE": 384,
+   "INDIRIZZO": "VIA JACOPO DAL VERME 10/A"
+ },
+ {
+   "SEZIONE": 582,
+   "TIPO_SEZ": "N",
+   "MASCHI": 308,
+   "FEMMINE": 295,
+   "INDIRIZZO": "VIA GALVANI LUIGI 7"
+ },
+ {
+   "SEZIONE": 583,
+   "TIPO_SEZ": "N",
+   "MASCHI": 311,
+   "FEMMINE": 360,
+   "INDIRIZZO": "VIA SAPONARO MICHELE 36/A"
+ },
+ {
+   "SEZIONE": 585,
+   "TIPO_SEZ": "N",
+   "MASCHI": 312,
+   "FEMMINE": 368,
+   "INDIRIZZO": "VLE MONTE GRAPPA 1/A"
+ },
+ {
+   "SEZIONE": 586,
+   "TIPO_SEZ": "N",
+   "MASCHI": 333,
+   "FEMMINE": 382,
+   "INDIRIZZO": "VIA SAN GREGORIO 5"
+ },
+ {
+   "SEZIONE": 589,
+   "TIPO_SEZ": "N",
+   "MASCHI": 480,
+   "FEMMINE": 513,
+   "INDIRIZZO": "VIA SAN GREGORIO 5"
+ },
+ {
+   "SEZIONE": 590,
+   "TIPO_SEZ": "N",
+   "MASCHI": 377,
+   "FEMMINE": 375,
+   "INDIRIZZO": "VIA SAN GREGORIO 5"
+ },
+ {
+   "SEZIONE": 592,
+   "TIPO_SEZ": "N",
+   "MASCHI": 279,
+   "FEMMINE": 322,
+   "INDIRIZZO": "VIA CASATI FELICE 6"
+ },
+ {
+   "SEZIONE": 594,
+   "TIPO_SEZ": "N",
+   "MASCHI": 378,
+   "FEMMINE": 436,
+   "INDIRIZZO": "VIA CASATI FELICE 6"
+ },
+ {
+   "SEZIONE": 596,
+   "TIPO_SEZ": "N",
+   "MASCHI": 287,
+   "FEMMINE": 314,
+   "INDIRIZZO": "VIA CASATI FELICE 6"
+ },
+ {
+   "SEZIONE": 600,
+   "TIPO_SEZ": "N",
+   "MASCHI": 340,
+   "FEMMINE": 404,
+   "INDIRIZZO": "VIA FORZE ARMATE 279/A"
+ },
+ {
+   "SEZIONE": 601,
+   "TIPO_SEZ": "N",
+   "MASCHI": 415,
+   "FEMMINE": 459,
+   "INDIRIZZO": "VIA CASATI FELICE 6"
+ },
+ {
+   "SEZIONE": 603,
+   "TIPO_SEZ": "O",
+   "MASCHI": 446,
+   "FEMMINE": 483,
+   "INDIRIZZO": "VIA DE FILIPPI FILIPPO 2"
+ },
+ {
+   "SEZIONE": 604,
+   "TIPO_SEZ": "N",
+   "MASCHI": 417,
+   "FEMMINE": 435,
+   "INDIRIZZO": "VIA CASATI FELICE 6"
+ },
+ {
+   "SEZIONE": 608,
+   "TIPO_SEZ": "O",
+   "MASCHI": 468,
+   "FEMMINE": 422,
+   "INDIRIZZO": "VIA SAN GREGORIO 5"
+ },
+ {
+   "SEZIONE": 610,
+   "TIPO_SEZ": "N",
+   "MASCHI": 332,
+   "FEMMINE": 371,
+   "INDIRIZZO": "VIA MATTEUCCI CARLO 3"
+ },
+ {
+   "SEZIONE": 613,
+   "TIPO_SEZ": "N",
+   "MASCHI": 360,
+   "FEMMINE": 429,
+   "INDIRIZZO": "VIA PICCINNI NICOLA 10/A"
+ },
+ {
+   "SEZIONE": 614,
+   "TIPO_SEZ": "N",
+   "MASCHI": 372,
+   "FEMMINE": 436,
+   "INDIRIZZO": "VIA DE FILIPPI FILIPPO 2"
+ },
+ {
+   "SEZIONE": 615,
+   "TIPO_SEZ": "N",
+   "MASCHI": 422,
+   "FEMMINE": 451,
+   "INDIRIZZO": "VIA MATTEI GIANFRANCO 12/A"
+ },
+ {
+   "SEZIONE": 616,
+   "TIPO_SEZ": "N",
+   "MASCHI": 415,
+   "FEMMINE": 485,
+   "INDIRIZZO": "VIA PISACANE CARLO 9"
+ },
+ {
+   "SEZIONE": 617,
+   "TIPO_SEZ": "N",
+   "MASCHI": 437,
+   "FEMMINE": 534,
+   "INDIRIZZO": "VIA MATTEI GIANFRANCO 12/A"
+ },
+ {
+   "SEZIONE": 621,
+   "TIPO_SEZ": "N",
+   "MASCHI": 397,
+   "FEMMINE": 460,
+   "INDIRIZZO": "VIA STOPPANI ANTONIO 1"
+ },
+ {
+   "SEZIONE": 622,
+   "TIPO_SEZ": "N",
+   "MASCHI": 313,
+   "FEMMINE": 390,
+   "INDIRIZZO": "VIA DE NICOLA ENRICO 40"
+ },
+ {
+   "SEZIONE": 624,
+   "TIPO_SEZ": "N",
+   "MASCHI": 388,
+   "FEMMINE": 452,
+   "INDIRIZZO": "VIA STOPPANI ANTONIO 1"
+ },
+ {
+   "SEZIONE": 625,
+   "TIPO_SEZ": "N",
+   "MASCHI": 406,
+   "FEMMINE": 491,
+   "INDIRIZZO": "VIA DE FILIPPI FILIPPO 2"
+ },
+ {
+   "SEZIONE": 627,
+   "TIPO_SEZ": "N",
+   "MASCHI": 388,
+   "FEMMINE": 469,
+   "INDIRIZZO": "VIA LAMENNAIS 20"
+ },
+ {
+   "SEZIONE": 631,
+   "TIPO_SEZ": "N",
+   "MASCHI": 453,
+   "FEMMINE": 495,
+   "INDIRIZZO": "VIA MATTEUCCI CARLO 3"
+ },
+ {
+   "SEZIONE": 633,
+   "TIPO_SEZ": "N",
+   "MASCHI": 383,
+   "FEMMINE": 465,
+   "INDIRIZZO": "VIA SAN GIACOMO 1/A"
+ },
+ {
+   "SEZIONE": 634,
+   "TIPO_SEZ": "N",
+   "MASCHI": 421,
+   "FEMMINE": 444,
+   "INDIRIZZO": "VIA MATTEUCCI CARLO 3"
+ },
+ {
+   "SEZIONE": 635,
+   "TIPO_SEZ": "N",
+   "MASCHI": 355,
+   "FEMMINE": 394,
+   "INDIRIZZO": "VIA DELL' ARCADIA 22"
+ },
+ {
+   "SEZIONE": 636,
+   "TIPO_SEZ": "N",
+   "MASCHI": 376,
+   "FEMMINE": 433,
+   "INDIRIZZO": "VIA DE FILIPPI FILIPPO 2"
+ },
+ {
+   "SEZIONE": 638,
+   "TIPO_SEZ": "N",
+   "MASCHI": 339,
+   "FEMMINE": 389,
+   "INDIRIZZO": "VIA STOPPANI ANTONIO 1"
+ },
+ {
+   "SEZIONE": 641,
+   "TIPO_SEZ": "N",
+   "MASCHI": 369,
+   "FEMMINE": 435,
+   "INDIRIZZO": "VIA DE FILIPPI FILIPPO 2"
+ },
+ {
+   "SEZIONE": 642,
+   "TIPO_SEZ": "N",
+   "MASCHI": 418,
+   "FEMMINE": 484,
+   "INDIRIZZO": "VIA STOPPANI ANTONIO 1"
+ },
+ {
+   "SEZIONE": 644,
+   "TIPO_SEZ": "N",
+   "MASCHI": 345,
+   "FEMMINE": 396,
+   "INDIRIZZO": "VIA DE NICOLA ENRICO 2"
+ },
+ {
+   "SEZIONE": 646,
+   "TIPO_SEZ": "N",
+   "MASCHI": 517,
+   "FEMMINE": 530,
+   "INDIRIZZO": "VIA MANN THOMAS 8"
+ },
+ {
+   "SEZIONE": 648,
+   "TIPO_SEZ": "N",
+   "MASCHI": 287,
+   "FEMMINE": 377,
+   "INDIRIZZO": "VIA DEGLI ANEMONI 10/A"
+ },
+ {
+   "SEZIONE": 649,
+   "TIPO_SEZ": "N",
+   "MASCHI": 375,
+   "FEMMINE": 427,
+   "INDIRIZZO": "PZA LEONARDO DA VINCI 2"
+ },
+ {
+   "SEZIONE": 651,
+   "TIPO_SEZ": "N",
+   "MASCHI": 300,
+   "FEMMINE": 386,
+   "INDIRIZZO": "PZA ASCOLI GRAZIADIO ISAIA 2/B"
+ },
+ {
+   "SEZIONE": 652,
+   "TIPO_SEZ": "N",
+   "MASCHI": 391,
+   "FEMMINE": 464,
+   "INDIRIZZO": "PZA ASCOLI GRAZIADIO ISAIA 2/B"
+ },
+ {
+   "SEZIONE": 655,
+   "TIPO_SEZ": "N",
+   "MASCHI": 398,
+   "FEMMINE": 450,
+   "INDIRIZZO": "PZA ASCOLI GRAZIADIO ISAIA 2/B"
+ },
+ {
+   "SEZIONE": 657,
+   "TIPO_SEZ": "N",
+   "MASCHI": 320,
+   "FEMMINE": 357,
+   "INDIRIZZO": "VIA MANN THOMAS 8/A"
+ },
+ {
+   "SEZIONE": 659,
+   "TIPO_SEZ": "N",
+   "MASCHI": 353,
+   "FEMMINE": 442,
+   "INDIRIZZO": "VLE ROMAGNA 16"
+ },
+ {
+   "SEZIONE": 662,
+   "TIPO_SEZ": "N",
+   "MASCHI": 398,
+   "FEMMINE": 489,
+   "INDIRIZZO": "VLE ROMAGNA 18"
+ },
+ {
+   "SEZIONE": 663,
+   "TIPO_SEZ": "N",
+   "MASCHI": 378,
+   "FEMMINE": 447,
+   "INDIRIZZO": "VLE ROMAGNA 18"
+ },
+ {
+   "SEZIONE": 665,
+   "TIPO_SEZ": "N",
+   "MASCHI": 368,
+   "FEMMINE": 440,
+   "INDIRIZZO": "VLE ROMAGNA 18"
+ },
+ {
+   "SEZIONE": 666,
+   "TIPO_SEZ": "N",
+   "MASCHI": 112,
+   "FEMMINE": 130,
+   "INDIRIZZO": "VLE ROMAGNA 16"
+ },
+ {
+   "SEZIONE": 667,
+   "TIPO_SEZ": "N",
+   "MASCHI": 448,
+   "FEMMINE": 419,
+   "INDIRIZZO": "VIA VITERBO 31"
+ },
+ {
+   "SEZIONE": 668,
+   "TIPO_SEZ": "N",
+   "MASCHI": 415,
+   "FEMMINE": 480,
+   "INDIRIZZO": "PZA ASCOLI GRAZIADIO ISAIA 2/A"
+ },
+ {
+   "SEZIONE": 669,
+   "TIPO_SEZ": "N",
+   "MASCHI": 477,
+   "FEMMINE": 551,
+   "INDIRIZZO": "VIA PICCINNI NICOLA 10/A"
+ },
+ {
+   "SEZIONE": 671,
+   "TIPO_SEZ": "N",
+   "MASCHI": 391,
+   "FEMMINE": 439,
+   "INDIRIZZO": "PZA LEONARDO DA VINCI 2"
+ },
+ {
+   "SEZIONE": 673,
+   "TIPO_SEZ": "N",
+   "MASCHI": 397,
+   "FEMMINE": 467,
+   "INDIRIZZO": "PZA LEONARDO DA VINCI 2/A"
+ },
+ {
+   "SEZIONE": 674,
+   "TIPO_SEZ": "N",
+   "MASCHI": 400,
+   "FEMMINE": 456,
+   "INDIRIZZO": "PZA LEONARDO DA VINCI 2"
+ },
+ {
+   "SEZIONE": 675,
+   "TIPO_SEZ": "N",
+   "MASCHI": 355,
+   "FEMMINE": 399,
+   "INDIRIZZO": "VIA MATTEUCCI CARLO 3"
+ },
+ {
+   "SEZIONE": 676,
+   "TIPO_SEZ": "N",
+   "MASCHI": 342,
+   "FEMMINE": 403,
+   "INDIRIZZO": "PZA LEONARDO DA VINCI 2/A"
+ },
+ {
+   "SEZIONE": 678,
+   "TIPO_SEZ": "N",
+   "MASCHI": 336,
+   "FEMMINE": 391,
+   "INDIRIZZO": "PZA LEONARDO DA VINCI 2/A"
+ },
+ {
+   "SEZIONE": 679,
+   "TIPO_SEZ": "N",
+   "MASCHI": 402,
+   "FEMMINE": 418,
+   "INDIRIZZO": "VIA SALERNO 1"
+ },
+ {
+   "SEZIONE": 680,
+   "TIPO_SEZ": "N",
+   "MASCHI": 364,
+   "FEMMINE": 445,
+   "INDIRIZZO": "VIA PICCINNI NICOLA 10/A"
+ },
+ {
+   "SEZIONE": 684,
+   "TIPO_SEZ": "N",
+   "MASCHI": 401,
+   "FEMMINE": 414,
+   "INDIRIZZO": "VIA PICCINNI NICOLA 10/A"
+ },
+ {
+   "SEZIONE": 686,
+   "TIPO_SEZ": "N",
+   "MASCHI": 300,
+   "FEMMINE": 307,
+   "INDIRIZZO": "VLE BRIANZA 18"
+ },
+ {
+   "SEZIONE": 687,
+   "TIPO_SEZ": "N",
+   "MASCHI": 391,
+   "FEMMINE": 406,
+   "INDIRIZZO": "VLE BRIANZA 18"
+ },
+ {
+   "SEZIONE": 690,
+   "TIPO_SEZ": "N",
+   "MASCHI": 341,
+   "FEMMINE": 374,
+   "INDIRIZZO": "VLE BRIANZA 18/A"
+ },
+ {
+   "SEZIONE": 692,
+   "TIPO_SEZ": "N",
+   "MASCHI": 427,
+   "FEMMINE": 487,
+   "INDIRIZZO": "VLE BRIANZA 18"
+ },
+ {
+   "SEZIONE": 693,
+   "TIPO_SEZ": "N",
+   "MASCHI": 368,
+   "FEMMINE": 417,
+   "INDIRIZZO": "VLE BRIANZA 18"
+ },
+ {
+   "SEZIONE": 696,
+   "TIPO_SEZ": "N",
+   "MASCHI": 323,
+   "FEMMINE": 313,
+   "INDIRIZZO": "VIA VENINI GIULIO E CORRADO 80"
+ },
+ {
+   "SEZIONE": 698,
+   "TIPO_SEZ": "N",
+   "MASCHI": 368,
+   "FEMMINE": 427,
+   "INDIRIZZO": "VLE BRIANZA 18"
+ },
+ {
+   "SEZIONE": 699,
+   "TIPO_SEZ": "N",
+   "MASCHI": 376,
+   "FEMMINE": 429,
+   "INDIRIZZO": "VIA VAL D'INTELVI 11/A"
+ },
+ {
+   "SEZIONE": 700,
+   "TIPO_SEZ": "N",
+   "MASCHI": 410,
+   "FEMMINE": 422,
+   "INDIRIZZO": "VLE BRIANZA 18/A"
+ },
+ {
+   "SEZIONE": 701,
+   "TIPO_SEZ": "N",
+   "MASCHI": 386,
+   "FEMMINE": 456,
+   "INDIRIZZO": "VIA EINSTEIN ALBERTO 3"
+ },
+ {
+   "SEZIONE": 702,
+   "TIPO_SEZ": "N",
+   "MASCHI": 331,
+   "FEMMINE": 376,
+   "INDIRIZZO": "VIA VENINI GIULIO E CORRADO 78"
+ },
+ {
+   "SEZIONE": 703,
+   "TIPO_SEZ": "N",
+   "MASCHI": 358,
+   "FEMMINE": 417,
+   "INDIRIZZO": "VIA VENINI GIULIO E CORRADO 78"
+ },
+ {
+   "SEZIONE": 704,
+   "TIPO_SEZ": "N",
+   "MASCHI": 354,
+   "FEMMINE": 399,
+   "INDIRIZZO": "VIA VENINI GIULIO E CORRADO 78"
+ },
+ {
+   "SEZIONE": 705,
+   "TIPO_SEZ": "N",
+   "MASCHI": 416,
+   "FEMMINE": 410,
+   "INDIRIZZO": "VIA VENINI GIULIO E CORRADO 78"
+ },
+ {
+   "SEZIONE": 706,
+   "TIPO_SEZ": "N",
+   "MASCHI": 300,
+   "FEMMINE": 310,
+   "INDIRIZZO": "VIA VENINI GIULIO E CORRADO 78"
+ },
+ {
+   "SEZIONE": 707,
+   "TIPO_SEZ": "N",
+   "MASCHI": 331,
+   "FEMMINE": 403,
+   "INDIRIZZO": "VIA VENINI GIULIO E CORRADO 78"
+ },
+ {
+   "SEZIONE": 709,
+   "TIPO_SEZ": "N",
+   "MASCHI": 369,
+   "FEMMINE": 443,
+   "INDIRIZZO": "VIA SACCHINI ANTONIO 30"
+ },
+ {
+   "SEZIONE": 711,
+   "TIPO_SEZ": "N",
+   "MASCHI": 613,
+   "FEMMINE": 533,
+   "INDIRIZZO": "VIA MANN THOMAS 8"
+ },
+ {
+   "SEZIONE": 712,
+   "TIPO_SEZ": "N",
+   "MASCHI": 416,
+   "FEMMINE": 483,
+   "INDIRIZZO": "VIA PICCINNI NICOLA 10/A"
+ },
+ {
+   "SEZIONE": 713,
+   "TIPO_SEZ": "N",
+   "MASCHI": 353,
+   "FEMMINE": 394,
+   "INDIRIZZO": "VIA SACCHINI ANTONIO 34"
+ },
+ {
+   "SEZIONE": 715,
+   "TIPO_SEZ": "N",
+   "MASCHI": 286,
+   "FEMMINE": 331,
+   "INDIRIZZO": "VIA SACCHINI ANTONIO 30"
+ },
+ {
+   "SEZIONE": 716,
+   "TIPO_SEZ": "N",
+   "MASCHI": 359,
+   "FEMMINE": 445,
+   "INDIRIZZO": "VIA SAN GIACOMO 1"
+ },
+ {
+   "SEZIONE": 717,
+   "TIPO_SEZ": "N",
+   "MASCHI": 314,
+   "FEMMINE": 323,
+   "INDIRIZZO": "VIA VITERBO 31"
+ },
+ {
+   "SEZIONE": 718,
+   "TIPO_SEZ": "N",
+   "MASCHI": 357,
+   "FEMMINE": 356,
+   "INDIRIZZO": "VIA COSTA ANDREA 24/A"
+ },
+ {
+   "SEZIONE": 719,
+   "TIPO_SEZ": "N",
+   "MASCHI": 313,
+   "FEMMINE": 348,
+   "INDIRIZZO": "VIA COSTA ANDREA 24"
+ },
+ {
+   "SEZIONE": 721,
+   "TIPO_SEZ": "N",
+   "MASCHI": 363,
+   "FEMMINE": 417,
+   "INDIRIZZO": "VIA SACCHINI ANTONIO 30"
+ },
+ {
+   "SEZIONE": 724,
+   "TIPO_SEZ": "N",
+   "MASCHI": 230,
+   "FEMMINE": 275,
+   "INDIRIZZO": "PZA LEONARDO DA VINCI 2/A"
+ },
+ {
+   "SEZIONE": 725,
+   "TIPO_SEZ": "N",
+   "MASCHI": 309,
+   "FEMMINE": 404,
+   "INDIRIZZO": "VIA PASCAL CARLO 35"
+ },
+ {
+   "SEZIONE": 726,
+   "TIPO_SEZ": "N",
+   "MASCHI": 370,
+   "FEMMINE": 439,
+   "INDIRIZZO": "VIA VITERBO 31"
+ },
+ {
+   "SEZIONE": 727,
+   "TIPO_SEZ": "N",
+   "MASCHI": 352,
+   "FEMMINE": 419,
+   "INDIRIZZO": "VIA COSTA ANDREA 24/B"
+ },
+ {
+   "SEZIONE": 728,
+   "TIPO_SEZ": "N",
+   "MASCHI": 320,
+   "FEMMINE": 434,
+   "INDIRIZZO": "PZA LEONARDO DA VINCI 2/A"
+ },
+ {
+   "SEZIONE": 729,
+   "TIPO_SEZ": "N",
+   "MASCHI": 347,
+   "FEMMINE": 405,
+   "INDIRIZZO": "VIA SACCHINI ANTONIO 34"
+ },
+ {
+   "SEZIONE": 731,
+   "TIPO_SEZ": "N",
+   "MASCHI": 355,
+   "FEMMINE": 427,
+   "INDIRIZZO": "VIA SACCHINI ANTONIO 34"
+ },
+ {
+   "SEZIONE": 734,
+   "TIPO_SEZ": "O",
+   "MASCHI": 352,
+   "FEMMINE": 454,
+   "INDIRIZZO": "VIA SACCHINI ANTONIO 30"
+ },
+ {
+   "SEZIONE": 736,
+   "TIPO_SEZ": "N",
+   "MASCHI": 389,
+   "FEMMINE": 468,
+   "INDIRIZZO": "VIA SACCHINI ANTONIO 34"
+ },
+ {
+   "SEZIONE": 738,
+   "TIPO_SEZ": "N",
+   "MASCHI": 292,
+   "FEMMINE": 345,
+   "INDIRIZZO": "VIA MONTE BALDO 11"
+ },
+ {
+   "SEZIONE": 739,
+   "TIPO_SEZ": "N",
+   "MASCHI": 268,
+   "FEMMINE": 332,
+   "INDIRIZZO": "VIA COSTA ANDREA 24/B"
+ },
+ {
+   "SEZIONE": 740,
+   "TIPO_SEZ": "N",
+   "MASCHI": 391,
+   "FEMMINE": 451,
+   "INDIRIZZO": "VIA COSTA ANDREA 24/A"
+ },
+ {
+   "SEZIONE": 741,
+   "TIPO_SEZ": "N",
+   "MASCHI": 320,
+   "FEMMINE": 387,
+   "INDIRIZZO": "VIA COSTA ANDREA 24/B"
+ },
+ {
+   "SEZIONE": 743,
+   "TIPO_SEZ": "N",
+   "MASCHI": 407,
+   "FEMMINE": 379,
+   "INDIRIZZO": "VIA PADOVA 69"
+ },
+ {
+   "SEZIONE": 746,
+   "TIPO_SEZ": "N",
+   "MASCHI": 376,
+   "FEMMINE": 405,
+   "INDIRIZZO": "VIA COSTA ANDREA 24/B"
+ },
+ {
+   "SEZIONE": 747,
+   "TIPO_SEZ": "N",
+   "MASCHI": 459,
+   "FEMMINE": 522,
+   "INDIRIZZO": "VIA SAN MAMETE 11"
+ },
+ {
+   "SEZIONE": 748,
+   "TIPO_SEZ": "N",
+   "MASCHI": 337,
+   "FEMMINE": 339,
+   "INDIRIZZO": "VIA COSTA ANDREA 24"
+ },
+ {
+   "SEZIONE": 749,
+   "TIPO_SEZ": "N",
+   "MASCHI": 393,
+   "FEMMINE": 331,
+   "INDIRIZZO": "VIA GIACOSA GIUSEPPE 46"
+ },
+ {
+   "SEZIONE": 751,
+   "TIPO_SEZ": "N",
+   "MASCHI": 329,
+   "FEMMINE": 371,
+   "INDIRIZZO": "VIA VENINI GIULIO E CORRADO 80"
+ },
+ {
+   "SEZIONE": 752,
+   "TIPO_SEZ": "N",
+   "MASCHI": 363,
+   "FEMMINE": 425,
+   "INDIRIZZO": "VIA VENINI GIULIO E CORRADO 80"
+ },
+ {
+   "SEZIONE": 753,
+   "TIPO_SEZ": "N",
+   "MASCHI": 373,
+   "FEMMINE": 387,
+   "INDIRIZZO": "VIA VENINI GIULIO E CORRADO 80"
+ },
+ {
+   "SEZIONE": 755,
+   "TIPO_SEZ": "N",
+   "MASCHI": 428,
+   "FEMMINE": 476,
+   "INDIRIZZO": "VIA LAMENNAIS 20/A"
+ },
+ {
+   "SEZIONE": 756,
+   "TIPO_SEZ": "N",
+   "MASCHI": 311,
+   "FEMMINE": 341,
+   "INDIRIZZO": "VIA VENINI GIULIO E CORRADO 80"
+ },
+ {
+   "SEZIONE": 760,
+   "TIPO_SEZ": "N",
+   "MASCHI": 406,
+   "FEMMINE": 461,
+   "INDIRIZZO": "VIA GIACOSA GIUSEPPE 46"
+ },
+ {
+   "SEZIONE": 762,
+   "TIPO_SEZ": "N",
+   "MASCHI": 369,
+   "FEMMINE": 342,
+   "INDIRIZZO": "VIA PADOVA 69"
+ },
+ {
+   "SEZIONE": 765,
+   "TIPO_SEZ": "N",
+   "MASCHI": 305,
+   "FEMMINE": 294,
+   "INDIRIZZO": "VIA PADOVA 69"
+ },
+ {
+   "SEZIONE": 766,
+   "TIPO_SEZ": "N",
+   "MASCHI": 432,
+   "FEMMINE": 449,
+   "INDIRIZZO": "VIA AIRAGHI 42"
+ },
+ {
+   "SEZIONE": 767,
+   "TIPO_SEZ": "N",
+   "MASCHI": 382,
+   "FEMMINE": 372,
+   "INDIRIZZO": "VIA COSTA ANDREA 24/B"
+ },
+ {
+   "SEZIONE": 770,
+   "TIPO_SEZ": "N",
+   "MASCHI": 374,
+   "FEMMINE": 388,
+   "INDIRIZZO": "VIA COSTA ANDREA 24/A"
+ },
+ {
+   "SEZIONE": 771,
+   "TIPO_SEZ": "N",
+   "MASCHI": 308,
+   "FEMMINE": 364,
+   "INDIRIZZO": "VIA SACCHINI ANTONIO 34"
+ },
+ {
+   "SEZIONE": 772,
+   "TIPO_SEZ": "N",
+   "MASCHI": 331,
+   "FEMMINE": 418,
+   "INDIRIZZO": "VIA COSTA ANDREA 24"
+ },
+ {
+   "SEZIONE": 775,
+   "TIPO_SEZ": "N",
+   "MASCHI": 385,
+   "FEMMINE": 418,
+   "INDIRIZZO": "VIA RUSSO VINCENZO 27"
+ },
+ {
+   "SEZIONE": 776,
+   "TIPO_SEZ": "S",
+   "MASCHI": 433,
+   "FEMMINE": 455,
+   "INDIRIZZO": "VIA RUSSO VINCENZO 27"
+ },
+ {
+   "SEZIONE": 778,
+   "TIPO_SEZ": "N",
+   "MASCHI": 365,
+   "FEMMINE": 396,
+   "INDIRIZZO": "VIA SANT'ELEMBARDO 4"
+ },
+ {
+   "SEZIONE": 780,
+   "TIPO_SEZ": "N",
+   "MASCHI": 452,
+   "FEMMINE": 492,
+   "INDIRIZZO": "VIA SANT'ELEMBARDO 4"
+ },
+ {
+   "SEZIONE": 781,
+   "TIPO_SEZ": "N",
+   "MASCHI": 521,
+   "FEMMINE": 515,
+   "INDIRIZZO": "VIA CESALPINO ANDREA 38"
+ },
+ {
+   "SEZIONE": 783,
+   "TIPO_SEZ": "S",
+   "MASCHI": 313,
+   "FEMMINE": 350,
+   "INDIRIZZO": "VIA SANT'ELEMBARDO 4"
+ },
+ {
+   "SEZIONE": 784,
+   "TIPO_SEZ": "N",
+   "MASCHI": 357,
+   "FEMMINE": 406,
+   "INDIRIZZO": "VIA CESALPINO ANDREA 38/A"
+ },
+ {
+   "SEZIONE": 785,
+   "TIPO_SEZ": "N",
+   "MASCHI": 478,
+   "FEMMINE": 490,
+   "INDIRIZZO": "VIA CESALPINO ANDREA 38/A"
+ },
+ {
+   "SEZIONE": 786,
+   "TIPO_SEZ": "N",
+   "MASCHI": 374,
+   "FEMMINE": 414,
+   "INDIRIZZO": "VIA MATTEI GIANFRANCO 12"
+ },
+ {
+   "SEZIONE": 788,
+   "TIPO_SEZ": "N",
+   "MASCHI": 507,
+   "FEMMINE": 371,
+   "INDIRIZZO": "VIA MATTEI GIANFRANCO 12"
+ },
+ {
+   "SEZIONE": 789,
+   "TIPO_SEZ": "N",
+   "MASCHI": 385,
+   "FEMMINE": 397,
+   "INDIRIZZO": "VIA MATTEI GIANFRANCO 12"
+ },
+ {
+   "SEZIONE": 790,
+   "TIPO_SEZ": "S",
+   "MASCHI": 520,
+   "FEMMINE": 561,
+   "INDIRIZZO": "VIA MATTEI GIANFRANCO 12"
+ },
+ {
+   "SEZIONE": 791,
+   "TIPO_SEZ": "N",
+   "MASCHI": 421,
+   "FEMMINE": 443,
+   "INDIRIZZO": "VIA SAN MAMETE 11/B"
+ },
+ {
+   "SEZIONE": 792,
+   "TIPO_SEZ": "N",
+   "MASCHI": 533,
+   "FEMMINE": 561,
+   "INDIRIZZO": "VIA SAN MAMETE 11/A"
+ },
+ {
+   "SEZIONE": 793,
+   "TIPO_SEZ": "N",
+   "MASCHI": 529,
+   "FEMMINE": 509,
+   "INDIRIZZO": "VIA SAN MAMETE 11"
+ },
+ {
+   "SEZIONE": 794,
+   "TIPO_SEZ": "N",
+   "MASCHI": 584,
+   "FEMMINE": 599,
+   "INDIRIZZO": "VIA SAN MAMETE 11"
+ },
+ {
+   "SEZIONE": 796,
+   "TIPO_SEZ": "N",
+   "MASCHI": 363,
+   "FEMMINE": 412,
+   "INDIRIZZO": "VIA CESALPINO ANDREA 38"
+ },
+ {
+   "SEZIONE": 797,
+   "TIPO_SEZ": "N",
+   "MASCHI": 300,
+   "FEMMINE": 340,
+   "INDIRIZZO": "VIA BRESCIANI TURRONI COSTANTI"
+ },
+ {
+   "SEZIONE": 799,
+   "TIPO_SEZ": "N",
+   "MASCHI": 467,
+   "FEMMINE": 491,
+   "INDIRIZZO": "VIA SAN MAMETE 11/B"
+ },
+ {
+   "SEZIONE": 800,
+   "TIPO_SEZ": "N",
+   "MASCHI": 409,
+   "FEMMINE": 465,
+   "INDIRIZZO": "VIA BRESCIANI TURRONI COSTANTI"
+ },
+ {
+   "SEZIONE": 801,
+   "TIPO_SEZ": "N",
+   "MASCHI": 359,
+   "FEMMINE": 370,
+   "INDIRIZZO": "VIA BRESCIANI TURRONI COSTANTI"
+ },
+ {
+   "SEZIONE": 802,
+   "TIPO_SEZ": "N",
+   "MASCHI": 330,
+   "FEMMINE": 384,
+   "INDIRIZZO": "VIA BRESCIANI TURRONI COSTANTI"
+ },
+ {
+   "SEZIONE": 803,
+   "TIPO_SEZ": "N",
+   "MASCHI": 394,
+   "FEMMINE": 409,
+   "INDIRIZZO": "VIA RUSSO VINCENZO 27/A"
+ },
+ {
+   "SEZIONE": 805,
+   "TIPO_SEZ": "N",
+   "MASCHI": 411,
+   "FEMMINE": 475,
+   "INDIRIZZO": "VIA BRESCIANI TURRONI COSTANTI"
+ },
+ {
+   "SEZIONE": 806,
+   "TIPO_SEZ": "N",
+   "MASCHI": 352,
+   "FEMMINE": 385,
+   "INDIRIZZO": "VIA RUSSO VINCENZO 27"
+ },
+ {
+   "SEZIONE": 807,
+   "TIPO_SEZ": "N",
+   "MASCHI": 325,
+   "FEMMINE": 405,
+   "INDIRIZZO": "VIA RUSSO VINCENZO 27/A"
+ },
+ {
+   "SEZIONE": 808,
+   "TIPO_SEZ": "N",
+   "MASCHI": 376,
+   "FEMMINE": 433,
+   "INDIRIZZO": "VIA RUSSO VINCENZO 27/A"
+ },
+ {
+   "SEZIONE": 812,
+   "TIPO_SEZ": "N",
+   "MASCHI": 372,
+   "FEMMINE": 511,
+   "INDIRIZZO": "VIA SAN GIACOMO 1"
+ },
+ {
+   "SEZIONE": 813,
+   "TIPO_SEZ": "N",
+   "MASCHI": 390,
+   "FEMMINE": 457,
+   "INDIRIZZO": "VIA PINI TOMMASO 3"
+ },
+ {
+   "SEZIONE": 816,
+   "TIPO_SEZ": "N",
+   "MASCHI": 374,
+   "FEMMINE": 414,
+   "INDIRIZZO": "VIA PASCAL CARLO 35"
+ },
+ {
+   "SEZIONE": 817,
+   "TIPO_SEZ": "N",
+   "MASCHI": 393,
+   "FEMMINE": 455,
+   "INDIRIZZO": "VIA PASCAL CARLO 35"
+ },
+ {
+   "SEZIONE": 818,
+   "TIPO_SEZ": "N",
+   "MASCHI": 373,
+   "FEMMINE": 474,
+   "INDIRIZZO": "VIA PASCAL CARLO 35/A"
+ },
+ {
+   "SEZIONE": 820,
+   "TIPO_SEZ": "N",
+   "MASCHI": 340,
+   "FEMMINE": 426,
+   "INDIRIZZO": "VIA FELTRE 68/1"
+ },
+ {
+   "SEZIONE": 821,
+   "TIPO_SEZ": "N",
+   "MASCHI": 376,
+   "FEMMINE": 439,
+   "INDIRIZZO": "VIA FELTRE 68/1A"
+ },
+ {
+   "SEZIONE": 822,
+   "TIPO_SEZ": "N",
+   "MASCHI": 467,
+   "FEMMINE": 538,
+   "INDIRIZZO": "VIA PINI TOMMASO 3"
+ },
+ {
+   "SEZIONE": 823,
+   "TIPO_SEZ": "S",
+   "MASCHI": 367,
+   "FEMMINE": 430,
+   "INDIRIZZO": "VIA PINI TOMMASO 3"
+ },
+ {
+   "SEZIONE": 824,
+   "TIPO_SEZ": "N",
+   "MASCHI": 497,
+   "FEMMINE": 525,
+   "INDIRIZZO": "VIA PINI TOMMASO 3"
+ },
+ {
+   "SEZIONE": 825,
+   "TIPO_SEZ": "N",
+   "MASCHI": 279,
+   "FEMMINE": 329,
+   "INDIRIZZO": "PZA LEONARDO DA VINCI 2"
+ },
+ {
+   "SEZIONE": 827,
+   "TIPO_SEZ": "N",
+   "MASCHI": 274,
+   "FEMMINE": 356,
+   "INDIRIZZO": "PZA LEONARDO DA VINCI 2"
+ },
+ {
+   "SEZIONE": 828,
+   "TIPO_SEZ": "N",
+   "MASCHI": 327,
+   "FEMMINE": 390,
+   "INDIRIZZO": "VIA TAJANI FILIPPO 12"
+ },
+ {
+   "SEZIONE": 832,
+   "TIPO_SEZ": "N",
+   "MASCHI": 318,
+   "FEMMINE": 411,
+   "INDIRIZZO": "VLE ROMAGNA 16"
+ },
+ {
+   "SEZIONE": 834,
+   "TIPO_SEZ": "N",
+   "MASCHI": 365,
+   "FEMMINE": 437,
+   "INDIRIZZO": "VIA ZAMBALDI SILVIO 2"
+ },
+ {
+   "SEZIONE": 835,
+   "TIPO_SEZ": "S",
+   "MASCHI": 394,
+   "FEMMINE": 470,
+   "INDIRIZZO": "VIA ZAMBALDI SILVIO 2"
+ },
+ {
+   "SEZIONE": 836,
+   "TIPO_SEZ": "N",
+   "MASCHI": 446,
+   "FEMMINE": 527,
+   "INDIRIZZO": "VIA SAN GIACOMO 1/A"
+ },
+ {
+   "SEZIONE": 837,
+   "TIPO_SEZ": "S",
+   "MASCHI": 484,
+   "FEMMINE": 488,
+   "INDIRIZZO": "VIA ZAMBALDI SILVIO 2"
+ },
+ {
+   "SEZIONE": 838,
+   "TIPO_SEZ": "N",
+   "MASCHI": 376,
+   "FEMMINE": 448,
+   "INDIRIZZO": "PZA SAN GEROLAMO 2"
+ },
+ {
+   "SEZIONE": 839,
+   "TIPO_SEZ": "N",
+   "MASCHI": 308,
+   "FEMMINE": 395,
+   "INDIRIZZO": "VIA TAJANI FILIPPO 12"
+ },
+ {
+   "SEZIONE": 840,
+   "TIPO_SEZ": "N",
+   "MASCHI": 307,
+   "FEMMINE": 394,
+   "INDIRIZZO": "VIA TAJANI FILIPPO 12"
+ },
+ {
+   "SEZIONE": 841,
+   "TIPO_SEZ": "N",
+   "MASCHI": 346,
+   "FEMMINE": 390,
+   "INDIRIZZO": "VIA TAJANI FILIPPO 12"
+ },
+ {
+   "SEZIONE": 844,
+   "TIPO_SEZ": "N",
+   "MASCHI": 297,
+   "FEMMINE": 361,
+   "INDIRIZZO": "PZA SAN GEROLAMO 2"
+ },
+ {
+   "SEZIONE": 847,
+   "TIPO_SEZ": "N",
+   "MASCHI": 329,
+   "FEMMINE": 392,
+   "INDIRIZZO": "PZA SAN GEROLAMO 2"
+ },
+ {
+   "SEZIONE": 848,
+   "TIPO_SEZ": "N",
+   "MASCHI": 264,
+   "FEMMINE": 343,
+   "INDIRIZZO": "PZA SAN GEROLAMO 2"
+ },
+ {
+   "SEZIONE": 852,
+   "TIPO_SEZ": "N",
+   "MASCHI": 324,
+   "FEMMINE": 411,
+   "INDIRIZZO": "VIA SAN GIACOMO 1/A"
+ },
+ {
+   "SEZIONE": 853,
+   "TIPO_SEZ": "N",
+   "MASCHI": 384,
+   "FEMMINE": 487,
+   "INDIRIZZO": "VLE ROMAGNA 16"
+ },
+ {
+   "SEZIONE": 855,
+   "TIPO_SEZ": "N",
+   "MASCHI": 339,
+   "FEMMINE": 435,
+   "INDIRIZZO": "VLE ROMAGNA 16"
+ },
+ {
+   "SEZIONE": 856,
+   "TIPO_SEZ": "N",
+   "MASCHI": 324,
+   "FEMMINE": 386,
+   "INDIRIZZO": "VIA DE ANDREIS LUIGI 10/A"
+ },
+ {
+   "SEZIONE": 857,
+   "TIPO_SEZ": "N",
+   "MASCHI": 397,
+   "FEMMINE": 436,
+   "INDIRIZZO": "VLE ROMAGNA 16"
+ },
+ {
+   "SEZIONE": 859,
+   "TIPO_SEZ": "N",
+   "MASCHI": 440,
+   "FEMMINE": 509,
+   "INDIRIZZO": "VIA DE ANDREIS LUIGI 10"
+ },
+ {
+   "SEZIONE": 861,
+   "TIPO_SEZ": "N",
+   "MASCHI": 388,
+   "FEMMINE": 456,
+   "INDIRIZZO": "VIA DE ANDREIS LUIGI 10"
+ },
+ {
+   "SEZIONE": 862,
+   "TIPO_SEZ": "N",
+   "MASCHI": 298,
+   "FEMMINE": 401,
+   "INDIRIZZO": "VLE ROMAGNA 18"
+ },
+ {
+   "SEZIONE": 863,
+   "TIPO_SEZ": "N",
+   "MASCHI": 333,
+   "FEMMINE": 406,
+   "INDIRIZZO": "VLE MUGELLO 5"
+ },
+ {
+   "SEZIONE": 865,
+   "TIPO_SEZ": "N",
+   "MASCHI": 311,
+   "FEMMINE": 339,
+   "INDIRIZZO": "VIA DE ANDREIS LUIGI 10"
+ },
+ {
+   "SEZIONE": 866,
+   "TIPO_SEZ": "S",
+   "MASCHI": 298,
+   "FEMMINE": 417,
+   "INDIRIZZO": "VIA SAPONARO MICHELE 20/A"
+ },
+ {
+   "SEZIONE": 868,
+   "TIPO_SEZ": "N",
+   "MASCHI": 340,
+   "FEMMINE": 439,
+   "INDIRIZZO": "VLE MUGELLO 3"
+ },
+ {
+   "SEZIONE": 869,
+   "TIPO_SEZ": "N",
+   "MASCHI": 329,
+   "FEMMINE": 402,
+   "INDIRIZZO": "VIA DE ANDREIS LUIGI 10"
+ },
+ {
+   "SEZIONE": 871,
+   "TIPO_SEZ": "N",
+   "MASCHI": 321,
+   "FEMMINE": 380,
+   "INDIRIZZO": "VLE MUGELLO 5"
+ },
+ {
+   "SEZIONE": 874,
+   "TIPO_SEZ": "N",
+   "MASCHI": 477,
+   "FEMMINE": 575,
+   "INDIRIZZO": "VLE MUGELLO 3"
+ },
+ {
+   "SEZIONE": 875,
+   "TIPO_SEZ": "N",
+   "MASCHI": 390,
+   "FEMMINE": 477,
+   "INDIRIZZO": "VLE MUGELLO 3"
+ },
+ {
+   "SEZIONE": 877,
+   "TIPO_SEZ": "N",
+   "MASCHI": 337,
+   "FEMMINE": 409,
+   "INDIRIZZO": "VIA DE ANDREIS LUIGI 10"
+ },
+ {
+   "SEZIONE": 878,
+   "TIPO_SEZ": "N",
+   "MASCHI": 377,
+   "FEMMINE": 409,
+   "INDIRIZZO": "VIA DECORATI AL VALOR CIVILE 1"
+ },
+ {
+   "SEZIONE": 879,
+   "TIPO_SEZ": "N",
+   "MASCHI": 286,
+   "FEMMINE": 333,
+   "INDIRIZZO": "VIA BEZZECCA 18"
+ },
+ {
+   "SEZIONE": 881,
+   "TIPO_SEZ": "N",
+   "MASCHI": 404,
+   "FEMMINE": 466,
+   "INDIRIZZO": "VIA PARETO VILFREDO 26"
+ },
+ {
+   "SEZIONE": 883,
+   "TIPO_SEZ": "N",
+   "MASCHI": 424,
+   "FEMMINE": 519,
+   "INDIRIZZO": "VIA MOROSINI EMILIO 11"
+ },
+ {
+   "SEZIONE": 884,
+   "TIPO_SEZ": "N",
+   "MASCHI": 318,
+   "FEMMINE": 425,
+   "INDIRIZZO": "VIA EINSTEIN ALBERTO 3"
+ },
+ {
+   "SEZIONE": 886,
+   "TIPO_SEZ": "N",
+   "MASCHI": 346,
+   "FEMMINE": 438,
+   "INDIRIZZO": "VIA BEZZECCA 18"
+ },
+ {
+   "SEZIONE": 889,
+   "TIPO_SEZ": "N",
+   "MASCHI": 336,
+   "FEMMINE": 421,
+   "INDIRIZZO": "VIA MONTE VELINO 4"
+ },
+ {
+   "SEZIONE": 890,
+   "TIPO_SEZ": "N",
+   "MASCHI": 333,
+   "FEMMINE": 368,
+   "INDIRIZZO": "VIA MONTE VELINO 4"
+ },
+ {
+   "SEZIONE": 891,
+   "TIPO_SEZ": "N",
+   "MASCHI": 341,
+   "FEMMINE": 402,
+   "INDIRIZZO": "VIA MONTE VELINO 4/A"
+ },
+ {
+   "SEZIONE": 895,
+   "TIPO_SEZ": "N",
+   "MASCHI": 344,
+   "FEMMINE": 425,
+   "INDIRIZZO": "VIA MONTE VELINO 4/A"
+ },
+ {
+   "SEZIONE": 898,
+   "TIPO_SEZ": "N",
+   "MASCHI": 295,
+   "FEMMINE": 331,
+   "INDIRIZZO": "VIA MONTE VELINO 4"
+ },
+ {
+   "SEZIONE": 899,
+   "TIPO_SEZ": "N",
+   "MASCHI": 395,
+   "FEMMINE": 424,
+   "INDIRIZZO": "VIA MONTE VELINO 4/A"
+ },
+ {
+   "SEZIONE": 900,
+   "TIPO_SEZ": "N",
+   "MASCHI": 394,
+   "FEMMINE": 443,
+   "INDIRIZZO": "VIA WOLF FERRARI ERMANNO 6"
+ },
+ {
+   "SEZIONE": 901,
+   "TIPO_SEZ": "N",
+   "MASCHI": 218,
+   "FEMMINE": 287,
+   "INDIRIZZO": "VIA MONTE VELINO 4/A"
+ },
+ {
+   "SEZIONE": 902,
+   "TIPO_SEZ": "N",
+   "MASCHI": 335,
+   "FEMMINE": 370,
+   "INDIRIZZO": "VIA MONTE VELINO 4/A"
+ },
+ {
+   "SEZIONE": 903,
+   "TIPO_SEZ": "N",
+   "MASCHI": 347,
+   "FEMMINE": 383,
+   "INDIRIZZO": "VIA MONTE VELINO 4"
+ },
+ {
+   "SEZIONE": 904,
+   "TIPO_SEZ": "N",
+   "MASCHI": 315,
+   "FEMMINE": 378,
+   "INDIRIZZO": "VIA MONTE VELINO 4"
+ },
+ {
+   "SEZIONE": 905,
+   "TIPO_SEZ": "N",
+   "MASCHI": 286,
+   "FEMMINE": 395,
+   "INDIRIZZO": "VIA EINSTEIN ALBERTO 3"
+ },
+ {
+   "SEZIONE": 906,
+   "TIPO_SEZ": "N",
+   "MASCHI": 471,
+   "FEMMINE": 549,
+   "INDIRIZZO": "VIA DEI NARCISI 2"
+ },
+ {
+   "SEZIONE": 907,
+   "TIPO_SEZ": "N",
+   "MASCHI": 441,
+   "FEMMINE": 501,
+   "INDIRIZZO": "VIA EINSTEIN ALBERTO 3/A"
+ },
+ {
+   "SEZIONE": 908,
+   "TIPO_SEZ": "N",
+   "MASCHI": 473,
+   "FEMMINE": 510,
+   "INDIRIZZO": "VIA COLLETTA PIETRO 49"
+ },
+ {
+   "SEZIONE": 909,
+   "TIPO_SEZ": "N",
+   "MASCHI": 358,
+   "FEMMINE": 390,
+   "INDIRIZZO": "LGO GUERRIERI GONZAGA 4"
+ },
+ {
+   "SEZIONE": 910,
+   "TIPO_SEZ": "N",
+   "MASCHI": 368,
+   "FEMMINE": 453,
+   "INDIRIZZO": "VIA DALMAZIA 4"
+ },
+ {
+   "SEZIONE": 912,
+   "TIPO_SEZ": "N",
+   "MASCHI": 320,
+   "FEMMINE": 396,
+   "INDIRIZZO": "LGO GUERRIERI GONZAGA ANSELMO"
+ },
+ {
+   "SEZIONE": 913,
+   "TIPO_SEZ": "N",
+   "MASCHI": 401,
+   "FEMMINE": 441,
+   "INDIRIZZO": "LGO GUERRIERI GONZAGA ANSELMO"
+ },
+ {
+   "SEZIONE": 914,
+   "TIPO_SEZ": "N",
+   "MASCHI": 340,
+   "FEMMINE": 372,
+   "INDIRIZZO": "VIA UCELLI DI NEMI GUIDO 54"
+ },
+ {
+   "SEZIONE": 915,
+   "TIPO_SEZ": "S",
+   "MASCHI": 432,
+   "FEMMINE": 416,
+   "INDIRIZZO": "VIA UCELLI DI NEMI GUIDO 54"
+ },
+ {
+   "SEZIONE": 916,
+   "TIPO_SEZ": "N",
+   "MASCHI": 195,
+   "FEMMINE": 159,
+   "INDIRIZZO": "VIA MONTE PIANA 11"
+ },
+ {
+   "SEZIONE": 917,
+   "TIPO_SEZ": "O",
+   "MASCHI": 496,
+   "FEMMINE": 508,
+   "INDIRIZZO": "VIA MONTE PIANA 11"
+ },
+ {
+   "SEZIONE": 920,
+   "TIPO_SEZ": "N",
+   "MASCHI": 534,
+   "FEMMINE": 500,
+   "INDIRIZZO": "VIA MONTE PIANA 11"
+ },
+ {
+   "SEZIONE": 921,
+   "TIPO_SEZ": "N",
+   "MASCHI": 501,
+   "FEMMINE": 465,
+   "INDIRIZZO": "VIA MARTINENGO FRANCESCO 36"
+ },
+ {
+   "SEZIONE": 922,
+   "TIPO_SEZ": "N",
+   "MASCHI": 312,
+   "FEMMINE": 381,
+   "INDIRIZZO": "VIA MARTINENGO FRANCESCO 36/A"
+ },
+ {
+   "SEZIONE": 924,
+   "TIPO_SEZ": "N",
+   "MASCHI": 370,
+   "FEMMINE": 412,
+   "INDIRIZZO": "VIA VALLARSA 19"
+ },
+ {
+   "SEZIONE": 925,
+   "TIPO_SEZ": "N",
+   "MASCHI": 452,
+   "FEMMINE": 488,
+   "INDIRIZZO": "VIA VALLARSA 19"
+ },
+ {
+   "SEZIONE": 927,
+   "TIPO_SEZ": "N",
+   "MASCHI": 310,
+   "FEMMINE": 383,
+   "INDIRIZZO": "VIA VALLARSA 19/A"
+ },
+ {
+   "SEZIONE": 928,
+   "TIPO_SEZ": "N",
+   "MASCHI": 456,
+   "FEMMINE": 497,
+   "INDIRIZZO": "VIA VALLARSA 19/A"
+ },
+ {
+   "SEZIONE": 929,
+   "TIPO_SEZ": "N",
+   "MASCHI": 66,
+   "FEMMINE": 14,
+   "INDIRIZZO": "VLE ORTLES 69"
+ },
+ {
+   "SEZIONE": 930,
+   "TIPO_SEZ": "N",
+   "MASCHI": 441,
+   "FEMMINE": 485,
+   "INDIRIZZO": "VIA VALLARSA 19"
+ },
+ {
+   "SEZIONE": 931,
+   "TIPO_SEZ": "N",
+   "MASCHI": 343,
+   "FEMMINE": 378,
+   "INDIRIZZO": "VIA VALLARSA 19"
+ },
+ {
+   "SEZIONE": 933,
+   "TIPO_SEZ": "N",
+   "MASCHI": 321,
+   "FEMMINE": 382,
+   "INDIRIZZO": "VIA POLESINE 12"
+ },
+ {
+   "SEZIONE": 934,
+   "TIPO_SEZ": "N",
+   "MASCHI": 301,
+   "FEMMINE": 362,
+   "INDIRIZZO": "VIA POLESINE 12"
+ },
+ {
+   "SEZIONE": 936,
+   "TIPO_SEZ": "N",
+   "MASCHI": 292,
+   "FEMMINE": 357,
+   "INDIRIZZO": "VIA MINCIO 21"
+ },
+ {
+   "SEZIONE": 938,
+   "TIPO_SEZ": "N",
+   "MASCHI": 343,
+   "FEMMINE": 366,
+   "INDIRIZZO": "VIA MINCIO 21"
+ },
+ {
+   "SEZIONE": 940,
+   "TIPO_SEZ": "N",
+   "MASCHI": 214,
+   "FEMMINE": 271,
+   "INDIRIZZO": "VIA POLESINE 14"
+ },
+ {
+   "SEZIONE": 941,
+   "TIPO_SEZ": "N",
+   "MASCHI": 307,
+   "FEMMINE": 400,
+   "INDIRIZZO": "VIA POLESINE 14"
+ },
+ {
+   "SEZIONE": 942,
+   "TIPO_SEZ": "N",
+   "MASCHI": 266,
+   "FEMMINE": 315,
+   "INDIRIZZO": "VIA POLESINE 12"
+ },
+ {
+   "SEZIONE": 945,
+   "TIPO_SEZ": "N",
+   "MASCHI": 367,
+   "FEMMINE": 382,
+   "INDIRIZZO": "VIA S. DIONIGI 36"
+ },
+ {
+   "SEZIONE": 946,
+   "TIPO_SEZ": "N",
+   "MASCHI": 292,
+   "FEMMINE": 328,
+   "INDIRIZZO": "VIA S. DIONIGI 36"
+ },
+ {
+   "SEZIONE": 947,
+   "TIPO_SEZ": "N",
+   "MASCHI": 284,
+   "FEMMINE": 328,
+   "INDIRIZZO": "VIA S. DIONIGI 36"
+ },
+ {
+   "SEZIONE": 948,
+   "TIPO_SEZ": "N",
+   "MASCHI": 417,
+   "FEMMINE": 454,
+   "INDIRIZZO": "VIA S. DIONIGI 36/A"
+ },
+ {
+   "SEZIONE": 951,
+   "TIPO_SEZ": "N",
+   "MASCHI": 420,
+   "FEMMINE": 412,
+   "INDIRIZZO": "VIA S. DIONIGI 36/A"
+ },
+ {
+   "SEZIONE": 952,
+   "TIPO_SEZ": "N",
+   "MASCHI": 380,
+   "FEMMINE": 362,
+   "INDIRIZZO": "VIA DEI GUARNERI 21"
+ },
+ {
+   "SEZIONE": 953,
+   "TIPO_SEZ": "S",
+   "MASCHI": 518,
+   "FEMMINE": 397,
+   "INDIRIZZO": "VIA DEI GUARNERI 21"
+ },
+ {
+   "SEZIONE": 954,
+   "TIPO_SEZ": "N",
+   "MASCHI": 411,
+   "FEMMINE": 435,
+   "INDIRIZZO": "VIA SAPONARO MICHELE 36/A"
+ },
+ {
+   "SEZIONE": 955,
+   "TIPO_SEZ": "N",
+   "MASCHI": 498,
+   "FEMMINE": 474,
+   "INDIRIZZO": "VIA DELL' ARCADIA 22"
+ },
+ {
+   "SEZIONE": 956,
+   "TIPO_SEZ": "N",
+   "MASCHI": 276,
+   "FEMMINE": 315,
+   "INDIRIZZO": "VIA S. DIONIGI 36"
+ },
+ {
+   "SEZIONE": 957,
+   "TIPO_SEZ": "S",
+   "MASCHI": 32,
+   "FEMMINE": 95,
+   "INDIRIZZO": "VIA DEI CINQUECENTO 21"
+ },
+ {
+   "SEZIONE": 959,
+   "TIPO_SEZ": "N",
+   "MASCHI": 449,
+   "FEMMINE": 447,
+   "INDIRIZZO": "VIA S. DIONIGI 36"
+ },
+ {
+   "SEZIONE": 960,
+   "TIPO_SEZ": "N",
+   "MASCHI": 453,
+   "FEMMINE": 492,
+   "INDIRIZZO": "VIA DEI GUARNERI 21"
+ },
+ {
+   "SEZIONE": 961,
+   "TIPO_SEZ": "N",
+   "MASCHI": 368,
+   "FEMMINE": 410,
+   "INDIRIZZO": "VIA DEI GUARNERI 21"
+ },
+ {
+   "SEZIONE": 962,
+   "TIPO_SEZ": "N",
+   "MASCHI": 369,
+   "FEMMINE": 406,
+   "INDIRIZZO": "VIA WOLF FERRARI ERMANNO 6"
+ },
+ {
+   "SEZIONE": 963,
+   "TIPO_SEZ": "N",
+   "MASCHI": 376,
+   "FEMMINE": 386,
+   "INDIRIZZO": "VIA WOLF FERRARI ERMANNO 6"
+ },
+ {
+   "SEZIONE": 964,
+   "TIPO_SEZ": "N",
+   "MASCHI": 449,
+   "FEMMINE": 486,
+   "INDIRIZZO": "VIA ANTONINI GIACOMO 50"
+ },
+ {
+   "SEZIONE": 965,
+   "TIPO_SEZ": "N",
+   "MASCHI": 412,
+   "FEMMINE": 477,
+   "INDIRIZZO": "VIA ANTONINI GIACOMO 50"
+ },
+ {
+   "SEZIONE": 968,
+   "TIPO_SEZ": "N",
+   "MASCHI": 416,
+   "FEMMINE": 478,
+   "INDIRIZZO": "VIA ANTONINI GIACOMO 50"
+ },
+ {
+   "SEZIONE": 969,
+   "TIPO_SEZ": "N",
+   "MASCHI": 479,
+   "FEMMINE": 482,
+   "INDIRIZZO": "VIA BOGNETTI GIOVANNI E G 15"
+ },
+ {
+   "SEZIONE": 970,
+   "TIPO_SEZ": "N",
+   "MASCHI": 485,
+   "FEMMINE": 540,
+   "INDIRIZZO": "VIA ANTONINI GIACOMO 50"
+ },
+ {
+   "SEZIONE": 971,
+   "TIPO_SEZ": "N",
+   "MASCHI": 466,
+   "FEMMINE": 490,
+   "INDIRIZZO": "VIA BOGNETTI GIOVANNI E G 15"
+ },
+ {
+   "SEZIONE": 973,
+   "TIPO_SEZ": "N",
+   "MASCHI": 402,
+   "FEMMINE": 458,
+   "INDIRIZZO": "VIA BRUNACCI VINCENZO 2"
+ },
+ {
+   "SEZIONE": 974,
+   "TIPO_SEZ": "N",
+   "MASCHI": 345,
+   "FEMMINE": 433,
+   "INDIRIZZO": "VIA BRUNACCI VINCENZO 2"
+ },
+ {
+   "SEZIONE": 976,
+   "TIPO_SEZ": "N",
+   "MASCHI": 320,
+   "FEMMINE": 365,
+   "INDIRIZZO": "VIA BRUNACCI VINCENZO 2"
+ },
+ {
+   "SEZIONE": 978,
+   "TIPO_SEZ": "N",
+   "MASCHI": 379,
+   "FEMMINE": 371,
+   "INDIRIZZO": "VIA PESCARENICO 6/A"
+ },
+ {
+   "SEZIONE": 979,
+   "TIPO_SEZ": "N",
+   "MASCHI": 325,
+   "FEMMINE": 416,
+   "INDIRIZZO": "VIA PALMIERI NICOLA 26"
+ },
+ {
+   "SEZIONE": 981,
+   "TIPO_SEZ": "N",
+   "MASCHI": 389,
+   "FEMMINE": 412,
+   "INDIRIZZO": "VIA PALMIERI NICOLA 24"
+ },
+ {
+   "SEZIONE": 982,
+   "TIPO_SEZ": "N",
+   "MASCHI": 355,
+   "FEMMINE": 338,
+   "INDIRIZZO": "VIA PALMIERI NICOLA 24"
+ },
+ {
+   "SEZIONE": 983,
+   "TIPO_SEZ": "N",
+   "MASCHI": 334,
+   "FEMMINE": 370,
+   "INDIRIZZO": "VIA BOGNETTI GIOVANNI E G 15"
+ },
+ {
+   "SEZIONE": 984,
+   "TIPO_SEZ": "N",
+   "MASCHI": 291,
+   "FEMMINE": 318,
+   "INDIRIZZO": "VIA BOGNETTI GIOVANNI E G 15"
+ },
+ {
+   "SEZIONE": 985,
+   "TIPO_SEZ": "N",
+   "MASCHI": 359,
+   "FEMMINE": 436,
+   "INDIRIZZO": "VIA PALMIERI NICOLA 24/A"
+ },
+ {
+   "SEZIONE": 986,
+   "TIPO_SEZ": "N",
+   "MASCHI": 359,
+   "FEMMINE": 387,
+   "INDIRIZZO": "VIA PALMIERI NICOLA 24/A"
+ },
+ {
+   "SEZIONE": 988,
+   "TIPO_SEZ": "N",
+   "MASCHI": 415,
+   "FEMMINE": 404,
+   "INDIRIZZO": "VIA PALMIERI NICOLA 24/A"
+ },
+ {
+   "SEZIONE": 989,
+   "TIPO_SEZ": "N",
+   "MASCHI": 410,
+   "FEMMINE": 434,
+   "INDIRIZZO": "VIA PALMIERI NICOLA 24/A"
+ },
+ {
+   "SEZIONE": 990,
+   "TIPO_SEZ": "N",
+   "MASCHI": 420,
+   "FEMMINE": 426,
+   "INDIRIZZO": "VIA PALMIERI NICOLA 24"
+ },
+ {
+   "SEZIONE": 994,
+   "TIPO_SEZ": "O",
+   "MASCHI": 317,
+   "FEMMINE": 368,
+   "INDIRIZZO": "VIA PALMIERI NICOLA 26"
+ },
+ {
+   "SEZIONE": 995,
+   "TIPO_SEZ": "N",
+   "MASCHI": 316,
+   "FEMMINE": 355,
+   "INDIRIZZO": "VIA PALMIERI NICOLA 24"
+ },
+ {
+   "SEZIONE": 1001,
+   "TIPO_SEZ": "N",
+   "MASCHI": 442,
+   "FEMMINE": 490,
+   "INDIRIZZO": "VIA PALMIERI NICOLA 26"
+ },
+ {
+   "SEZIONE": 1003,
+   "TIPO_SEZ": "N",
+   "MASCHI": 360,
+   "FEMMINE": 359,
+   "INDIRIZZO": "VIA PALMIERI NICOLA 26"
+ },
+ {
+   "SEZIONE": 1004,
+   "TIPO_SEZ": "N",
+   "MASCHI": 335,
+   "FEMMINE": 367,
+   "INDIRIZZO": "VIA DE NICOLA ENRICO 2"
+ },
+ {
+   "SEZIONE": 1005,
+   "TIPO_SEZ": "N",
+   "MASCHI": 378,
+   "FEMMINE": 419,
+   "INDIRIZZO": "VIA SALERNO 3/A"
+ },
+ {
+   "SEZIONE": 1006,
+   "TIPO_SEZ": "N",
+   "MASCHI": 335,
+   "FEMMINE": 362,
+   "INDIRIZZO": "VIA SALERNO 3"
+ },
+ {
+   "SEZIONE": 1007,
+   "TIPO_SEZ": "N",
+   "MASCHI": 299,
+   "FEMMINE": 356,
+   "INDIRIZZO": "VIA SALERNO 3"
+ },
+ {
+   "SEZIONE": 1008,
+   "TIPO_SEZ": "S",
+   "MASCHI": 355,
+   "FEMMINE": 428,
+   "INDIRIZZO": "VIA SALERNO 1"
+ },
+ {
+   "SEZIONE": 1010,
+   "TIPO_SEZ": "N",
+   "MASCHI": 340,
+   "FEMMINE": 351,
+   "INDIRIZZO": "VIA PEPERE ALBERTO 2"
+ },
+ {
+   "SEZIONE": 1012,
+   "TIPO_SEZ": "S",
+   "MASCHI": 88,
+   "FEMMINE": 169,
+   "INDIRIZZO": "VIA DI RUDINI ANTONIO 3"
+ },
+ {
+   "SEZIONE": 1013,
+   "TIPO_SEZ": "N",
+   "MASCHI": 369,
+   "FEMMINE": 429,
+   "INDIRIZZO": "VIA BALSAMO CRIVELLI 3"
+ },
+ {
+   "SEZIONE": 1015,
+   "TIPO_SEZ": "N",
+   "MASCHI": 353,
+   "FEMMINE": 395,
+   "INDIRIZZO": "VIA BALSAMO CRIVELLI 3"
+ },
+ {
+   "SEZIONE": 1016,
+   "TIPO_SEZ": "N",
+   "MASCHI": 368,
+   "FEMMINE": 435,
+   "INDIRIZZO": "VIA BALSAMO CRIVELLI 3"
+ },
+ {
+   "SEZIONE": 1017,
+   "TIPO_SEZ": "N",
+   "MASCHI": 442,
+   "FEMMINE": 503,
+   "INDIRIZZO": "VIA PESTALOZZI GIOVANNI 13"
+ },
+ {
+   "SEZIONE": 1019,
+   "TIPO_SEZ": "N",
+   "MASCHI": 456,
+   "FEMMINE": 502,
+   "INDIRIZZO": "VIA VESPRI SICILIANI 75/A"
+ },
+ {
+   "SEZIONE": 1020,
+   "TIPO_SEZ": "N",
+   "MASCHI": 336,
+   "FEMMINE": 409,
+   "INDIRIZZO": "VIA CARRIERA ROSALBA 12"
+ },
+ {
+   "SEZIONE": 1021,
+   "TIPO_SEZ": "N",
+   "MASCHI": 387,
+   "FEMMINE": 481,
+   "INDIRIZZO": "VIA VESPRI SICILIANI 75"
+ },
+ {
+   "SEZIONE": 1022,
+   "TIPO_SEZ": "N",
+   "MASCHI": 272,
+   "FEMMINE": 349,
+   "INDIRIZZO": "VIA ZUARA 7"
+ },
+ {
+   "SEZIONE": 1023,
+   "TIPO_SEZ": "N",
+   "MASCHI": 320,
+   "FEMMINE": 359,
+   "INDIRIZZO": "VIA ZUARA 7"
+ },
+ {
+   "SEZIONE": 1024,
+   "TIPO_SEZ": "N",
+   "MASCHI": 349,
+   "FEMMINE": 432,
+   "INDIRIZZO": "VIA VESPRI SICILIANI 75/A"
+ },
+ {
+   "SEZIONE": 1025,
+   "TIPO_SEZ": "N",
+   "MASCHI": 284,
+   "FEMMINE": 377,
+   "INDIRIZZO": "VIA VESPRI SICILIANI 75/A"
+ },
+ {
+   "SEZIONE": 1027,
+   "TIPO_SEZ": "N",
+   "MASCHI": 321,
+   "FEMMINE": 362,
+   "INDIRIZZO": "VIA VESPRI SICILIANI 75/A"
+ },
+ {
+   "SEZIONE": 1028,
+   "TIPO_SEZ": "N",
+   "MASCHI": 420,
+   "FEMMINE": 494,
+   "INDIRIZZO": "VIA SCROSATI LUIGI 3"
+ },
+ {
+   "SEZIONE": 1029,
+   "TIPO_SEZ": "N",
+   "MASCHI": 361,
+   "FEMMINE": 386,
+   "INDIRIZZO": "VIA DEI NARCISI 4"
+ },
+ {
+   "SEZIONE": 1030,
+   "TIPO_SEZ": "N",
+   "MASCHI": 251,
+   "FEMMINE": 319,
+   "INDIRIZZO": "VIA DEI NARCISI 4"
+ },
+ {
+   "SEZIONE": 1032,
+   "TIPO_SEZ": "N",
+   "MASCHI": 278,
+   "FEMMINE": 344,
+   "INDIRIZZO": "VIA DEI NARCISI 2"
+ },
+ {
+   "SEZIONE": 1033,
+   "TIPO_SEZ": "N",
+   "MASCHI": 325,
+   "FEMMINE": 435,
+   "INDIRIZZO": "VIA SCROSATI LUIGI 3"
+ },
+ {
+   "SEZIONE": 1034,
+   "TIPO_SEZ": "N",
+   "MASCHI": 386,
+   "FEMMINE": 411,
+   "INDIRIZZO": "VIA DEI NARCISI 4"
+ },
+ {
+   "SEZIONE": 1035,
+   "TIPO_SEZ": "N",
+   "MASCHI": 247,
+   "FEMMINE": 257,
+   "INDIRIZZO": "VIA DEI NARCISI 4"
+ },
+ {
+   "SEZIONE": 1037,
+   "TIPO_SEZ": "N",
+   "MASCHI": 476,
+   "FEMMINE": 511,
+   "INDIRIZZO": "VIA DEI NARCISI 4/A"
+ },
+ {
+   "SEZIONE": 1038,
+   "TIPO_SEZ": "N",
+   "MASCHI": 304,
+   "FEMMINE": 342,
+   "INDIRIZZO": "VIA DEI NARCISI 4/A"
+ },
+ {
+   "SEZIONE": 1039,
+   "TIPO_SEZ": "N",
+   "MASCHI": 46,
+   "FEMMINE": 232,
+   "INDIRIZZO": "VLE CATERINA DA FORLI 19"
+ },
+ {
+   "SEZIONE": 1040,
+   "TIPO_SEZ": "N",
+   "MASCHI": 41,
+   "FEMMINE": 106,
+   "INDIRIZZO": "VIA BARTOLOMEO D'ALVIANO 78"
+ },
+ {
+   "SEZIONE": 1043,
+   "TIPO_SEZ": "O",
+   "MASCHI": 0,
+   "FEMMINE": 0,
+   "INDIRIZZO": "VIA TRIVULZIO ANTONIO TOLOMEO"
+ },
+ {
+   "SEZIONE": 1044,
+   "TIPO_SEZ": "N",
+   "MASCHI": 52,
+   "FEMMINE": 183,
+   "INDIRIZZO": "VIA TRIVULZIO ANTONIO TOLOMEO"
+ },
+ {
+   "SEZIONE": 1045,
+   "TIPO_SEZ": "N",
+   "MASCHI": 284,
+   "FEMMINE": 372,
+   "INDIRIZZO": "VIA CRIMEA 22/A"
+ },
+ {
+   "SEZIONE": 1046,
+   "TIPO_SEZ": "N",
+   "MASCHI": 219,
+   "FEMMINE": 253,
+   "INDIRIZZO": "VIA FORZE ARMATE 67"
+ },
+ {
+   "SEZIONE": 1048,
+   "TIPO_SEZ": "N",
+   "MASCHI": 303,
+   "FEMMINE": 344,
+   "INDIRIZZO": "VIA FORZE ARMATE 67"
+ },
+ {
+   "SEZIONE": 1050,
+   "TIPO_SEZ": "N",
+   "MASCHI": 374,
+   "FEMMINE": 463,
+   "INDIRIZZO": "VIA FORZE ARMATE 67"
+ },
+ {
+   "SEZIONE": 1051,
+   "TIPO_SEZ": "N",
+   "MASCHI": 368,
+   "FEMMINE": 435,
+   "INDIRIZZO": "VIA DOLCI CARLO 5/A"
+ },
+ {
+   "SEZIONE": 1052,
+   "TIPO_SEZ": "N",
+   "MASCHI": 389,
+   "FEMMINE": 454,
+   "INDIRIZZO": "VIA DOLCI CARLO 5/A"
+ },
+ {
+   "SEZIONE": 1056,
+   "TIPO_SEZ": "N",
+   "MASCHI": 391,
+   "FEMMINE": 511,
+   "INDIRIZZO": "VIA DOLCI CARLO 5"
+ },
+ {
+   "SEZIONE": 1059,
+   "TIPO_SEZ": "S",
+   "MASCHI": 353,
+   "FEMMINE": 398,
+   "INDIRIZZO": "VIA PARAVIA PIER ALESSANDRO 85"
+ },
+ {
+   "SEZIONE": 1062,
+   "TIPO_SEZ": "N",
+   "MASCHI": 261,
+   "FEMMINE": 314,
+   "INDIRIZZO": "VIA PARAVIA PIER ALESSANDRO 83"
+ },
+ {
+   "SEZIONE": 1063,
+   "TIPO_SEZ": "S",
+   "MASCHI": 374,
+   "FEMMINE": 392,
+   "INDIRIZZO": "VIA PARAVIA PIER ALESSANDRO 85"
+ },
+ {
+   "SEZIONE": 1064,
+   "TIPO_SEZ": "N",
+   "MASCHI": 290,
+   "FEMMINE": 351,
+   "INDIRIZZO": "VIA PARAVIA PIER ALESSANDRO 85"
+ },
+ {
+   "SEZIONE": 1068,
+   "TIPO_SEZ": "N",
+   "MASCHI": 334,
+   "FEMMINE": 412,
+   "INDIRIZZO": "VIA MARTINETTI PIERO 25"
+ },
+ {
+   "SEZIONE": 1069,
+   "TIPO_SEZ": "N",
+   "MASCHI": 306,
+   "FEMMINE": 353,
+   "INDIRIZZO": "VIA PARAVIA PIER ALESSANDRO 83"
+ },
+ {
+   "SEZIONE": 1070,
+   "TIPO_SEZ": "N",
+   "MASCHI": 280,
+   "FEMMINE": 384,
+   "INDIRIZZO": "VIA PARAVIA PIER ALESSANDRO 83"
+ },
+ {
+   "SEZIONE": 1072,
+   "TIPO_SEZ": "N",
+   "MASCHI": 298,
+   "FEMMINE": 318,
+   "INDIRIZZO": "VIA PARAVIA PIER ALESSANDRO 83"
+ },
+ {
+   "SEZIONE": 1073,
+   "TIPO_SEZ": "N",
+   "MASCHI": 346,
+   "FEMMINE": 397,
+   "INDIRIZZO": "VIA PISTOIA 30"
+ },
+ {
+   "SEZIONE": 1074,
+   "TIPO_SEZ": "N",
+   "MASCHI": 448,
+   "FEMMINE": 463,
+   "INDIRIZZO": "VIA ANSELMO DA BAGGIO 60"
+ },
+ {
+   "SEZIONE": 1075,
+   "TIPO_SEZ": "N",
+   "MASCHI": 399,
+   "FEMMINE": 428,
+   "INDIRIZZO": "VIA ANSELMO DA BAGGIO 60"
+ },
+ {
+   "SEZIONE": 1076,
+   "TIPO_SEZ": "N",
+   "MASCHI": 295,
+   "FEMMINE": 360,
+   "INDIRIZZO": "VIA ANSELMO DA BAGGIO 60"
+ },
+ {
+   "SEZIONE": 1077,
+   "TIPO_SEZ": "N",
+   "MASCHI": 331,
+   "FEMMINE": 364,
+   "INDIRIZZO": "VIA MARTINETTI PIERO 25"
+ },
+ {
+   "SEZIONE": 1078,
+   "TIPO_SEZ": "N",
+   "MASCHI": 299,
+   "FEMMINE": 354,
+   "INDIRIZZO": "VIA FORZE ARMATE 67"
+ },
+ {
+   "SEZIONE": 1079,
+   "TIPO_SEZ": "N",
+   "MASCHI": 354,
+   "FEMMINE": 410,
+   "INDIRIZZO": "VIA DEGLI ANEMONI 10"
+ },
+ {
+   "SEZIONE": 1080,
+   "TIPO_SEZ": "N",
+   "MASCHI": 400,
+   "FEMMINE": 554,
+   "INDIRIZZO": "VIA MARTINETTI PIERO 25"
+ },
+ {
+   "SEZIONE": 1081,
+   "TIPO_SEZ": "N",
+   "MASCHI": 346,
+   "FEMMINE": 419,
+   "INDIRIZZO": "VIA VALDAGNO 8"
+ },
+ {
+   "SEZIONE": 1082,
+   "TIPO_SEZ": "N",
+   "MASCHI": 282,
+   "FEMMINE": 363,
+   "INDIRIZZO": "VIA OSTENO 1"
+ },
+ {
+   "SEZIONE": 1083,
+   "TIPO_SEZ": "N",
+   "MASCHI": 346,
+   "FEMMINE": 452,
+   "INDIRIZZO": "VIA OSTENO 1"
+ },
+ {
+   "SEZIONE": 1084,
+   "TIPO_SEZ": "N",
+   "MASCHI": 373,
+   "FEMMINE": 397,
+   "INDIRIZZO": "VIA VITERBO 31"
+ },
+ {
+   "SEZIONE": 1085,
+   "TIPO_SEZ": "N",
+   "MASCHI": 423,
+   "FEMMINE": 499,
+   "INDIRIZZO": "VIA VAL D'INTELVI 11/A"
+ },
+ {
+   "SEZIONE": 1087,
+   "TIPO_SEZ": "N",
+   "MASCHI": 380,
+   "FEMMINE": 400,
+   "INDIRIZZO": "VIA MUGGIANO 16"
+ },
+ {
+   "SEZIONE": 1089,
+   "TIPO_SEZ": "N",
+   "MASCHI": 427,
+   "FEMMINE": 527,
+   "INDIRIZZO": "VIA ANSELMO DA BAGGIO 60"
+ },
+ {
+   "SEZIONE": 1090,
+   "TIPO_SEZ": "N",
+   "MASCHI": 455,
+   "FEMMINE": 485,
+   "INDIRIZZO": "VIA VAL D'INTELVI 11"
+ },
+ {
+   "SEZIONE": 1092,
+   "TIPO_SEZ": "N",
+   "MASCHI": 372,
+   "FEMMINE": 390,
+   "INDIRIZZO": "VIA VAL D'INTELVI 11"
+ },
+ {
+   "SEZIONE": 1094,
+   "TIPO_SEZ": "N",
+   "MASCHI": 311,
+   "FEMMINE": 374,
+   "INDIRIZZO": "VIA AIRAGHI 42"
+ },
+ {
+   "SEZIONE": 1095,
+   "TIPO_SEZ": "N",
+   "MASCHI": 295,
+   "FEMMINE": 301,
+   "INDIRIZZO": "VIA SILLA LUCIO CORNELIO 150"
+ },
+ {
+   "SEZIONE": 1096,
+   "TIPO_SEZ": "N",
+   "MASCHI": 388,
+   "FEMMINE": 390,
+   "INDIRIZZO": "VIA SILLA LUCIO CORNELIO 150"
+ },
+ {
+   "SEZIONE": 1097,
+   "TIPO_SEZ": "N",
+   "MASCHI": 273,
+   "FEMMINE": 344,
+   "INDIRIZZO": "VIA FORZE ARMATE 279/A"
+ },
+ {
+   "SEZIONE": 1099,
+   "TIPO_SEZ": "N",
+   "MASCHI": 459,
+   "FEMMINE": 467,
+   "INDIRIZZO": "VIA MONTE BALDO 11"
+ },
+ {
+   "SEZIONE": 1100,
+   "TIPO_SEZ": "N",
+   "MASCHI": 404,
+   "FEMMINE": 430,
+   "INDIRIZZO": "VIA MONTE BALDO 11"
+ },
+ {
+   "SEZIONE": 1102,
+   "TIPO_SEZ": "O",
+   "MASCHI": 355,
+   "FEMMINE": 399,
+   "INDIRIZZO": "VIA PARAVIA PIER ALESSANDRO 83"
+ },
+ {
+   "SEZIONE": 1103,
+   "TIPO_SEZ": "N",
+   "MASCHI": 433,
+   "FEMMINE": 415,
+   "INDIRIZZO": "VIA PARAVIA PIER ALESSANDRO 85"
+ },
+ {
+   "SEZIONE": 1107,
+   "TIPO_SEZ": "N",
+   "MASCHI": 438,
+   "FEMMINE": 446,
+   "INDIRIZZO": "VIA CILEA FRANCESCO, 12/A"
+ },
+ {
+   "SEZIONE": 1111,
+   "TIPO_SEZ": "N",
+   "MASCHI": 323,
+   "FEMMINE": 367,
+   "INDIRIZZO": "VIA PARETO VILFREDO 26"
+ },
+ {
+   "SEZIONE": 1112,
+   "TIPO_SEZ": "N",
+   "MASCHI": 290,
+   "FEMMINE": 317,
+   "INDIRIZZO": "VIA PARETO VILFREDO 26"
+ },
+ {
+   "SEZIONE": 1113,
+   "TIPO_SEZ": "N",
+   "MASCHI": 224,
+   "FEMMINE": 232,
+   "INDIRIZZO": "VIA PARETO VILFREDO 26"
+ },
+ {
+   "SEZIONE": 1114,
+   "TIPO_SEZ": "N",
+   "MASCHI": 466,
+   "FEMMINE": 484,
+   "INDIRIZZO": "VIA PARETO VILFREDO 26"
+ },
+ {
+   "SEZIONE": 1115,
+   "TIPO_SEZ": "N",
+   "MASCHI": 321,
+   "FEMMINE": 359,
+   "INDIRIZZO": "VIA DEI CIGNOLI 2/B"
+ },
+ {
+   "SEZIONE": 1116,
+   "TIPO_SEZ": "O",
+   "MASCHI": 0,
+   "FEMMINE": 0,
+   "INDIRIZZO": "VIA PALAZZOLO DON LUIGI 21"
+ },
+ {
+   "SEZIONE": 1117,
+   "TIPO_SEZ": "N",
+   "MASCHI": 472,
+   "FEMMINE": 537,
+   "INDIRIZZO": "VIA GATTAMELATA 37"
+ },
+ {
+   "SEZIONE": 1118,
+   "TIPO_SEZ": "N",
+   "MASCHI": 374,
+   "FEMMINE": 427,
+   "INDIRIZZO": "VIA DEI CIGNOLI 2/B"
+ },
+ {
+   "SEZIONE": 1119,
+   "TIPO_SEZ": "N",
+   "MASCHI": 377,
+   "FEMMINE": 425,
+   "INDIRIZZO": "VIA CONSOLE MARCELLO 9"
+ },
+ {
+   "SEZIONE": 1120,
+   "TIPO_SEZ": "N",
+   "MASCHI": 403,
+   "FEMMINE": 445,
+   "INDIRIZZO": "VIA CONSOLE MARCELLO, 9/A"
+ },
+ {
+   "SEZIONE": 1121,
+   "TIPO_SEZ": "N",
+   "MASCHI": 459,
+   "FEMMINE": 456,
+   "INDIRIZZO": "VIA DE ROSSI GIOVANNI BATTISTA"
+ },
+ {
+   "SEZIONE": 1123,
+   "TIPO_SEZ": "N",
+   "MASCHI": 307,
+   "FEMMINE": 379,
+   "INDIRIZZO": "VIA DE NICOLA ENRICO 40"
+ },
+ {
+   "SEZIONE": 1124,
+   "TIPO_SEZ": "N",
+   "MASCHI": 381,
+   "FEMMINE": 425,
+   "INDIRIZZO": "VIA DELL' ARCADIA 22/A"
+ },
+ {
+   "SEZIONE": 1125,
+   "TIPO_SEZ": "N",
+   "MASCHI": 350,
+   "FEMMINE": 410,
+   "INDIRIZZO": "VIA CONSOLE MARCELLO 9"
+ },
+ {
+   "SEZIONE": 1127,
+   "TIPO_SEZ": "N",
+   "MASCHI": 328,
+   "FEMMINE": 378,
+   "INDIRIZZO": "VIA DE ROSSI GIOVANNI BATTISTA"
+ },
+ {
+   "SEZIONE": 1128,
+   "TIPO_SEZ": "N",
+   "MASCHI": 391,
+   "FEMMINE": 392,
+   "INDIRIZZO": "VIA DE ROSSI GIOVANNI BATTISTA"
+ },
+ {
+   "SEZIONE": 1130,
+   "TIPO_SEZ": "N",
+   "MASCHI": 408,
+   "FEMMINE": 442,
+   "INDIRIZZO": "VIA MAC MAHON 96"
+ },
+ {
+   "SEZIONE": 1132,
+   "TIPO_SEZ": "N",
+   "MASCHI": 364,
+   "FEMMINE": 441,
+   "INDIRIZZO": "VIA MAC MAHON 98"
+ },
+ {
+   "SEZIONE": 1133,
+   "TIPO_SEZ": "N",
+   "MASCHI": 345,
+   "FEMMINE": 418,
+   "INDIRIZZO": "VIA MAC MAHON 98"
+ },
+ {
+   "SEZIONE": 1135,
+   "TIPO_SEZ": "N",
+   "MASCHI": 303,
+   "FEMMINE": 330,
+   "INDIRIZZO": "VIA MAC MAHON 98"
+ },
+ {
+   "SEZIONE": 1136,
+   "TIPO_SEZ": "N",
+   "MASCHI": 325,
+   "FEMMINE": 374,
+   "INDIRIZZO": "VIA MAC MAHON 98"
+ },
+ {
+   "SEZIONE": 1137,
+   "TIPO_SEZ": "N",
+   "MASCHI": 320,
+   "FEMMINE": 371,
+   "INDIRIZZO": "VIA CONSOLE MARCELLO, 9/A"
+ },
+ {
+   "SEZIONE": 1141,
+   "TIPO_SEZ": "N",
+   "MASCHI": 256,
+   "FEMMINE": 301,
+   "INDIRIZZO": "VIA MAC MAHON 98"
+ },
+ {
+   "SEZIONE": 1142,
+   "TIPO_SEZ": "N",
+   "MASCHI": 328,
+   "FEMMINE": 382,
+   "INDIRIZZO": "VIA CASTELLINO DA CASTELLO 10"
+ },
+ {
+   "SEZIONE": 1143,
+   "TIPO_SEZ": "N",
+   "MASCHI": 298,
+   "FEMMINE": 405,
+   "INDIRIZZO": "VIA CASTELLINO DA CASTELLO 10"
+ },
+ {
+   "SEZIONE": 1144,
+   "TIPO_SEZ": "N",
+   "MASCHI": 323,
+   "FEMMINE": 389,
+   "INDIRIZZO": "VIA CASTELLINO DA CASTELLO 10"
+ },
+ {
+   "SEZIONE": 1148,
+   "TIPO_SEZ": "N",
+   "MASCHI": 327,
+   "FEMMINE": 367,
+   "INDIRIZZO": "VIA CONSOLE MARCELLO 9"
+ },
+ {
+   "SEZIONE": 1149,
+   "TIPO_SEZ": "N",
+   "MASCHI": 336,
+   "FEMMINE": 373,
+   "INDIRIZZO": "VIA CONSOLE MARCELLO, 9/A"
+ },
+ {
+   "SEZIONE": 1151,
+   "TIPO_SEZ": "N",
+   "MASCHI": 359,
+   "FEMMINE": 408,
+   "INDIRIZZO": "VIA WOLF FERRARI ERMANNO 6"
+ },
+ {
+   "SEZIONE": 1152,
+   "TIPO_SEZ": "O",
+   "MASCHI": 4,
+   "FEMMINE": 1,
+   "INDIRIZZO": "VIA GRASSI GIOVANNI BATTISTA 7"
+ },
+ {
+   "SEZIONE": 1154,
+   "TIPO_SEZ": "S",
+   "MASCHI": 560,
+   "FEMMINE": 459,
+   "INDIRIZZO": "VIA CITTADINI PIER FRANCESCO 1"
+ },
+ {
+   "SEZIONE": 1155,
+   "TIPO_SEZ": "N",
+   "MASCHI": 500,
+   "FEMMINE": 491,
+   "INDIRIZZO": "VIA CITTADINI PIER FRANCESCO 1"
+ },
+ {
+   "SEZIONE": 1156,
+   "TIPO_SEZ": "N",
+   "MASCHI": 308,
+   "FEMMINE": 355,
+   "INDIRIZZO": "VIA SALERNO 1"
+ },
+ {
+   "SEZIONE": 1159,
+   "TIPO_SEZ": "N",
+   "MASCHI": 200,
+   "FEMMINE": 214,
+   "INDIRIZZO": "VIA VISCONTI ALEX 16"
+ },
+ {
+   "SEZIONE": 1161,
+   "TIPO_SEZ": "N",
+   "MASCHI": 341,
+   "FEMMINE": 405,
+   "INDIRIZZO": "VIA VAL LAGARINA 44"
+ },
+ {
+   "SEZIONE": 1163,
+   "TIPO_SEZ": "N",
+   "MASCHI": 424,
+   "FEMMINE": 457,
+   "INDIRIZZO": "VIA CITTADINI PIER FRANCESCO 1"
+ },
+ {
+   "SEZIONE": 1164,
+   "TIPO_SEZ": "N",
+   "MASCHI": 379,
+   "FEMMINE": 427,
+   "INDIRIZZO": "VIA TRILUSSA 10"
+ },
+ {
+   "SEZIONE": 1165,
+   "TIPO_SEZ": "N",
+   "MASCHI": 438,
+   "FEMMINE": 435,
+   "INDIRIZZO": "VLE BODIO LUIGI 22"
+ },
+ {
+   "SEZIONE": 1167,
+   "TIPO_SEZ": "N",
+   "MASCHI": 384,
+   "FEMMINE": 362,
+   "INDIRIZZO": "VLE BODIO LUIGI 22"
+ },
+ {
+   "SEZIONE": 1168,
+   "TIPO_SEZ": "N",
+   "MASCHI": 329,
+   "FEMMINE": 359,
+   "INDIRIZZO": "VIA MAFFUCCI ANGIOLO 60"
+ },
+ {
+   "SEZIONE": 1170,
+   "TIPO_SEZ": "N",
+   "MASCHI": 306,
+   "FEMMINE": 331,
+   "INDIRIZZO": "VIA MAFFUCCI ANGIOLO 60"
+ },
+ {
+   "SEZIONE": 1172,
+   "TIPO_SEZ": "N",
+   "MASCHI": 270,
+   "FEMMINE": 321,
+   "INDIRIZZO": "VLE BODIO LUIGI 22"
+ },
+ {
+   "SEZIONE": 1173,
+   "TIPO_SEZ": "N",
+   "MASCHI": 434,
+   "FEMMINE": 454,
+   "INDIRIZZO": "VLE BODIO LUIGI 22"
+ },
+ {
+   "SEZIONE": 1174,
+   "TIPO_SEZ": "N",
+   "MASCHI": 366,
+   "FEMMINE": 443,
+   "INDIRIZZO": "VIA MAFFUCCI ANGIOLO 60"
+ },
+ {
+   "SEZIONE": 1175,
+   "TIPO_SEZ": "N",
+   "MASCHI": 363,
+   "FEMMINE": 385,
+   "INDIRIZZO": "VLE BODIO LUIGI 22"
+ },
+ {
+   "SEZIONE": 1176,
+   "TIPO_SEZ": "N",
+   "MASCHI": 631,
+   "FEMMINE": 577,
+   "INDIRIZZO": "VLE BODIO LUIGI 22"
+ },
+ {
+   "SEZIONE": 1178,
+   "TIPO_SEZ": "N",
+   "MASCHI": 467,
+   "FEMMINE": 508,
+   "INDIRIZZO": "VIA GABBRO 6"
+ },
+ {
+   "SEZIONE": 1181,
+   "TIPO_SEZ": "N",
+   "MASCHI": 327,
+   "FEMMINE": 378,
+   "INDIRIZZO": "VIA MAFFUCCI ANGIOLO 60"
+ },
+ {
+   "SEZIONE": 1182,
+   "TIPO_SEZ": "N",
+   "MASCHI": 449,
+   "FEMMINE": 449,
+   "INDIRIZZO": "VIA LIVIGNO 11"
+ },
+ {
+   "SEZIONE": 1184,
+   "TIPO_SEZ": "N",
+   "MASCHI": 469,
+   "FEMMINE": 462,
+   "INDIRIZZO": "VIA GUICCIARDI DIEGO 1/A"
+ },
+ {
+   "SEZIONE": 1185,
+   "TIPO_SEZ": "N",
+   "MASCHI": 353,
+   "FEMMINE": 361,
+   "INDIRIZZO": "VIA MAFFUCCI ANGIOLO 60"
+ },
+ {
+   "SEZIONE": 1186,
+   "TIPO_SEZ": "N",
+   "MASCHI": 429,
+   "FEMMINE": 473,
+   "INDIRIZZO": "VIA LIVIGNO 11"
+ },
+ {
+   "SEZIONE": 1187,
+   "TIPO_SEZ": "N",
+   "MASCHI": 402,
+   "FEMMINE": 455,
+   "INDIRIZZO": "VIA GUICCIARDI DIEGO 1/A"
+ },
+ {
+   "SEZIONE": 1188,
+   "TIPO_SEZ": "N",
+   "MASCHI": 341,
+   "FEMMINE": 349,
+   "INDIRIZZO": "VIA GUICCIARDI DIEGO 1/A"
+ },
+ {
+   "SEZIONE": 1190,
+   "TIPO_SEZ": "N",
+   "MASCHI": 384,
+   "FEMMINE": 429,
+   "INDIRIZZO": "VIA GUICCIARDI DIEGO 1"
+ },
+ {
+   "SEZIONE": 1191,
+   "TIPO_SEZ": "N",
+   "MASCHI": 406,
+   "FEMMINE": 429,
+   "INDIRIZZO": "VIA CRESPI BENIGNO 1"
+ },
+ {
+   "SEZIONE": 1192,
+   "TIPO_SEZ": "N",
+   "MASCHI": 434,
+   "FEMMINE": 481,
+   "INDIRIZZO": "VIA PEPE GUGLIELMO 40"
+ },
+ {
+   "SEZIONE": 1194,
+   "TIPO_SEZ": "N",
+   "MASCHI": 432,
+   "FEMMINE": 460,
+   "INDIRIZZO": "VIA PEPE GUGLIELMO 40"
+ },
+ {
+   "SEZIONE": 1196,
+   "TIPO_SEZ": "N",
+   "MASCHI": 485,
+   "FEMMINE": 489,
+   "INDIRIZZO": "VIA DE CONTI BERNARDINO 3"
+ },
+ {
+   "SEZIONE": 1200,
+   "TIPO_SEZ": "N",
+   "MASCHI": 382,
+   "FEMMINE": 411,
+   "INDIRIZZO": "VIA DE CONTI BERNARDINO 3"
+ },
+ {
+   "SEZIONE": 1201,
+   "TIPO_SEZ": "N",
+   "MASCHI": 382,
+   "FEMMINE": 435,
+   "INDIRIZZO": "VIA CRESPI BENIGNO 1"
+ },
+ {
+   "SEZIONE": 1203,
+   "TIPO_SEZ": "N",
+   "MASCHI": 373,
+   "FEMMINE": 398,
+   "INDIRIZZO": "VIA CRESPI BENIGNO 1"
+ },
+ {
+   "SEZIONE": 1204,
+   "TIPO_SEZ": "N",
+   "MASCHI": 380,
+   "FEMMINE": 383,
+   "INDIRIZZO": "VIA DE CONTI BERNARDINO 3"
+ },
+ {
+   "SEZIONE": 1205,
+   "TIPO_SEZ": "N",
+   "MASCHI": 408,
+   "FEMMINE": 468,
+   "INDIRIZZO": "VIA LIVIGNO 11"
+ },
+ {
+   "SEZIONE": 1207,
+   "TIPO_SEZ": "N",
+   "MASCHI": 404,
+   "FEMMINE": 358,
+   "INDIRIZZO": "VIA DE CONTI BERNARDINO 3"
+ },
+ {
+   "SEZIONE": 1209,
+   "TIPO_SEZ": "N",
+   "MASCHI": 382,
+   "FEMMINE": 429,
+   "INDIRIZZO": "VIA TRECHI SIGISMONDO 11"
+ },
+ {
+   "SEZIONE": 1210,
+   "TIPO_SEZ": "N",
+   "MASCHI": 400,
+   "FEMMINE": 402,
+   "INDIRIZZO": "VIA TRECHI SIGISMONDO 11"
+ },
+ {
+   "SEZIONE": 1211,
+   "TIPO_SEZ": "N",
+   "MASCHI": 510,
+   "FEMMINE": 535,
+   "INDIRIZZO": "VIA DORA BALTEA 16"
+ },
+ {
+   "SEZIONE": 1212,
+   "TIPO_SEZ": "N",
+   "MASCHI": 368,
+   "FEMMINE": 404,
+   "INDIRIZZO": "VIA DEL VOLGA 3"
+ },
+ {
+   "SEZIONE": 1213,
+   "TIPO_SEZ": "N",
+   "MASCHI": 363,
+   "FEMMINE": 409,
+   "INDIRIZZO": "VIA DEL VOLGA 3"
+ },
+ {
+   "SEZIONE": 1214,
+   "TIPO_SEZ": "N",
+   "MASCHI": 369,
+   "FEMMINE": 381,
+   "INDIRIZZO": "VIA IVREA 6"
+ },
+ {
+   "SEZIONE": 1215,
+   "TIPO_SEZ": "N",
+   "MASCHI": 366,
+   "FEMMINE": 443,
+   "INDIRIZZO": "VIA IVREA 6"
+ },
+ {
+   "SEZIONE": 1216,
+   "TIPO_SEZ": "O",
+   "MASCHI": 381,
+   "FEMMINE": 479,
+   "INDIRIZZO": "VIA IVREA 6/A"
+ },
+ {
+   "SEZIONE": 1218,
+   "TIPO_SEZ": "N",
+   "MASCHI": 385,
+   "FEMMINE": 440,
+   "INDIRIZZO": "VIA IVREA 6/A"
+ },
+ {
+   "SEZIONE": 1219,
+   "TIPO_SEZ": "N",
+   "MASCHI": 503,
+   "FEMMINE": 556,
+   "INDIRIZZO": "VIA FABRIANO 4"
+ },
+ {
+   "SEZIONE": 1220,
+   "TIPO_SEZ": "N",
+   "MASCHI": 490,
+   "FEMMINE": 504,
+   "INDIRIZZO": "VIA FABRIANO 4"
+ },
+ {
+   "SEZIONE": 1221,
+   "TIPO_SEZ": "N",
+   "MASCHI": 488,
+   "FEMMINE": 535,
+   "INDIRIZZO": "VIA SCIALOIA VITTORIO 19"
+ },
+ {
+   "SEZIONE": 1222,
+   "TIPO_SEZ": "N",
+   "MASCHI": 548,
+   "FEMMINE": 566,
+   "INDIRIZZO": "VIA IVREA 6/A"
+ },
+ {
+   "SEZIONE": 1227,
+   "TIPO_SEZ": "N",
+   "MASCHI": 328,
+   "FEMMINE": 325,
+   "INDIRIZZO": "VIA MUZIO EMANUELE 5/A"
+ },
+ {
+   "SEZIONE": 1229,
+   "TIPO_SEZ": "N",
+   "MASCHI": 355,
+   "FEMMINE": 462,
+   "INDIRIZZO": "VIA MUZIO EMANUELE 5/A"
+ },
+ {
+   "SEZIONE": 1230,
+   "TIPO_SEZ": "N",
+   "MASCHI": 380,
+   "FEMMINE": 396,
+   "INDIRIZZO": "VIA CAGLIERO GIOVANNI 20"
+ },
+ {
+   "SEZIONE": 1232,
+   "TIPO_SEZ": "N",
+   "MASCHI": 304,
+   "FEMMINE": 362,
+   "INDIRIZZO": "VLE ZARA 96"
+ },
+ {
+   "SEZIONE": 1233,
+   "TIPO_SEZ": "N",
+   "MASCHI": 382,
+   "FEMMINE": 445,
+   "INDIRIZZO": "VIA MUZIO EMANUELE 5/A"
+ },
+ {
+   "SEZIONE": 1236,
+   "TIPO_SEZ": "N",
+   "MASCHI": 333,
+   "FEMMINE": 381,
+   "INDIRIZZO": "VIA MUZIO EMANUELE 5/A"
+ },
+ {
+   "SEZIONE": 1237,
+   "TIPO_SEZ": "N",
+   "MASCHI": 379,
+   "FEMMINE": 418,
+   "INDIRIZZO": "VLE ZARA 96"
+ },
+ {
+   "SEZIONE": 1241,
+   "TIPO_SEZ": "N",
+   "MASCHI": 341,
+   "FEMMINE": 379,
+   "INDIRIZZO": "VLE ZARA 96"
+ },
+ {
+   "SEZIONE": 1242,
+   "TIPO_SEZ": "N",
+   "MASCHI": 393,
+   "FEMMINE": 436,
+   "INDIRIZZO": "PLE ISTRIA 11"
+ },
+ {
+   "SEZIONE": 1244,
+   "TIPO_SEZ": "N",
+   "MASCHI": 467,
+   "FEMMINE": 519,
+   "INDIRIZZO": "VIA DELLA GIUSTIZIA 6"
+ },
+ {
+   "SEZIONE": 1245,
+   "TIPO_SEZ": "N",
+   "MASCHI": 385,
+   "FEMMINE": 419,
+   "INDIRIZZO": "VIA DELLA GIUSTIZIA 6"
+ },
+ {
+   "SEZIONE": 1246,
+   "TIPO_SEZ": "N",
+   "MASCHI": 315,
+   "FEMMINE": 336,
+   "INDIRIZZO": "VIA BOTTELLI GIUSEPPE 1"
+ },
+ {
+   "SEZIONE": 1247,
+   "TIPO_SEZ": "N",
+   "MASCHI": 352,
+   "FEMMINE": 384,
+   "INDIRIZZO": "VIA BOTTELLI GIUSEPPE 1"
+ },
+ {
+   "SEZIONE": 1249,
+   "TIPO_SEZ": "N",
+   "MASCHI": 391,
+   "FEMMINE": 427,
+   "INDIRIZZO": "PLE ISTRIA 11"
+ },
+ {
+   "SEZIONE": 1251,
+   "TIPO_SEZ": "N",
+   "MASCHI": 363,
+   "FEMMINE": 404,
+   "INDIRIZZO": "PLE ISTRIA 11"
+ },
+ {
+   "SEZIONE": 1254,
+   "TIPO_SEZ": "N",
+   "MASCHI": 425,
+   "FEMMINE": 455,
+   "INDIRIZZO": "VLE SARCA 24"
+ },
+ {
+   "SEZIONE": 1255,
+   "TIPO_SEZ": "N",
+   "MASCHI": 413,
+   "FEMMINE": 427,
+   "INDIRIZZO": "VLE SARCA 24"
+ },
+ {
+   "SEZIONE": 1256,
+   "TIPO_SEZ": "N",
+   "MASCHI": 336,
+   "FEMMINE": 358,
+   "INDIRIZZO": "VLE SARCA 24"
+ },
+ {
+   "SEZIONE": 1257,
+   "TIPO_SEZ": "N",
+   "MASCHI": 333,
+   "FEMMINE": 433,
+   "INDIRIZZO": "VIA PIANELL SALVATORE 40"
+ },
+ {
+   "SEZIONE": 1258,
+   "TIPO_SEZ": "N",
+   "MASCHI": 273,
+   "FEMMINE": 356,
+   "INDIRIZZO": "VIA PASSERINI GIAN BATTISTA 8/"
+ },
+ {
+   "SEZIONE": 1259,
+   "TIPO_SEZ": "N",
+   "MASCHI": 311,
+   "FEMMINE": 385,
+   "INDIRIZZO": "VLE SARCA 24"
+ },
+ {
+   "SEZIONE": 1260,
+   "TIPO_SEZ": "S",
+   "MASCHI": 552,
+   "FEMMINE": 550,
+   "INDIRIZZO": "VIA PASSERINI GIAN BATTISTA, 8"
+ },
+ {
+   "SEZIONE": 1261,
+   "TIPO_SEZ": "N",
+   "MASCHI": 461,
+   "FEMMINE": 519,
+   "INDIRIZZO": "VIA PASSERINI GIAN BATTISTA, 8"
+ },
+ {
+   "SEZIONE": 1263,
+   "TIPO_SEZ": "N",
+   "MASCHI": 334,
+   "FEMMINE": 392,
+   "INDIRIZZO": "VIA PASSERINI GIAN BATTISTA 8"
+ },
+ {
+   "SEZIONE": 1264,
+   "TIPO_SEZ": "N",
+   "MASCHI": 363,
+   "FEMMINE": 432,
+   "INDIRIZZO": "VIA PASSERINI GIAN BATTISTA 8"
+ },
+ {
+   "SEZIONE": 1265,
+   "TIPO_SEZ": "N",
+   "MASCHI": 478,
+   "FEMMINE": 570,
+   "INDIRIZZO": "VIA PASSERINI GIAN BATTISTA 8"
+ },
+ {
+   "SEZIONE": 1267,
+   "TIPO_SEZ": "N",
+   "MASCHI": 411,
+   "FEMMINE": 459,
+   "INDIRIZZO": "VIA PASSERINI GIAN BATTISTA 8"
+ },
+ {
+   "SEZIONE": 1268,
+   "TIPO_SEZ": "N",
+   "MASCHI": 379,
+   "FEMMINE": 422,
+   "INDIRIZZO": "VIA ASTURIE 1"
+ },
+ {
+   "SEZIONE": 1270,
+   "TIPO_SEZ": "N",
+   "MASCHI": 395,
+   "FEMMINE": 371,
+   "INDIRIZZO": "VIA GOFFREDO DA BUSSERO 9"
+ },
+ {
+   "SEZIONE": 1271,
+   "TIPO_SEZ": "N",
+   "MASCHI": 488,
+   "FEMMINE": 521,
+   "INDIRIZZO": "VIA GOFFREDO DA BUSSERO 9"
+ },
+ {
+   "SEZIONE": 1273,
+   "TIPO_SEZ": "N",
+   "MASCHI": 281,
+   "FEMMINE": 325,
+   "INDIRIZZO": "VIA DE NICOLA ENRICO 40"
+ },
+ {
+   "SEZIONE": 1274,
+   "TIPO_SEZ": "N",
+   "MASCHI": 238,
+   "FEMMINE": 289,
+   "INDIRIZZO": "VIA ANCO MARZIO 9"
+ },
+ {
+   "SEZIONE": 1275,
+   "TIPO_SEZ": "N",
+   "MASCHI": 445,
+   "FEMMINE": 479,
+   "INDIRIZZO": "VIA RUSSO VINCENZO 27/A"
+ },
+ {
+   "SEZIONE": 1276,
+   "TIPO_SEZ": "S",
+   "MASCHI": 362,
+   "FEMMINE": 440,
+   "INDIRIZZO": "VIA PASCAL CARLO 35/A"
+ },
+ {
+   "SEZIONE": 1280,
+   "TIPO_SEZ": "N",
+   "MASCHI": 396,
+   "FEMMINE": 499,
+   "INDIRIZZO": "VIA DE ANDREIS LUIGI 10/A"
+ },
+ {
+   "SEZIONE": 1283,
+   "TIPO_SEZ": "N",
+   "MASCHI": 292,
+   "FEMMINE": 372,
+   "INDIRIZZO": "VIA POLESINE 12"
+ },
+ {
+   "SEZIONE": 1285,
+   "TIPO_SEZ": "N",
+   "MASCHI": 337,
+   "FEMMINE": 429,
+   "INDIRIZZO": "VIA MARTINENGO FRANCESCO 36"
+ },
+ {
+   "SEZIONE": 1286,
+   "TIPO_SEZ": "N",
+   "MASCHI": 305,
+   "FEMMINE": 368,
+   "INDIRIZZO": "VIA POLESINE 12"
+ },
+ {
+   "SEZIONE": 1287,
+   "TIPO_SEZ": "N",
+   "MASCHI": 365,
+   "FEMMINE": 381,
+   "INDIRIZZO": "VIA MINCIO 21"
+ },
+ {
+   "SEZIONE": 1291,
+   "TIPO_SEZ": "N",
+   "MASCHI": 309,
+   "FEMMINE": 372,
+   "INDIRIZZO": "VIA VAL D'INTELVI 11/A"
+ },
+ {
+   "SEZIONE": 1292,
+   "TIPO_SEZ": "N",
+   "MASCHI": 269,
+   "FEMMINE": 338,
+   "INDIRIZZO": "VIA PEPERE ALBERTO 2"
+ },
+ {
+   "SEZIONE": 1294,
+   "TIPO_SEZ": "N",
+   "MASCHI": 344,
+   "FEMMINE": 462,
+   "INDIRIZZO": "VIA CITTADINI PIER FRANCESCO 1"
+ },
+ {
+   "SEZIONE": 1296,
+   "TIPO_SEZ": "N",
+   "MASCHI": 346,
+   "FEMMINE": 399,
+   "INDIRIZZO": "VIA BOTTELLI GIUSEPPE 1"
+ },
+ {
+   "SEZIONE": 1297,
+   "TIPO_SEZ": "N",
+   "MASCHI": 337,
+   "FEMMINE": 407,
+   "INDIRIZZO": "VIA PIANELL SALVATORE 40"
+ },
+ {
+   "SEZIONE": 1304,
+   "TIPO_SEZ": "N",
+   "MASCHI": 297,
+   "FEMMINE": 376,
+   "INDIRIZZO": "VIA LORIA MOISE 37/A"
+ },
+ {
+   "SEZIONE": 1307,
+   "TIPO_SEZ": "N",
+   "MASCHI": 375,
+   "FEMMINE": 464,
+   "INDIRIZZO": "VIA UCCELLO PAOLO 1/A"
+ },
+ {
+   "SEZIONE": 1309,
+   "TIPO_SEZ": "N",
+   "MASCHI": 483,
+   "FEMMINE": 534,
+   "INDIRIZZO": "PLE TURR STEFANO 1"
+ },
+ {
+   "SEZIONE": 1312,
+   "TIPO_SEZ": "N",
+   "MASCHI": 355,
+   "FEMMINE": 429,
+   "INDIRIZZO": "VIA CASTELLINO DA CASTELLO 10"
+ },
+ {
+   "SEZIONE": 1314,
+   "TIPO_SEZ": "N",
+   "MASCHI": 530,
+   "FEMMINE": 525,
+   "INDIRIZZO": "VIA CESALPINO ANDREA 38"
+ },
+ {
+   "SEZIONE": 1315,
+   "TIPO_SEZ": "N",
+   "MASCHI": 474,
+   "FEMMINE": 521,
+   "INDIRIZZO": "VIA CESALPINO ANDREA 38/A"
+ },
+ {
+   "SEZIONE": 1316,
+   "TIPO_SEZ": "N",
+   "MASCHI": 343,
+   "FEMMINE": 419,
+   "INDIRIZZO": "VIA CALABRIA DON GIOVANNI 16"
+ },
+ {
+   "SEZIONE": 1317,
+   "TIPO_SEZ": "N",
+   "MASCHI": 334,
+   "FEMMINE": 366,
+   "INDIRIZZO": "VIA DELL' ARCADIA 22"
+ },
+ {
+   "SEZIONE": 1318,
+   "TIPO_SEZ": "N",
+   "MASCHI": 330,
+   "FEMMINE": 417,
+   "INDIRIZZO": "VIA TAJANI FILIPPO 12"
+ },
+ {
+   "SEZIONE": 1319,
+   "TIPO_SEZ": "N",
+   "MASCHI": 352,
+   "FEMMINE": 431,
+   "INDIRIZZO": "VLE MUGELLO 5"
+ },
+ {
+   "SEZIONE": 1320,
+   "TIPO_SEZ": "N",
+   "MASCHI": 291,
+   "FEMMINE": 349,
+   "INDIRIZZO": "VLE MUGELLO 5"
+ },
+ {
+   "SEZIONE": 1321,
+   "TIPO_SEZ": "N",
+   "MASCHI": 433,
+   "FEMMINE": 495,
+   "INDIRIZZO": "VIA EINSTEIN ALBERTO 3"
+ },
+ {
+   "SEZIONE": 1323,
+   "TIPO_SEZ": "N",
+   "MASCHI": 378,
+   "FEMMINE": 464,
+   "INDIRIZZO": "VIA S. DIONIGI 36"
+ },
+ {
+   "SEZIONE": 1324,
+   "TIPO_SEZ": "S",
+   "MASCHI": 377,
+   "FEMMINE": 415,
+   "INDIRIZZO": "VIA ANTONINI GIACOMO 50"
+ },
+ {
+   "SEZIONE": 1326,
+   "TIPO_SEZ": "N",
+   "MASCHI": 318,
+   "FEMMINE": 376,
+   "INDIRIZZO": "VIA CARRIERA ROSALBA 12"
+ },
+ {
+   "SEZIONE": 1328,
+   "TIPO_SEZ": "N",
+   "MASCHI": 426,
+   "FEMMINE": 395,
+   "INDIRIZZO": "VIA DEI NARCISI 4"
+ },
+ {
+   "SEZIONE": 1329,
+   "TIPO_SEZ": "N",
+   "MASCHI": 205,
+   "FEMMINE": 267,
+   "INDIRIZZO": "VIA FORZE ARMATE 67"
+ },
+ {
+   "SEZIONE": 1331,
+   "TIPO_SEZ": "O",
+   "MASCHI": 360,
+   "FEMMINE": 411,
+   "INDIRIZZO": "VIA DOLCI CARLO 5/A"
+ },
+ {
+   "SEZIONE": 1332,
+   "TIPO_SEZ": "N",
+   "MASCHI": 301,
+   "FEMMINE": 377,
+   "INDIRIZZO": "VIA GNOCCHI DON CARLO 25"
+ },
+ {
+   "SEZIONE": 1333,
+   "TIPO_SEZ": "N",
+   "MASCHI": 365,
+   "FEMMINE": 436,
+   "INDIRIZZO": "VIA DEI NARCISI 6"
+ },
+ {
+   "SEZIONE": 1334,
+   "TIPO_SEZ": "N",
+   "MASCHI": 303,
+   "FEMMINE": 363,
+   "INDIRIZZO": "VIA OJETTI UGO 13"
+ },
+ {
+   "SEZIONE": 1338,
+   "TIPO_SEZ": "N",
+   "MASCHI": 296,
+   "FEMMINE": 348,
+   "INDIRIZZO": "VIA CONSOLE MARCELLO 9"
+ },
+ {
+   "SEZIONE": 1339,
+   "TIPO_SEZ": "N",
+   "MASCHI": 342,
+   "FEMMINE": 410,
+   "INDIRIZZO": "VIA CITTADINI PIER FRANCESCO 1"
+ },
+ {
+   "SEZIONE": 1340,
+   "TIPO_SEZ": "N",
+   "MASCHI": 442,
+   "FEMMINE": 514,
+   "INDIRIZZO": "VIA TRILUSSA 10"
+ },
+ {
+   "SEZIONE": 1341,
+   "TIPO_SEZ": "N",
+   "MASCHI": 383,
+   "FEMMINE": 422,
+   "INDIRIZZO": "VIA GABBRO 6"
+ },
+ {
+   "SEZIONE": 1342,
+   "TIPO_SEZ": "N",
+   "MASCHI": 320,
+   "FEMMINE": 373,
+   "INDIRIZZO": "VIA VEGLIA 80"
+ },
+ {
+   "SEZIONE": 1343,
+   "TIPO_SEZ": "N",
+   "MASCHI": 338,
+   "FEMMINE": 431,
+   "INDIRIZZO": "VLE ZARA 96"
+ },
+ {
+   "SEZIONE": 1345,
+   "TIPO_SEZ": "N",
+   "MASCHI": 311,
+   "FEMMINE": 374,
+   "INDIRIZZO": "VIA VEGLIA 80"
+ },
+ {
+   "SEZIONE": 1346,
+   "TIPO_SEZ": "N",
+   "MASCHI": 289,
+   "FEMMINE": 352,
+   "INDIRIZZO": "VIA CRESPI BENIGNO 1"
+ },
+ {
+   "SEZIONE": 1348,
+   "TIPO_SEZ": "N",
+   "MASCHI": 395,
+   "FEMMINE": 472,
+   "INDIRIZZO": "VIA PINI TOMMASO 3/A"
+ },
+ {
+   "SEZIONE": 1349,
+   "TIPO_SEZ": "N",
+   "MASCHI": 393,
+   "FEMMINE": 365,
+   "INDIRIZZO": "VIA POLESINE 14"
+ },
+ {
+   "SEZIONE": 1350,
+   "TIPO_SEZ": "N",
+   "MASCHI": 358,
+   "FEMMINE": 392,
+   "INDIRIZZO": "VIA DELLA GIUSTIZIA 6"
+ },
+ {
+   "SEZIONE": 1351,
+   "TIPO_SEZ": "N",
+   "MASCHI": 313,
+   "FEMMINE": 406,
+   "INDIRIZZO": "VIA VEGLIA 82"
+ },
+ {
+   "SEZIONE": 1352,
+   "TIPO_SEZ": "N",
+   "MASCHI": 308,
+   "FEMMINE": 367,
+   "INDIRIZZO": "VIA CROCEFISSO 15"
+ },
+ {
+   "SEZIONE": 1354,
+   "TIPO_SEZ": "N",
+   "MASCHI": 370,
+   "FEMMINE": 459,
+   "INDIRIZZO": "VIA OJETTI UGO 13"
+ },
+ {
+   "SEZIONE": 1357,
+   "TIPO_SEZ": "N",
+   "MASCHI": 295,
+   "FEMMINE": 367,
+   "INDIRIZZO": "VIA OLONA 14"
+ },
+ {
+   "SEZIONE": 1358,
+   "TIPO_SEZ": "N",
+   "MASCHI": 334,
+   "FEMMINE": 417,
+   "INDIRIZZO": "VIA COLA DI RIENZO 1"
+ },
+ {
+   "SEZIONE": 1359,
+   "TIPO_SEZ": "N",
+   "MASCHI": 363,
+   "FEMMINE": 477,
+   "INDIRIZZO": "PZA SICILIA 2"
+ },
+ {
+   "SEZIONE": 1361,
+   "TIPO_SEZ": "N",
+   "MASCHI": 405,
+   "FEMMINE": 526,
+   "INDIRIZZO": "VIA MANTEGNA ANDREA, 10/A"
+ },
+ {
+   "SEZIONE": 1362,
+   "TIPO_SEZ": "N",
+   "MASCHI": 371,
+   "FEMMINE": 430,
+   "INDIRIZZO": "VIA CASTELLINO DA CASTELLO 10/"
+ },
+ {
+   "SEZIONE": 1366,
+   "TIPO_SEZ": "N",
+   "MASCHI": 311,
+   "FEMMINE": 395,
+   "INDIRIZZO": "VIA PASCAL CARLO 35"
+ },
+ {
+   "SEZIONE": 1368,
+   "TIPO_SEZ": "N",
+   "MASCHI": 384,
+   "FEMMINE": 462,
+   "INDIRIZZO": "VIA PASCAL CARLO 35"
+ },
+ {
+   "SEZIONE": 1369,
+   "TIPO_SEZ": "O",
+   "MASCHI": 348,
+   "FEMMINE": 436,
+   "INDIRIZZO": "VIA CESALPINO ANDREA 38/A"
+ },
+ {
+   "SEZIONE": 1371,
+   "TIPO_SEZ": "N",
+   "MASCHI": 458,
+   "FEMMINE": 478,
+   "INDIRIZZO": "VIA SAN MAMETE 11"
+ },
+ {
+   "SEZIONE": 1373,
+   "TIPO_SEZ": "N",
+   "MASCHI": 372,
+   "FEMMINE": 404,
+   "INDIRIZZO": "VIA CARNIA 32"
+ },
+ {
+   "SEZIONE": 1374,
+   "TIPO_SEZ": "N",
+   "MASCHI": 345,
+   "FEMMINE": 384,
+   "INDIRIZZO": "VIA PASCAL CARLO 35/A"
+ },
+ {
+   "SEZIONE": 1375,
+   "TIPO_SEZ": "N",
+   "MASCHI": 380,
+   "FEMMINE": 442,
+   "INDIRIZZO": "VIA PASCAL CARLO 35"
+ },
+ {
+   "SEZIONE": 1377,
+   "TIPO_SEZ": "N",
+   "MASCHI": 416,
+   "FEMMINE": 502,
+   "INDIRIZZO": "VIA DE ANDREIS LUIGI 10/A"
+ },
+ {
+   "SEZIONE": 1382,
+   "TIPO_SEZ": "N",
+   "MASCHI": 291,
+   "FEMMINE": 363,
+   "INDIRIZZO": "VIA GENTILINO 14"
+ },
+ {
+   "SEZIONE": 1383,
+   "TIPO_SEZ": "N",
+   "MASCHI": 387,
+   "FEMMINE": 478,
+   "INDIRIZZO": "VIA SCROSATI LUIGI 3"
+ },
+ {
+   "SEZIONE": 1384,
+   "TIPO_SEZ": "N",
+   "MASCHI": 344,
+   "FEMMINE": 420,
+   "INDIRIZZO": "VIA ZUARA 7"
+ },
+ {
+   "SEZIONE": 1387,
+   "TIPO_SEZ": "N",
+   "MASCHI": 321,
+   "FEMMINE": 342,
+   "INDIRIZZO": "VIA OSTENO 1"
+ },
+ {
+   "SEZIONE": 1388,
+   "TIPO_SEZ": "N",
+   "MASCHI": 275,
+   "FEMMINE": 300,
+   "INDIRIZZO": "VIA OSTENO 1"
+ },
+ {
+   "SEZIONE": 1391,
+   "TIPO_SEZ": "N",
+   "MASCHI": 513,
+   "FEMMINE": 539,
+   "INDIRIZZO": "VIA GABBRO 6"
+ },
+ {
+   "SEZIONE": 1392,
+   "TIPO_SEZ": "N",
+   "MASCHI": 334,
+   "FEMMINE": 429,
+   "INDIRIZZO": "VIA SAPONARO MICHELE 20/A"
+ },
+ {
+   "SEZIONE": 1394,
+   "TIPO_SEZ": "N",
+   "MASCHI": 230,
+   "FEMMINE": 297,
+   "INDIRIZZO": "VIA BROCCHI VIRGILIO 5"
+ },
+ {
+   "SEZIONE": 1396,
+   "TIPO_SEZ": "N",
+   "MASCHI": 296,
+   "FEMMINE": 295,
+   "INDIRIZZO": "PLE ISTRIA 11/A"
+ },
+ {
+   "SEZIONE": 1398,
+   "TIPO_SEZ": "N",
+   "MASCHI": 252,
+   "FEMMINE": 273,
+   "INDIRIZZO": "VIA VEGLIA 80"
+ },
+ {
+   "SEZIONE": 1399,
+   "TIPO_SEZ": "N",
+   "MASCHI": 344,
+   "FEMMINE": 456,
+   "INDIRIZZO": "VIA PIANELL SALVATORE 40"
+ },
+ {
+   "SEZIONE": 1400,
+   "TIPO_SEZ": "N",
+   "MASCHI": 259,
+   "FEMMINE": 324,
+   "INDIRIZZO": "VIA PEPERE ALBERTO 2"
+ },
+ {
+   "SEZIONE": 1401,
+   "TIPO_SEZ": "N",
+   "MASCHI": 311,
+   "FEMMINE": 383,
+   "INDIRIZZO": "VIA DEI NARCISI 2"
+ },
+ {
+   "SEZIONE": 1403,
+   "TIPO_SEZ": "O",
+   "MASCHI": 334,
+   "FEMMINE": 416,
+   "INDIRIZZO": "VIA SACCHINI ANTONIO 34"
+ },
+ {
+   "SEZIONE": 1404,
+   "TIPO_SEZ": "N",
+   "MASCHI": 285,
+   "FEMMINE": 371,
+   "INDIRIZZO": "VIA PISTOIA 30"
+ },
+ {
+   "SEZIONE": 1406,
+   "TIPO_SEZ": "N",
+   "MASCHI": 394,
+   "FEMMINE": 419,
+   "INDIRIZZO": "VIA PEPERE ALBERTO 2"
+ },
+ {
+   "SEZIONE": 1407,
+   "TIPO_SEZ": "N",
+   "MASCHI": 323,
+   "FEMMINE": 396,
+   "INDIRIZZO": "VIA BOGNETTI GIOVANNI E G 15"
+ },
+ {
+   "SEZIONE": 1410,
+   "TIPO_SEZ": "N",
+   "MASCHI": 341,
+   "FEMMINE": 392,
+   "INDIRIZZO": "VIA DEI NARCISI 4/A"
+ },
+ {
+   "SEZIONE": 1411,
+   "TIPO_SEZ": "N",
+   "MASCHI": 288,
+   "FEMMINE": 329,
+   "INDIRIZZO": "VIA DEI NARCISI 2/A"
+ },
+ {
+   "SEZIONE": 1412,
+   "TIPO_SEZ": "N",
+   "MASCHI": 274,
+   "FEMMINE": 334,
+   "INDIRIZZO": "VIA DEI NARCISI 2/A"
+ },
+ {
+   "SEZIONE": 1413,
+   "TIPO_SEZ": "N",
+   "MASCHI": 286,
+   "FEMMINE": 391,
+   "INDIRIZZO": "VIA CRIMEA 22"
+ },
+ {
+   "SEZIONE": 1415,
+   "TIPO_SEZ": "N",
+   "MASCHI": 431,
+   "FEMMINE": 486,
+   "INDIRIZZO": "VIA DELL' ARCADIA 22"
+ },
+ {
+   "SEZIONE": 1417,
+   "TIPO_SEZ": "N",
+   "MASCHI": 431,
+   "FEMMINE": 460,
+   "INDIRIZZO": "PZA SANTA MARIA NASCENTE 30"
+ },
+ {
+   "SEZIONE": 1419,
+   "TIPO_SEZ": "N",
+   "MASCHI": 351,
+   "FEMMINE": 396,
+   "INDIRIZZO": "VIA DE NICOLA ENRICO 2"
+ },
+ {
+   "SEZIONE": 1420,
+   "TIPO_SEZ": "N",
+   "MASCHI": 331,
+   "FEMMINE": 428,
+   "INDIRIZZO": "VIA MARTINENGO FRANCESCO 36"
+ },
+ {
+   "SEZIONE": 1421,
+   "TIPO_SEZ": "N",
+   "MASCHI": 297,
+   "FEMMINE": 188,
+   "INDIRIZZO": "VIA ARIBERTO 14"
+ },
+ {
+   "SEZIONE": 1423,
+   "TIPO_SEZ": "N",
+   "MASCHI": 285,
+   "FEMMINE": 365,
+   "INDIRIZZO": "VIA BOCCONI FERDINANDO 15"
+ },
+ {
+   "SEZIONE": 1424,
+   "TIPO_SEZ": "O",
+   "MASCHI": 314,
+   "FEMMINE": 359,
+   "INDIRIZZO": "VIA BRUNACCI VINCENZO 2"
+ },
+ {
+   "SEZIONE": 1425,
+   "TIPO_SEZ": "N",
+   "MASCHI": 342,
+   "FEMMINE": 420,
+   "INDIRIZZO": "VIA SAN COLOMBANO 8"
+ },
+ {
+   "SEZIONE": 1426,
+   "TIPO_SEZ": "N",
+   "MASCHI": 386,
+   "FEMMINE": 451,
+   "INDIRIZZO": "VIA DOLCI CARLO 5/A"
+ },
+ {
+   "SEZIONE": 1428,
+   "TIPO_SEZ": "N",
+   "MASCHI": 370,
+   "FEMMINE": 447,
+   "INDIRIZZO": "VIA MOSCATI PIETRO 1"
+ },
+ {
+   "SEZIONE": 1430,
+   "TIPO_SEZ": "N",
+   "MASCHI": 466,
+   "FEMMINE": 527,
+   "INDIRIZZO": "VIA CESALPINO ANDREA 38"
+ },
+ {
+   "SEZIONE": 1432,
+   "TIPO_SEZ": "N",
+   "MASCHI": 304,
+   "FEMMINE": 340,
+   "INDIRIZZO": "VIA BRESCIANI TURRONI COSTANTI"
+ },
+ {
+   "SEZIONE": 1439,
+   "TIPO_SEZ": "N",
+   "MASCHI": 314,
+   "FEMMINE": 405,
+   "INDIRIZZO": "VIA SAPONARO MICHELE 36/A"
+ },
+ {
+   "SEZIONE": 1441,
+   "TIPO_SEZ": "N",
+   "MASCHI": 298,
+   "FEMMINE": 364,
+   "INDIRIZZO": "VIA DEI NARCISI 4/A"
+ },
+ {
+   "SEZIONE": 1442,
+   "TIPO_SEZ": "N",
+   "MASCHI": 318,
+   "FEMMINE": 352,
+   "INDIRIZZO": "VIA VAL D'INTELVI 11"
+ },
+ {
+   "SEZIONE": 1443,
+   "TIPO_SEZ": "N",
+   "MASCHI": 355,
+   "FEMMINE": 447,
+   "INDIRIZZO": "VIA MASSAUA 5"
+ },
+ {
+   "SEZIONE": 1446,
+   "TIPO_SEZ": "N",
+   "MASCHI": 355,
+   "FEMMINE": 429,
+   "INDIRIZZO": "VIA FORZE ARMATE 279"
+ },
+ {
+   "SEZIONE": 1447,
+   "TIPO_SEZ": "N",
+   "MASCHI": 351,
+   "FEMMINE": 407,
+   "INDIRIZZO": "VIA VAL D'INTELVI 11"
+ },
+ {
+   "SEZIONE": 1448,
+   "TIPO_SEZ": "S",
+   "MASCHI": 414,
+   "FEMMINE": 482,
+   "INDIRIZZO": "VIA GNOCCHI DON CARLO 25"
+ },
+ {
+   "SEZIONE": 1449,
+   "TIPO_SEZ": "N",
+   "MASCHI": 353,
+   "FEMMINE": 433,
+   "INDIRIZZO": "PZA SANTA MARIA NASCENTE 30"
+ },
+ {
+   "SEZIONE": 1450,
+   "TIPO_SEZ": "N",
+   "MASCHI": 364,
+   "FEMMINE": 373,
+   "INDIRIZZO": "VIA PARETO VILFREDO 26"
+ },
+ {
+   "SEZIONE": 1451,
+   "TIPO_SEZ": "N",
+   "MASCHI": 461,
+   "FEMMINE": 473,
+   "INDIRIZZO": "VIA CONSOLE MARCELLO, 9/A"
+ },
+ {
+   "SEZIONE": 1452,
+   "TIPO_SEZ": "N",
+   "MASCHI": 375,
+   "FEMMINE": 418,
+   "INDIRIZZO": "VIA DE ROSSI GIOVANNI BATTISTA"
+ },
+ {
+   "SEZIONE": 1453,
+   "TIPO_SEZ": "N",
+   "MASCHI": 362,
+   "FEMMINE": 434,
+   "INDIRIZZO": "VIA MAC MAHON 96"
+ },
+ {
+   "SEZIONE": 1454,
+   "TIPO_SEZ": "N",
+   "MASCHI": 391,
+   "FEMMINE": 403,
+   "INDIRIZZO": "VIA DE ROSSI GIOVANNI BATTISTA"
+ },
+ {
+   "SEZIONE": 1455,
+   "TIPO_SEZ": "N",
+   "MASCHI": 417,
+   "FEMMINE": 437,
+   "INDIRIZZO": "VIA GUICCIARDI DIEGO 1"
+ },
+ {
+   "SEZIONE": 1457,
+   "TIPO_SEZ": "N",
+   "MASCHI": 420,
+   "FEMMINE": 443,
+   "INDIRIZZO": "VIA GUICCIARDI DIEGO 1"
+ },
+ {
+   "SEZIONE": 1458,
+   "TIPO_SEZ": "N",
+   "MASCHI": 302,
+   "FEMMINE": 316,
+   "INDIRIZZO": "VIA GUICCIARDI DIEGO 1"
+ },
+ {
+   "SEZIONE": 1459,
+   "TIPO_SEZ": "N",
+   "MASCHI": 432,
+   "FEMMINE": 499,
+   "INDIRIZZO": "VIA TRECHI SIGISMONDO 11"
+ },
+ {
+   "SEZIONE": 1460,
+   "TIPO_SEZ": "N",
+   "MASCHI": 476,
+   "FEMMINE": 500,
+   "INDIRIZZO": "VIA FABRIANO 4"
+ },
+ {
+   "SEZIONE": 1461,
+   "TIPO_SEZ": "N",
+   "MASCHI": 348,
+   "FEMMINE": 391,
+   "INDIRIZZO": "VIA MUZIO EMANUELE 5/A"
+ },
+ {
+   "SEZIONE": 1463,
+   "TIPO_SEZ": "N",
+   "MASCHI": 362,
+   "FEMMINE": 464,
+   "INDIRIZZO": "VIA PIANELL SALVATORE 40"
+ },
+ {
+   "SEZIONE": 1464,
+   "TIPO_SEZ": "N",
+   "MASCHI": 504,
+   "FEMMINE": 527,
+   "INDIRIZZO": "VIA PASSERINI GIAN BATTISTA, 8"
+ },
+ {
+   "SEZIONE": 1465,
+   "TIPO_SEZ": "N",
+   "MASCHI": 240,
+   "FEMMINE": 260,
+   "INDIRIZZO": "VIA GOFFREDO DA BUSSERO 9"
+ },
+ {
+   "SEZIONE": 1466,
+   "TIPO_SEZ": "N",
+   "MASCHI": 403,
+   "FEMMINE": 490,
+   "INDIRIZZO": "VIA DE ANDREIS LUIGI 10/A"
+ },
+ {
+   "SEZIONE": 1468,
+   "TIPO_SEZ": "N",
+   "MASCHI": 278,
+   "FEMMINE": 360,
+   "INDIRIZZO": "VIA CAVIGLIA ENRICO 8"
+ },
+ {
+   "SEZIONE": 1470,
+   "TIPO_SEZ": "N",
+   "MASCHI": 308,
+   "FEMMINE": 366,
+   "INDIRIZZO": "VIA DEGLI ANEMONI 10"
+ },
+ {
+   "SEZIONE": 1471,
+   "TIPO_SEZ": "N",
+   "MASCHI": 400,
+   "FEMMINE": 457,
+   "INDIRIZZO": "PLE ISTRIA 11/A"
+ },
+ {
+   "SEZIONE": 1474,
+   "TIPO_SEZ": "N",
+   "MASCHI": 535,
+   "FEMMINE": 521,
+   "INDIRIZZO": "VIA DORA BALTEA 16"
+ },
+ {
+   "SEZIONE": 1476,
+   "TIPO_SEZ": "N",
+   "MASCHI": 256,
+   "FEMMINE": 313,
+   "INDIRIZZO": "VIA GATTAMELATA 37"
+ },
+ {
+   "SEZIONE": 1478,
+   "TIPO_SEZ": "N",
+   "MASCHI": 360,
+   "FEMMINE": 437,
+   "INDIRIZZO": "VIA CAGLIERO GIOVANNI 20"
+ },
+ {
+   "SEZIONE": 1479,
+   "TIPO_SEZ": "N",
+   "MASCHI": 425,
+   "FEMMINE": 516,
+   "INDIRIZZO": "VIA CESALPINO ANDREA 38"
+ },
+ {
+   "SEZIONE": 1480,
+   "TIPO_SEZ": "S",
+   "MASCHI": 301,
+   "FEMMINE": 397,
+   "INDIRIZZO": "VIA PEPERE ALBERTO 2"
+ },
+ {
+   "SEZIONE": 1483,
+   "TIPO_SEZ": "N",
+   "MASCHI": 375,
+   "FEMMINE": 421,
+   "INDIRIZZO": "VIA GABBRO 6"
+ },
+ {
+   "SEZIONE": 1484,
+   "TIPO_SEZ": "N",
+   "MASCHI": 361,
+   "FEMMINE": 414,
+   "INDIRIZZO": "VLE BRIANZA 18/A"
+ },
+ {
+   "SEZIONE": 1486,
+   "TIPO_SEZ": "N",
+   "MASCHI": 361,
+   "FEMMINE": 386,
+   "INDIRIZZO": "VIA COSTA ANDREA 24/B"
+ },
+ {
+   "SEZIONE": 1488,
+   "TIPO_SEZ": "N",
+   "MASCHI": 249,
+   "FEMMINE": 287,
+   "INDIRIZZO": "VIA MONTE BALDO 11"
+ },
+ {
+   "SEZIONE": 1489,
+   "TIPO_SEZ": "N",
+   "MASCHI": 259,
+   "FEMMINE": 327,
+   "INDIRIZZO": "VIA SALERNO 1"
+ },
+ {
+   "SEZIONE": 1491,
+   "TIPO_SEZ": "N",
+   "MASCHI": 303,
+   "FEMMINE": 379,
+   "INDIRIZZO": "VIA PARAVIA PIER ALESSANDRO 85"
+ },
+ {
+   "SEZIONE": 1492,
+   "TIPO_SEZ": "N",
+   "MASCHI": 373,
+   "FEMMINE": 399,
+   "INDIRIZZO": "VIA VALDAGNO 8"
+ },
+ {
+   "SEZIONE": 1494,
+   "TIPO_SEZ": "N",
+   "MASCHI": 256,
+   "FEMMINE": 300,
+   "INDIRIZZO": "VIA PASSERINI GIAN BATTISTA 8"
+ },
+ {
+   "SEZIONE": 1495,
+   "TIPO_SEZ": "N",
+   "MASCHI": 268,
+   "FEMMINE": 361,
+   "INDIRIZZO": "VIA PASSERINI GIAN BATTISTA 8/"
+ },
+ {
+   "SEZIONE": 1496,
+   "TIPO_SEZ": "N",
+   "MASCHI": 369,
+   "FEMMINE": 441,
+   "INDIRIZZO": "PLE ISTRIA 11"
+ },
+ {
+   "SEZIONE": 1499,
+   "TIPO_SEZ": "N",
+   "MASCHI": 339,
+   "FEMMINE": 369,
+   "INDIRIZZO": "VIA MARTINENGO FRANCESCO 36/A"
+ },
+ {
+   "SEZIONE": 1500,
+   "TIPO_SEZ": "N",
+   "MASCHI": 327,
+   "FEMMINE": 356,
+   "INDIRIZZO": "VIA CARRIERA ROSALBA 12"
+ },
+ {
+   "SEZIONE": 1501,
+   "TIPO_SEZ": "N",
+   "MASCHI": 346,
+   "FEMMINE": 416,
+   "INDIRIZZO": "VIA SCROSATI LUIGI 3/A"
+ },
+ {
+   "SEZIONE": 1503,
+   "TIPO_SEZ": "N",
+   "MASCHI": 362,
+   "FEMMINE": 430,
+   "INDIRIZZO": "PZA ASCOLI GRAZIADIO ISAIA 2/A"
+ },
+ {
+   "SEZIONE": 1504,
+   "TIPO_SEZ": "N",
+   "MASCHI": 396,
+   "FEMMINE": 349,
+   "INDIRIZZO": "VIA DECORATI AL VALOR CIVILE 1"
+ },
+ {
+   "SEZIONE": 1505,
+   "TIPO_SEZ": "N",
+   "MASCHI": 366,
+   "FEMMINE": 426,
+   "INDIRIZZO": "VIA DALMAZIA 4"
+ },
+ {
+   "SEZIONE": 1506,
+   "TIPO_SEZ": "N",
+   "MASCHI": 350,
+   "FEMMINE": 386,
+   "INDIRIZZO": "VIA GOFFREDO DA BUSSERO 9"
+ },
+ {
+   "SEZIONE": 1507,
+   "TIPO_SEZ": "N",
+   "MASCHI": 305,
+   "FEMMINE": 376,
+   "INDIRIZZO": "VIA GIUSTI GIUSEPPE 15/B"
+ },
+ {
+   "SEZIONE": 1508,
+   "TIPO_SEZ": "N",
+   "MASCHI": 407,
+   "FEMMINE": 491,
+   "INDIRIZZO": "VIA CROCEFISSO 11"
+ },
+ {
+   "SEZIONE": 1512,
+   "TIPO_SEZ": "N",
+   "MASCHI": 473,
+   "FEMMINE": 535,
+   "INDIRIZZO": "VIA PISTOIA 30"
+ },
+ {
+   "SEZIONE": 1514,
+   "TIPO_SEZ": "N",
+   "MASCHI": 346,
+   "FEMMINE": 449,
+   "INDIRIZZO": "PZA GASPARRI CARD PIETRO 6"
+ },
+ {
+   "SEZIONE": 1515,
+   "TIPO_SEZ": "S",
+   "MASCHI": 367,
+   "FEMMINE": 439,
+   "INDIRIZZO": "PZA GASPARRI CARD PIETRO 6"
+ },
+ {
+   "SEZIONE": 1516,
+   "TIPO_SEZ": "N",
+   "MASCHI": 408,
+   "FEMMINE": 460,
+   "INDIRIZZO": "VIA MINCIO 21"
+ },
+ {
+   "SEZIONE": 1517,
+   "TIPO_SEZ": "N",
+   "MASCHI": 503,
+   "FEMMINE": 511,
+   "INDIRIZZO": "VIA PESCARENICO 6/A"
+ },
+ {
+   "SEZIONE": 1520,
+   "TIPO_SEZ": "N",
+   "MASCHI": 328,
+   "FEMMINE": 403,
+   "INDIRIZZO": "VIA MARTINETTI PIERO 25"
+ },
+ {
+   "SEZIONE": 1521,
+   "TIPO_SEZ": "S",
+   "MASCHI": 203,
+   "FEMMINE": 282,
+   "INDIRIZZO": "BNI DI PORTA VOLTA 16/A"
+ },
+ {
+   "SEZIONE": 1523,
+   "TIPO_SEZ": "N",
+   "MASCHI": 396,
+   "FEMMINE": 438,
+   "INDIRIZZO": "VIA MONTE BALDO 11"
+ },
+ {
+   "SEZIONE": 1525,
+   "TIPO_SEZ": "N",
+   "MASCHI": 393,
+   "FEMMINE": 463,
+   "INDIRIZZO": "VIA JACOPO DAL VERME 10/A"
+ },
+ {
+   "SEZIONE": 1526,
+   "TIPO_SEZ": "N",
+   "MASCHI": 251,
+   "FEMMINE": 325,
+   "INDIRIZZO": "VIA VAL D'INTELVI 11/A"
+ },
+ {
+   "SEZIONE": 1528,
+   "TIPO_SEZ": "N",
+   "MASCHI": 297,
+   "FEMMINE": 383,
+   "INDIRIZZO": "VIA DEL VOLGA 3"
+ },
+ {
+   "SEZIONE": 1529,
+   "TIPO_SEZ": "N",
+   "MASCHI": 444,
+   "FEMMINE": 516,
+   "INDIRIZZO": "VIA DECORATI AL VALOR CIVILE 1"
+ },
+ {
+   "SEZIONE": 1530,
+   "TIPO_SEZ": "N",
+   "MASCHI": 305,
+   "FEMMINE": 375,
+   "INDIRIZZO": "VIA CARNIA 32/A"
+ },
+ {
+   "SEZIONE": 1531,
+   "TIPO_SEZ": "N",
+   "MASCHI": 312,
+   "FEMMINE": 403,
+   "INDIRIZZO": "VIA VESPRI SICILIANI 75"
+ },
+ {
+   "SEZIONE": 1532,
+   "TIPO_SEZ": "O",
+   "MASCHI": 2,
+   "FEMMINE": 0,
+   "INDIRIZZO": "VIA DI RUDINI ANTONIO 8"
+ },
+ {
+   "SEZIONE": 1534,
+   "TIPO_SEZ": "O",
+   "MASCHI": 3,
+   "FEMMINE": 17,
+   "INDIRIZZO": "PZA OSPEDALE MAGGIORE 3"
+ },
+ {
+   "SEZIONE": 1535,
+   "TIPO_SEZ": "O",
+   "MASCHI": 0,
+   "FEMMINE": 0,
+   "INDIRIZZO": "PZA OSPEDALE MAGGIORE 3"
+ },
+ {
+   "SEZIONE": 1536,
+   "TIPO_SEZ": "O",
+   "MASCHI": 0,
+   "FEMMINE": 0,
+   "INDIRIZZO": "PZA OSPEDALE MAGGIORE 3"
+ },
+ {
+   "SEZIONE": 1538,
+   "TIPO_SEZ": "O",
+   "MASCHI": 0,
+   "FEMMINE": 0,
+   "INDIRIZZO": "VIA OLGETTINA 48"
+ },
+ {
+   "SEZIONE": 1539,
+   "TIPO_SEZ": "O",
+   "MASCHI": 0,
+   "FEMMINE": 3,
+   "INDIRIZZO": "VIA VENEZIAN GIACOMO 1"
+ },
+ {
+   "SEZIONE": 1540,
+   "TIPO_SEZ": "O",
+   "MASCHI": 0,
+   "FEMMINE": 0,
+   "INDIRIZZO": "PZA FERRARI ANDREA 1"
+ },
+ {
+   "SEZIONE": 1541,
+   "TIPO_SEZ": "O",
+   "MASCHI": 2,
+   "FEMMINE": 8,
+   "INDIRIZZO": "VIA SFORZA FRANCESCO 35"
+ },
+ {
+   "SEZIONE": 1544,
+   "TIPO_SEZ": "O",
+   "MASCHI": 0,
+   "FEMMINE": 0,
+   "INDIRIZZO": "VIA S.VITTORE 12"
+ },
+ {
+   "SEZIONE": 1547,
+   "TIPO_SEZ": "O",
+   "MASCHI": 0,
+   "FEMMINE": 0,
+   "INDIRIZZO": "VIA BARTOLOMEO D'ALVIANO 78"
+ },
+ {
+   "SEZIONE": 1550,
+   "TIPO_SEZ": "N",
+   "MASCHI": 35,
+   "FEMMINE": 211,
+   "INDIRIZZO": "VIA PALAZZOLO DON LUIGI 21"
+ },
+ {
+   "SEZIONE": 1552,
+   "TIPO_SEZ": "N",
+   "MASCHI": 407,
+   "FEMMINE": 460,
+   "INDIRIZZO": "VIA TOSI FRANCO 21"
+ },
+ {
+   "SEZIONE": 1553,
+   "TIPO_SEZ": "N",
+   "MASCHI": 294,
+   "FEMMINE": 372,
+   "INDIRIZZO": "VIA LORIA MOISE 37/A"
+ },
+ {
+   "SEZIONE": 1554,
+   "TIPO_SEZ": "N",
+   "MASCHI": 277,
+   "FEMMINE": 372,
+   "INDIRIZZO": "VIA MASSAUA 5/A"
+ },
+ {
+   "SEZIONE": 1556,
+   "TIPO_SEZ": "N",
+   "MASCHI": 236,
+   "FEMMINE": 299,
+   "INDIRIZZO": "VIA PARAVIA PIER ALESSANDRO 85"
+ },
+ {
+   "SEZIONE": 1558,
+   "TIPO_SEZ": "N",
+   "MASCHI": 386,
+   "FEMMINE": 475,
+   "INDIRIZZO": "VIA LINNEO CARLO 2"
+ },
+ {
+   "SEZIONE": 1559,
+   "TIPO_SEZ": "N",
+   "MASCHI": 374,
+   "FEMMINE": 444,
+   "INDIRIZZO": "VIA MONVISO 2"
+ },
+ {
+   "SEZIONE": 1565,
+   "TIPO_SEZ": "N",
+   "MASCHI": 349,
+   "FEMMINE": 452,
+   "INDIRIZZO": "VIA COSTA ANDREA 24/A"
+ },
+ {
+   "SEZIONE": 1566,
+   "TIPO_SEZ": "N",
+   "MASCHI": 375,
+   "FEMMINE": 409,
+   "INDIRIZZO": "VLE BRIANZA 18"
+ },
+ {
+   "SEZIONE": 1568,
+   "TIPO_SEZ": "N",
+   "MASCHI": 381,
+   "FEMMINE": 456,
+   "INDIRIZZO": "VIA MATTEI GIANFRANCO 12/A"
+ },
+ {
+   "SEZIONE": 1571,
+   "TIPO_SEZ": "O",
+   "MASCHI": 395,
+   "FEMMINE": 493,
+   "INDIRIZZO": "VIA CALABRIA DON GIOVANNI 16"
+ },
+ {
+   "SEZIONE": 1572,
+   "TIPO_SEZ": "N",
+   "MASCHI": 365,
+   "FEMMINE": 427,
+   "INDIRIZZO": "VIA CARNIA 32/A"
+ },
+ {
+   "SEZIONE": 1573,
+   "TIPO_SEZ": "N",
+   "MASCHI": 313,
+   "FEMMINE": 329,
+   "INDIRIZZO": "VIA CARNIA 32/A"
+ },
+ {
+   "SEZIONE": 1574,
+   "TIPO_SEZ": "N",
+   "MASCHI": 333,
+   "FEMMINE": 416,
+   "INDIRIZZO": "VIA CARNIA 32"
+ },
+ {
+   "SEZIONE": 1579,
+   "TIPO_SEZ": "N",
+   "MASCHI": 456,
+   "FEMMINE": 518,
+   "INDIRIZZO": "VIA DE ANDREIS LUIGI 10/A"
+ },
+ {
+   "SEZIONE": 1583,
+   "TIPO_SEZ": "N",
+   "MASCHI": 368,
+   "FEMMINE": 402,
+   "INDIRIZZO": "VIA PALMIERI NICOLA 24"
+ },
+ {
+   "SEZIONE": 1586,
+   "TIPO_SEZ": "N",
+   "MASCHI": 283,
+   "FEMMINE": 368,
+   "INDIRIZZO": "VIA CARRIERA ROSALBA 12"
+ },
+ {
+   "SEZIONE": 1587,
+   "TIPO_SEZ": "N",
+   "MASCHI": 414,
+   "FEMMINE": 449,
+   "INDIRIZZO": "VIA DEI NARCISI 4"
+ },
+ {
+   "SEZIONE": 1588,
+   "TIPO_SEZ": "N",
+   "MASCHI": 334,
+   "FEMMINE": 413,
+   "INDIRIZZO": "VIA SCROSATI LUIGI 3"
+ },
+ {
+   "SEZIONE": 1590,
+   "TIPO_SEZ": "S",
+   "MASCHI": 365,
+   "FEMMINE": 476,
+   "INDIRIZZO": "VIA SCROSATI LUIGI 4"
+ },
+ {
+   "SEZIONE": 1592,
+   "TIPO_SEZ": "N",
+   "MASCHI": 296,
+   "FEMMINE": 392,
+   "INDIRIZZO": "VIA MASSAUA 5/A"
+ },
+ {
+   "SEZIONE": 1593,
+   "TIPO_SEZ": "N",
+   "MASCHI": 375,
+   "FEMMINE": 429,
+   "INDIRIZZO": "VIA MARTINETTI PIERO 25/A"
+ },
+ {
+   "SEZIONE": 1594,
+   "TIPO_SEZ": "N",
+   "MASCHI": 533,
+   "FEMMINE": 472,
+   "INDIRIZZO": "VIA LAMENNAIS 20/A"
+ },
+ {
+   "SEZIONE": 1595,
+   "TIPO_SEZ": "N",
+   "MASCHI": 402,
+   "FEMMINE": 461,
+   "INDIRIZZO": "VIA LOVERE 4"
+ },
+ {
+   "SEZIONE": 1596,
+   "TIPO_SEZ": "N",
+   "MASCHI": 326,
+   "FEMMINE": 371,
+   "INDIRIZZO": "VIA DEI CIGNOLI 2/B"
+ },
+ {
+   "SEZIONE": 1597,
+   "TIPO_SEZ": "N",
+   "MASCHI": 271,
+   "FEMMINE": 327,
+   "INDIRIZZO": "VIA MAFFUCCI ANGIOLO 60"
+ },
+ {
+   "SEZIONE": 1599,
+   "TIPO_SEZ": "N",
+   "MASCHI": 334,
+   "FEMMINE": 427,
+   "INDIRIZZO": "PZA GASPARRI CARD PIETRO 6"
+ },
+ {
+   "SEZIONE": 1601,
+   "TIPO_SEZ": "N",
+   "MASCHI": 336,
+   "FEMMINE": 366,
+   "INDIRIZZO": "PZA GASPARRI CARD PIETRO 6/A"
+ },
+ {
+   "SEZIONE": 1605,
+   "TIPO_SEZ": "N",
+   "MASCHI": 301,
+   "FEMMINE": 371,
+   "INDIRIZZO": "VIA MUZIO EMANUELE 5/A"
+ },
+ {
+   "SEZIONE": 1606,
+   "TIPO_SEZ": "N",
+   "MASCHI": 347,
+   "FEMMINE": 427,
+   "INDIRIZZO": "VIA CAGLIERO GIOVANNI 20"
+ },
+ {
+   "SEZIONE": 1608,
+   "TIPO_SEZ": "N",
+   "MASCHI": 386,
+   "FEMMINE": 462,
+   "INDIRIZZO": "VIA CAGLIERO GIOVANNI 20"
+ },
+ {
+   "SEZIONE": 1609,
+   "TIPO_SEZ": "N",
+   "MASCHI": 276,
+   "FEMMINE": 335,
+   "INDIRIZZO": "VIA PASSERINI GIAN BATTISTA 8/"
+ },
+ {
+   "SEZIONE": 1610,
+   "TIPO_SEZ": "N",
+   "MASCHI": 420,
+   "FEMMINE": 490,
+   "INDIRIZZO": "VIA PINI TOMMASO 3"
+ },
+ {
+   "SEZIONE": 1613,
+   "TIPO_SEZ": "N",
+   "MASCHI": 382,
+   "FEMMINE": 468,
+   "INDIRIZZO": "VIA QUADRONNO 32"
+ },
+ {
+   "SEZIONE": 1615,
+   "TIPO_SEZ": "N",
+   "MASCHI": 307,
+   "FEMMINE": 393,
+   "INDIRIZZO": "VIA SAPONARO MICHELE 20/A"
+ },
+ {
+   "SEZIONE": 1616,
+   "TIPO_SEZ": "N",
+   "MASCHI": 300,
+   "FEMMINE": 382,
+   "INDIRIZZO": "LGO GUERRIERI GONZAGA ANSELMO"
+ },
+ {
+   "SEZIONE": 1617,
+   "TIPO_SEZ": "N",
+   "MASCHI": 365,
+   "FEMMINE": 427,
+   "INDIRIZZO": "LGO GUERRIERI GONZAGA 4"
+ },
+ {
+   "SEZIONE": 1620,
+   "TIPO_SEZ": "N",
+   "MASCHI": 431,
+   "FEMMINE": 541,
+   "INDIRIZZO": "VIA VESPRI SICILIANI 75"
+ },
+ {
+   "SEZIONE": 1621,
+   "TIPO_SEZ": "N",
+   "MASCHI": 343,
+   "FEMMINE": 378,
+   "INDIRIZZO": "VIA GNOCCHI DON CARLO 25/A"
+ },
+ {
+   "SEZIONE": 1622,
+   "TIPO_SEZ": "N",
+   "MASCHI": 534,
+   "FEMMINE": 511,
+   "INDIRIZZO": "VIA GOFFREDO DA BUSSERO 9"
+ },
+ {
+   "SEZIONE": 1625,
+   "TIPO_SEZ": "N",
+   "MASCHI": 296,
+   "FEMMINE": 372,
+   "INDIRIZZO": "VIA DELLA COMMENDA 22"
+ },
+ {
+   "SEZIONE": 1630,
+   "TIPO_SEZ": "N",
+   "MASCHI": 457,
+   "FEMMINE": 495,
+   "INDIRIZZO": "VIA PESTALOZZI GIOVANNI 13"
+ },
+ {
+   "SEZIONE": 1634,
+   "TIPO_SEZ": "N",
+   "MASCHI": 367,
+   "FEMMINE": 428,
+   "INDIRIZZO": "VIA MAURI ANGELO 5/A"
+ },
+ {
+   "SEZIONE": 1635,
+   "TIPO_SEZ": "N",
+   "MASCHI": 331,
+   "FEMMINE": 416,
+   "INDIRIZZO": "VIA SARDEGNA 14"
+ },
+ {
+   "SEZIONE": 1637,
+   "TIPO_SEZ": "N",
+   "MASCHI": 384,
+   "FEMMINE": 479,
+   "INDIRIZZO": "VIA UCCELLO PAOLO 1/A"
+ },
+ {
+   "SEZIONE": 1638,
+   "TIPO_SEZ": "N",
+   "MASCHI": 376,
+   "FEMMINE": 429,
+   "INDIRIZZO": "VIA DE NICOLA ENRICO 2"
+ },
+ {
+   "SEZIONE": 1641,
+   "TIPO_SEZ": "S",
+   "MASCHI": 379,
+   "FEMMINE": 429,
+   "INDIRIZZO": "VIA GATTAMELATA 37"
+ },
+ {
+   "SEZIONE": 1643,
+   "TIPO_SEZ": "N",
+   "MASCHI": 387,
+   "FEMMINE": 451,
+   "INDIRIZZO": "VIA MANTEGNA ANDREA, 10/A"
+ },
+ {
+   "SEZIONE": 1644,
+   "TIPO_SEZ": "N",
+   "MASCHI": 327,
+   "FEMMINE": 433,
+   "INDIRIZZO": "VIA MANTEGNA ANDREA, 10/A"
+ },
+ {
+   "SEZIONE": 1645,
+   "TIPO_SEZ": "N",
+   "MASCHI": 370,
+   "FEMMINE": 458,
+   "INDIRIZZO": "VIA MONVISO 2"
+ },
+ {
+   "SEZIONE": 1647,
+   "TIPO_SEZ": "N",
+   "MASCHI": 336,
+   "FEMMINE": 402,
+   "INDIRIZZO": "VIA MAC MAHON 96"
+ },
+ {
+   "SEZIONE": 1649,
+   "TIPO_SEZ": "N",
+   "MASCHI": 311,
+   "FEMMINE": 368,
+   "INDIRIZZO": "VIA SAPONARO MICHELE 36/A"
+ },
+ {
+   "SEZIONE": 1657,
+   "TIPO_SEZ": "N",
+   "MASCHI": 334,
+   "FEMMINE": 403,
+   "INDIRIZZO": "VIA CASATI FELICE 6"
+ },
+ {
+   "SEZIONE": 1658,
+   "TIPO_SEZ": "N",
+   "MASCHI": 477,
+   "FEMMINE": 508,
+   "INDIRIZZO": "VIA MATTEI GIANFRANCO 12"
+ },
+ {
+   "SEZIONE": 1659,
+   "TIPO_SEZ": "O",
+   "MASCHI": 316,
+   "FEMMINE": 336,
+   "INDIRIZZO": "VIA RUSSO VINCENZO 27/A"
+ },
+ {
+   "SEZIONE": 1660,
+   "TIPO_SEZ": "N",
+   "MASCHI": 279,
+   "FEMMINE": 378,
+   "INDIRIZZO": "VIA BRESCIANI TURRONI COSTANTI"
+ },
+ {
+   "SEZIONE": 1662,
+   "TIPO_SEZ": "N",
+   "MASCHI": 322,
+   "FEMMINE": 356,
+   "INDIRIZZO": "VIA CARNIA 32/A"
+ },
+ {
+   "SEZIONE": 1663,
+   "TIPO_SEZ": "N",
+   "MASCHI": 369,
+   "FEMMINE": 422,
+   "INDIRIZZO": "VIA CALABRIA DON GIOVANNI 16"
+ },
+ {
+   "SEZIONE": 1667,
+   "TIPO_SEZ": "N",
+   "MASCHI": 305,
+   "FEMMINE": 386,
+   "INDIRIZZO": "PZA SAN GEROLAMO 2"
+ },
+ {
+   "SEZIONE": 1668,
+   "TIPO_SEZ": "N",
+   "MASCHI": 315,
+   "FEMMINE": 379,
+   "INDIRIZZO": "VIA DE ANDREIS LUIGI 10"
+ },
+ {
+   "SEZIONE": 1669,
+   "TIPO_SEZ": "N",
+   "MASCHI": 415,
+   "FEMMINE": 481,
+   "INDIRIZZO": "VLE MUGELLO 5"
+ },
+ {
+   "SEZIONE": 1670,
+   "TIPO_SEZ": "N",
+   "MASCHI": 490,
+   "FEMMINE": 516,
+   "INDIRIZZO": "VIA PASSERINI GIAN BATTISTA 8"
+ },
+ {
+   "SEZIONE": 1676,
+   "TIPO_SEZ": "N",
+   "MASCHI": 408,
+   "FEMMINE": 417,
+   "INDIRIZZO": "VIA PALMIERI NICOLA 24"
+ },
+ {
+   "SEZIONE": 1677,
+   "TIPO_SEZ": "N",
+   "MASCHI": 389,
+   "FEMMINE": 408,
+   "INDIRIZZO": "VIA BARONA 70"
+ },
+ {
+   "SEZIONE": 1679,
+   "TIPO_SEZ": "S",
+   "MASCHI": 271,
+   "FEMMINE": 376,
+   "INDIRIZZO": "VIA PASSERINI GIAN BATTISTA 8/"
+ },
+ {
+   "SEZIONE": 1680,
+   "TIPO_SEZ": "N",
+   "MASCHI": 424,
+   "FEMMINE": 431,
+   "INDIRIZZO": "VLE SARCA 24"
+ },
+ {
+   "SEZIONE": 1682,
+   "TIPO_SEZ": "O",
+   "MASCHI": 415,
+   "FEMMINE": 422,
+   "INDIRIZZO": "VIA IVREA 6/A"
+ },
+ {
+   "SEZIONE": 1683,
+   "TIPO_SEZ": "N",
+   "MASCHI": 480,
+   "FEMMINE": 549,
+   "INDIRIZZO": "VIA IVREA 6"
+ },
+ {
+   "SEZIONE": 1685,
+   "TIPO_SEZ": "N",
+   "MASCHI": 386,
+   "FEMMINE": 416,
+   "INDIRIZZO": "VIA CONSOLE MARCELLO, 9/A"
+ },
+ {
+   "SEZIONE": 1688,
+   "TIPO_SEZ": "N",
+   "MASCHI": 309,
+   "FEMMINE": 406,
+   "INDIRIZZO": "VIA DOLCI CARLO 5/A"
+ },
+ {
+   "SEZIONE": 1691,
+   "TIPO_SEZ": "N",
+   "MASCHI": 354,
+   "FEMMINE": 393,
+   "INDIRIZZO": "VIA UCCELLO PAOLO 1/A"
+ },
+ {
+   "SEZIONE": 1693,
+   "TIPO_SEZ": "O",
+   "MASCHI": 301,
+   "FEMMINE": 400,
+   "INDIRIZZO": "VIA SAPONARO MICHELE 20/A"
+ },
+ {
+   "SEZIONE": 1695,
+   "TIPO_SEZ": "N",
+   "MASCHI": 280,
+   "FEMMINE": 350,
+   "INDIRIZZO": "VIA FORZE ARMATE 279/A"
+ },
+ {
+   "SEZIONE": 1696,
+   "TIPO_SEZ": "N",
+   "MASCHI": 359,
+   "FEMMINE": 414,
+   "INDIRIZZO": "VIA MASSAUA 5"
+ },
+ {
+   "SEZIONE": 1699,
+   "TIPO_SEZ": "N",
+   "MASCHI": 293,
+   "FEMMINE": 339,
+   "INDIRIZZO": "VIA CRIMEA 22"
+ },
+ {
+   "SEZIONE": 1701,
+   "TIPO_SEZ": "N",
+   "MASCHI": 272,
+   "FEMMINE": 333,
+   "INDIRIZZO": "VIA ZUARA 7"
+ },
+ {
+   "SEZIONE": 1705,
+   "TIPO_SEZ": "N",
+   "MASCHI": 333,
+   "FEMMINE": 454,
+   "INDIRIZZO": "VIA SCROSATI LUIGI 3/A"
+ },
+ {
+   "SEZIONE": 1706,
+   "TIPO_SEZ": "N",
+   "MASCHI": 329,
+   "FEMMINE": 416,
+   "INDIRIZZO": "VIA SCROSATI LUIGI 4"
+ },
+ {
+   "SEZIONE": 1708,
+   "TIPO_SEZ": "N",
+   "MASCHI": 384,
+   "FEMMINE": 462,
+   "INDIRIZZO": "VIA CONSOLE MARCELLO 9"
+ },
+ {
+   "SEZIONE": 1709,
+   "TIPO_SEZ": "N",
+   "MASCHI": 396,
+   "FEMMINE": 491,
+   "INDIRIZZO": "VIA CAGLIERO GIOVANNI 20"
+ },
+ {
+   "SEZIONE": 1710,
+   "TIPO_SEZ": "N",
+   "MASCHI": 517,
+   "FEMMINE": 544,
+   "INDIRIZZO": "VIA PASSERINI GIAN BATTISTA, 8"
+ },
+ {
+   "SEZIONE": 1711,
+   "TIPO_SEZ": "N",
+   "MASCHI": 337,
+   "FEMMINE": 387,
+   "INDIRIZZO": "VIA DEGLI ANEMONI 10/A"
+ },
+ {
+   "SEZIONE": 1712,
+   "TIPO_SEZ": "N",
+   "MASCHI": 327,
+   "FEMMINE": 395,
+   "INDIRIZZO": "LGO GUERRIERI GONZAGA 4"
+ },
+ {
+   "SEZIONE": 1717,
+   "TIPO_SEZ": "N",
+   "MASCHI": 363,
+   "FEMMINE": 418,
+   "INDIRIZZO": "VIA VAL LAGARINA 44"
+ },
+ {
+   "SEZIONE": 1718,
+   "TIPO_SEZ": "N",
+   "MASCHI": 320,
+   "FEMMINE": 411,
+   "INDIRIZZO": "VIA VAL LAGARINA 44"
+ },
+ {
+   "SEZIONE": 1719,
+   "TIPO_SEZ": "N",
+   "MASCHI": 327,
+   "FEMMINE": 358,
+   "INDIRIZZO": "VIA TRILUSSA 10"
+ },
+ {
+   "SEZIONE": 1720,
+   "TIPO_SEZ": "N",
+   "MASCHI": 254,
+   "FEMMINE": 347,
+   "INDIRIZZO": "VIA TRILUSSA 10/A"
+ },
+ {
+   "SEZIONE": 1721,
+   "TIPO_SEZ": "N",
+   "MASCHI": 296,
+   "FEMMINE": 364,
+   "INDIRIZZO": "VIA TRILUSSA 10/A"
+ },
+ {
+   "SEZIONE": 1722,
+   "TIPO_SEZ": "N",
+   "MASCHI": 322,
+   "FEMMINE": 427,
+   "INDIRIZZO": "VIA SCROSATI LUIGI 4"
+ },
+ {
+   "SEZIONE": 1724,
+   "TIPO_SEZ": "N",
+   "MASCHI": 385,
+   "FEMMINE": 437,
+   "INDIRIZZO": "VIA DALMAZIA 4"
+ },
+ {
+   "SEZIONE": 1725,
+   "TIPO_SEZ": "N",
+   "MASCHI": 343,
+   "FEMMINE": 403,
+   "INDIRIZZO": "VIA DECORATI AL VALOR CIVILE 1"
+ },
+ {
+   "SEZIONE": 1727,
+   "TIPO_SEZ": "N",
+   "MASCHI": 300,
+   "FEMMINE": 385,
+   "INDIRIZZO": "VIA SAPONARO MICHELE 20/A"
+ },
+ {
+   "SEZIONE": 1732,
+   "TIPO_SEZ": "N",
+   "MASCHI": 268,
+   "FEMMINE": 367,
+   "INDIRIZZO": "VIA DEI SALICI 2"
+ },
+ {
+   "SEZIONE": 1733,
+   "TIPO_SEZ": "N",
+   "MASCHI": 297,
+   "FEMMINE": 351,
+   "INDIRIZZO": "VIA DEI SALICI 2"
+ },
+ {
+   "SEZIONE": 1735,
+   "TIPO_SEZ": "N",
+   "MASCHI": 369,
+   "FEMMINE": 422,
+   "INDIRIZZO": "VIA MANN THOMAS 8/A"
+ },
+ {
+   "SEZIONE": 1739,
+   "TIPO_SEZ": "N",
+   "MASCHI": 326,
+   "FEMMINE": 342,
+   "INDIRIZZO": "VIA SANT'ELEMBARDO 4"
+ },
+ {
+   "SEZIONE": 1743,
+   "TIPO_SEZ": "N",
+   "MASCHI": 344,
+   "FEMMINE": 457,
+   "INDIRIZZO": "VIA DELLE ANDE 4"
+ },
+ {
+   "SEZIONE": 1744,
+   "TIPO_SEZ": "N",
+   "MASCHI": 331,
+   "FEMMINE": 381,
+   "INDIRIZZO": "VIA CILEA FRANCESCO 12"
+ },
+ {
+   "SEZIONE": 1745,
+   "TIPO_SEZ": "N",
+   "MASCHI": 303,
+   "FEMMINE": 327,
+   "INDIRIZZO": "VIA VITERBO 31"
+ },
+ {
+   "SEZIONE": 1747,
+   "TIPO_SEZ": "N",
+   "MASCHI": 326,
+   "FEMMINE": 418,
+   "INDIRIZZO": "VIA LOVERE 4"
+ },
+ {
+   "SEZIONE": 1749,
+   "TIPO_SEZ": "N",
+   "MASCHI": 272,
+   "FEMMINE": 337,
+   "INDIRIZZO": "VIA GNOCCHI DON CARLO 25"
+ },
+ {
+   "SEZIONE": 1750,
+   "TIPO_SEZ": "N",
+   "MASCHI": 398,
+   "FEMMINE": 456,
+   "INDIRIZZO": "VIA FORZE ARMATE 279/A"
+ },
+ {
+   "SEZIONE": 1751,
+   "TIPO_SEZ": "N",
+   "MASCHI": 346,
+   "FEMMINE": 379,
+   "INDIRIZZO": "VIA GNOCCHI DON CARLO 25/A"
+ },
+ {
+   "SEZIONE": 1753,
+   "TIPO_SEZ": "N",
+   "MASCHI": 329,
+   "FEMMINE": 401,
+   "INDIRIZZO": "VIA LORIA MOISE 37/A"
+ },
+ {
+   "SEZIONE": 1754,
+   "TIPO_SEZ": "N",
+   "MASCHI": 345,
+   "FEMMINE": 378,
+   "INDIRIZZO": "VIA GNOCCHI DON CARLO 25"
+ },
+ {
+   "SEZIONE": 1758,
+   "TIPO_SEZ": "N",
+   "MASCHI": 328,
+   "FEMMINE": 444,
+   "INDIRIZZO": "VIA COLONNA VITTORIA 42"
+ },
+ {
+   "SEZIONE": 1759,
+   "TIPO_SEZ": "S",
+   "MASCHI": 440,
+   "FEMMINE": 541,
+   "INDIRIZZO": "VIA RASORI GIOVANNI 19"
+ },
+ {
+   "SEZIONE": 1760,
+   "TIPO_SEZ": "N",
+   "MASCHI": 339,
+   "FEMMINE": 394,
+   "INDIRIZZO": "VIA SCROSATI LUIGI 3"
+ },
+ {
+   "SEZIONE": 1761,
+   "TIPO_SEZ": "N",
+   "MASCHI": 303,
+   "FEMMINE": 379,
+   "INDIRIZZO": "VIA SCROSATI LUIGI 3"
+ },
+ {
+   "SEZIONE": 1762,
+   "TIPO_SEZ": "N",
+   "MASCHI": 269,
+   "FEMMINE": 334,
+   "INDIRIZZO": "VIA DALMAZIA 4"
+ },
+ {
+   "SEZIONE": 1764,
+   "TIPO_SEZ": "N",
+   "MASCHI": 355,
+   "FEMMINE": 401,
+   "INDIRIZZO": "VIA RUSSO VINCENZO 27"
+ },
+ {
+   "SEZIONE": 1765,
+   "TIPO_SEZ": "N",
+   "MASCHI": 355,
+   "FEMMINE": 434,
+   "INDIRIZZO": "VIA LINNEO CARLO 2/A"
+ },
+ {
+   "SEZIONE": 1772,
+   "TIPO_SEZ": "N",
+   "MASCHI": 324,
+   "FEMMINE": 425,
+   "INDIRIZZO": "VIA FARAVELLI LUIGI G. 32"
+ },
+ {
+   "SEZIONE": 1773,
+   "TIPO_SEZ": "N",
+   "MASCHI": 304,
+   "FEMMINE": 358,
+   "INDIRIZZO": "VIA BARONA 70"
+ },
+ {
+   "SEZIONE": 1774,
+   "TIPO_SEZ": "N",
+   "MASCHI": 407,
+   "FEMMINE": 439,
+   "INDIRIZZO": "VIA FABRIANO 4"
+ },
+ {
+   "SEZIONE": 1780,
+   "TIPO_SEZ": "N",
+   "MASCHI": 360,
+   "FEMMINE": 393,
+   "INDIRIZZO": "VIA CASTELLINO DA CASTELLO 10"
+ },
+ {
+   "SEZIONE": 1781,
+   "TIPO_SEZ": "N",
+   "MASCHI": 425,
+   "FEMMINE": 490,
+   "INDIRIZZO": "VIA MATTEUCCI CARLO 3"
+ },
+ {
+   "SEZIONE": 1786,
+   "TIPO_SEZ": "N",
+   "MASCHI": 295,
+   "FEMMINE": 315,
+   "INDIRIZZO": "PZA SANTA MARIA NASCENTE 30"
+ },
+ {
+   "SEZIONE": 1787,
+   "TIPO_SEZ": "N",
+   "MASCHI": 379,
+   "FEMMINE": 449,
+   "INDIRIZZO": "VIA MANN THOMAS 8/A"
+ },
+ {
+   "SEZIONE": 1789,
+   "TIPO_SEZ": "N",
+   "MASCHI": 465,
+   "FEMMINE": 484,
+   "INDIRIZZO": "VIA DELL' ARCADIA 22"
+ },
+ {
+   "SEZIONE": 1790,
+   "TIPO_SEZ": "N",
+   "MASCHI": 312,
+   "FEMMINE": 377,
+   "INDIRIZZO": "VIA DECORATI AL VALOR CIVILE 1"
+ },
+ {
+   "SEZIONE": 1794,
+   "TIPO_SEZ": "N",
+   "MASCHI": 391,
+   "FEMMINE": 507,
+   "INDIRIZZO": "VIA COLA DI RIENZO 1"
+ },
+ {
+   "SEZIONE": 1799,
+   "TIPO_SEZ": "S",
+   "MASCHI": 306,
+   "FEMMINE": 400,
+   "INDIRIZZO": "VIA DELLE ANDE 4"
+ },
+ {
+   "SEZIONE": 1800,
+   "TIPO_SEZ": "N",
+   "MASCHI": 400,
+   "FEMMINE": 458,
+   "INDIRIZZO": "VIA RUSSO VINCENZO 27"
+ },
+ {
+   "SEZIONE": 1801,
+   "TIPO_SEZ": "N",
+   "MASCHI": 437,
+   "FEMMINE": 485,
+   "INDIRIZZO": "VIA LAMENNAIS 20"
+ },
+ {
+   "SEZIONE": 1806,
+   "TIPO_SEZ": "N",
+   "MASCHI": 437,
+   "FEMMINE": 455,
+   "INDIRIZZO": "VIA CESALPINO ANDREA 38"
+ },
+ {
+   "SEZIONE": 1809,
+   "TIPO_SEZ": "N",
+   "MASCHI": 364,
+   "FEMMINE": 406,
+   "INDIRIZZO": "VIA BRESCIANI TURRONI COSTANTI"
+ },
+ {
+   "SEZIONE": 1811,
+   "TIPO_SEZ": "N",
+   "MASCHI": 294,
+   "FEMMINE": 350,
+   "INDIRIZZO": "VIA CALABRIA DON GIOVANNI 16"
+ },
+ {
+   "SEZIONE": 1815,
+   "TIPO_SEZ": "N",
+   "MASCHI": 317,
+   "FEMMINE": 352,
+   "INDIRIZZO": "VIA CARNIA 32"
+ },
+ {
+   "SEZIONE": 1818,
+   "TIPO_SEZ": "N",
+   "MASCHI": 354,
+   "FEMMINE": 407,
+   "INDIRIZZO": "VIA FELTRE 68/1A"
+ },
+ {
+   "SEZIONE": 1819,
+   "TIPO_SEZ": "N",
+   "MASCHI": 315,
+   "FEMMINE": 370,
+   "INDIRIZZO": "VIA FELTRE 68/1"
+ },
+ {
+   "SEZIONE": 1823,
+   "TIPO_SEZ": "N",
+   "MASCHI": 278,
+   "FEMMINE": 345,
+   "INDIRIZZO": "PZA LEONARDO DA VINCI 2"
+ },
+ {
+   "SEZIONE": 1824,
+   "TIPO_SEZ": "N",
+   "MASCHI": 339,
+   "FEMMINE": 404,
+   "INDIRIZZO": "VIA VAL LAGARINA 44"
+ },
+ {
+   "SEZIONE": 1826,
+   "TIPO_SEZ": "N",
+   "MASCHI": 344,
+   "FEMMINE": 392,
+   "INDIRIZZO": "VIA VAL LAGARINA 44"
+ },
+ {
+   "SEZIONE": 1832,
+   "TIPO_SEZ": "N",
+   "MASCHI": 327,
+   "FEMMINE": 386,
+   "INDIRIZZO": "VIA UCELLI DI NEMI GUIDO 54"
+ },
+ {
+   "SEZIONE": 1833,
+   "TIPO_SEZ": "N",
+   "MASCHI": 392,
+   "FEMMINE": 441,
+   "INDIRIZZO": "VLE ROMAGNA 18"
+ },
+ {
+   "SEZIONE": 1834,
+   "TIPO_SEZ": "N",
+   "MASCHI": 308,
+   "FEMMINE": 402,
+   "INDIRIZZO": "VLE ROMAGNA 18"
+ },
+ {
+   "SEZIONE": 1842,
+   "TIPO_SEZ": "N",
+   "MASCHI": 367,
+   "FEMMINE": 466,
+   "INDIRIZZO": "LGO GUERRIERI GONZAGA 4"
+ },
+ {
+   "SEZIONE": 1846,
+   "TIPO_SEZ": "N",
+   "MASCHI": 471,
+   "FEMMINE": 529,
+   "INDIRIZZO": "VIA DEL VOLGA 3"
+ },
+ {
+   "SEZIONE": 1847,
+   "TIPO_SEZ": "N",
+   "MASCHI": 421,
+   "FEMMINE": 470,
+   "INDIRIZZO": "VIA MARTINENGO FRANCESCO 36"
+ },
+ {
+   "SEZIONE": 1848,
+   "TIPO_SEZ": "N",
+   "MASCHI": 379,
+   "FEMMINE": 421,
+   "INDIRIZZO": "VIA CAVIGLIA ENRICO 8"
+ },
+ {
+   "SEZIONE": 1851,
+   "TIPO_SEZ": "N",
+   "MASCHI": 319,
+   "FEMMINE": 344,
+   "INDIRIZZO": "VIA POLESINE 14"
+ },
+ {
+   "SEZIONE": 1855,
+   "TIPO_SEZ": "N",
+   "MASCHI": 323,
+   "FEMMINE": 348,
+   "INDIRIZZO": "VIA S. DIONIGI 36/A"
+ },
+ {
+   "SEZIONE": 1863,
+   "TIPO_SEZ": "N",
+   "MASCHI": 463,
+   "FEMMINE": 455,
+   "INDIRIZZO": "VIA PESTALOZZI GIOVANNI 13"
+ },
+ {
+   "SEZIONE": 1872,
+   "TIPO_SEZ": "N",
+   "MASCHI": 288,
+   "FEMMINE": 344,
+   "INDIRIZZO": "VIA FORZE ARMATE 65"
+ },
+ {
+   "SEZIONE": 1873,
+   "TIPO_SEZ": "N",
+   "MASCHI": 255,
+   "FEMMINE": 296,
+   "INDIRIZZO": "VIA CRIMEA 22"
+ },
+ {
+   "SEZIONE": 1882,
+   "TIPO_SEZ": "N",
+   "MASCHI": 316,
+   "FEMMINE": 394,
+   "INDIRIZZO": "VIA FORZE ARMATE 67"
+ },
+ {
+   "SEZIONE": 1884,
+   "TIPO_SEZ": "N",
+   "MASCHI": 324,
+   "FEMMINE": 426,
+   "INDIRIZZO": "VIA VAL D'INTELVI 11/A"
+ },
+ {
+   "SEZIONE": 1887,
+   "TIPO_SEZ": "N",
+   "MASCHI": 416,
+   "FEMMINE": 399,
+   "INDIRIZZO": "VIA MONTE BALDO 11/A"
+ },
+ {
+   "SEZIONE": 1888,
+   "TIPO_SEZ": "N",
+   "MASCHI": 280,
+   "FEMMINE": 343,
+   "INDIRIZZO": "VIA MARTINETTI PIERO 25/A"
+ },
+ {
+   "SEZIONE": 1890,
+   "TIPO_SEZ": "N",
+   "MASCHI": 424,
+   "FEMMINE": 417,
+   "INDIRIZZO": "VIA CILEA FRANCESCO, 12/A"
+ },
+ {
+   "SEZIONE": 1891,
+   "TIPO_SEZ": "N",
+   "MASCHI": 366,
+   "FEMMINE": 446,
+   "INDIRIZZO": "VIA LOVERE 4"
+ },
+ {
+   "SEZIONE": 1900,
+   "TIPO_SEZ": "S",
+   "MASCHI": 460,
+   "FEMMINE": 514,
+   "INDIRIZZO": "VIA CITTADINI PIER FRANCESCO 1"
+ },
+ {
+   "SEZIONE": 1910,
+   "TIPO_SEZ": "N",
+   "MASCHI": 424,
+   "FEMMINE": 471,
+   "INDIRIZZO": "VIA PEPE GUGLIELMO 40"
+ },
+ {
+   "SEZIONE": 1911,
+   "TIPO_SEZ": "N",
+   "MASCHI": 358,
+   "FEMMINE": 387,
+   "INDIRIZZO": "VIA DE CONTI BERNARDINO 3"
+ },
+ {
+   "SEZIONE": 1916,
+   "TIPO_SEZ": "N",
+   "MASCHI": 556,
+   "FEMMINE": 568,
+   "INDIRIZZO": "VIA SCIALOIA VITTORIO 19"
+ },
+ {
+   "SEZIONE": 1920,
+   "TIPO_SEZ": "S",
+   "MASCHI": 371,
+   "FEMMINE": 495,
+   "INDIRIZZO": "VLE ZARA 96"
+ },
+ {
+   "SEZIONE": 1921,
+   "TIPO_SEZ": "N",
+   "MASCHI": 312,
+   "FEMMINE": 344,
+   "INDIRIZZO": "PLE ISTRIA 11/A"
+ },
+ {
+   "SEZIONE": 1924,
+   "TIPO_SEZ": "N",
+   "MASCHI": 416,
+   "FEMMINE": 508,
+   "INDIRIZZO": "VIA PASSERINI GIAN BATTISTA, 8"
+ },
+ {
+   "SEZIONE": 1928,
+   "TIPO_SEZ": "N",
+   "MASCHI": 294,
+   "FEMMINE": 338,
+   "INDIRIZZO": "VIA CAVIGLIA ENRICO 8"
+ },
+ {
+   "SEZIONE": 1930,
+   "TIPO_SEZ": "N",
+   "MASCHI": 434,
+   "FEMMINE": 509,
+   "INDIRIZZO": "VIA FARAVELLI LUIGI G. 32"
+ },
+ {
+   "SEZIONE": 1931,
+   "TIPO_SEZ": "N",
+   "MASCHI": 316,
+   "FEMMINE": 371,
+   "INDIRIZZO": "VLE SARCA 24"
+ },
+ {
+   "SEZIONE": 1932,
+   "TIPO_SEZ": "S",
+   "MASCHI": 400,
+   "FEMMINE": 406,
+   "INDIRIZZO": "VIA MANN THOMAS 8/A"
+ },
+ {
+   "SEZIONE": 1934,
+   "TIPO_SEZ": "N",
+   "MASCHI": 237,
+   "FEMMINE": 303,
+   "INDIRIZZO": "VIA SAVONA 71/B"
+ },
+ {
+   "SEZIONE": 1936,
+   "TIPO_SEZ": "N",
+   "MASCHI": 395,
+   "FEMMINE": 423,
+   "INDIRIZZO": "VIA GATTAMELATA 37"
+ },
+ {
+   "SEZIONE": 1945,
+   "TIPO_SEZ": "N",
+   "MASCHI": 461,
+   "FEMMINE": 405,
+   "INDIRIZZO": "VIA GOFFREDO DA BUSSERO 9"
+ },
+ {
+   "SEZIONE": 1947,
+   "TIPO_SEZ": "N",
+   "MASCHI": 541,
+   "FEMMINE": 540,
+   "INDIRIZZO": "VIA ANTONINI GIACOMO 50"
+ },
+ {
+   "SEZIONE": 1952,
+   "TIPO_SEZ": "N",
+   "MASCHI": 436,
+   "FEMMINE": 494,
+   "INDIRIZZO": "VIA VALDAGNO 8"
+ },
+ {
+   "SEZIONE": 1954,
+   "TIPO_SEZ": "N",
+   "MASCHI": 442,
+   "FEMMINE": 472,
+   "INDIRIZZO": "VIA GUICCIARDI DIEGO 1"
+ },
+ {
+   "SEZIONE": 1957,
+   "TIPO_SEZ": "N",
+   "MASCHI": 651,
+   "FEMMINE": 673,
+   "INDIRIZZO": "VIA DEI NARCISI 2/A"
+ },
+ {
+   "SEZIONE": 1958,
+   "TIPO_SEZ": "N",
+   "MASCHI": 349,
+   "FEMMINE": 401,
+   "INDIRIZZO": "VIA MONTE VELINO 4/A"
+ },
+ {
+   "SEZIONE": 1959,
+   "TIPO_SEZ": "N",
+   "MASCHI": 509,
+   "FEMMINE": 522,
+   "INDIRIZZO": "VIA LAMENNAIS 20/A"
+ },
+ {
+   "SEZIONE": 1961,
+   "TIPO_SEZ": "N",
+   "MASCHI": 445,
+   "FEMMINE": 523,
+   "INDIRIZZO": "VIA SALERNO 3"
+ },
+ {
+   "SEZIONE": 1969,
+   "TIPO_SEZ": "N",
+   "MASCHI": 312,
+   "FEMMINE": 385,
+   "INDIRIZZO": "VIA PASSERINI GIAN BATTISTA 8/"
+ },
+ {
+   "SEZIONE": 1973,
+   "TIPO_SEZ": "N",
+   "MASCHI": 378,
+   "FEMMINE": 438,
+   "INDIRIZZO": "PZA GASPARRI CARD PIETRO 6"
+ },
+ {
+   "SEZIONE": 1975,
+   "TIPO_SEZ": "N",
+   "MASCHI": 271,
+   "FEMMINE": 265,
+   "INDIRIZZO": "VIA VALLARSA 19/A"
+ },
+ {
+   "SEZIONE": 1976,
+   "TIPO_SEZ": "N",
+   "MASCHI": 343,
+   "FEMMINE": 379,
+   "INDIRIZZO": "VIA CRIMEA 22/A"
+ },
+ {
+   "SEZIONE": 1979,
+   "TIPO_SEZ": "N",
+   "MASCHI": 224,
+   "FEMMINE": 274,
+   "INDIRIZZO": "VIA PISTOIA 30"
+ },
+ {
+   "SEZIONE": 1981,
+   "TIPO_SEZ": "N",
+   "MASCHI": 407,
+   "FEMMINE": 465,
+   "INDIRIZZO": "VIA FELTRE 68/1A"
+ },
+ {
+   "SEZIONE": 1983,
+   "TIPO_SEZ": "N",
+   "MASCHI": 407,
+   "FEMMINE": 452,
+   "INDIRIZZO": "VIA MANTEGNA ANDREA, 10/A"
+ },
+ {
+   "SEZIONE": 1985,
+   "TIPO_SEZ": "N",
+   "MASCHI": 342,
+   "FEMMINE": 418,
+   "INDIRIZZO": "VIA DEL VOLGA 3"
+ },
+ {
+   "SEZIONE": 1989,
+   "TIPO_SEZ": "N",
+   "MASCHI": 339,
+   "FEMMINE": 418,
+   "INDIRIZZO": "VIA SANT'ELEMBARDO 4"
+ },
+ {
+   "SEZIONE": 1991,
+   "TIPO_SEZ": "N",
+   "MASCHI": 372,
+   "FEMMINE": 380,
+   "INDIRIZZO": "VIA RUSSO VINCENZO 27"
+ },
+ {
+   "SEZIONE": 1992,
+   "TIPO_SEZ": "N",
+   "MASCHI": 335,
+   "FEMMINE": 363,
+   "INDIRIZZO": "VIA ANSELMO DA BAGGIO 60"
+ },
+ {
+   "SEZIONE": 1995,
+   "TIPO_SEZ": "N",
+   "MASCHI": 392,
+   "FEMMINE": 438,
+   "INDIRIZZO": "VIA MINCIO 21"
+ },
+ {
+   "SEZIONE": 1997,
+   "TIPO_SEZ": "N",
+   "MASCHI": 388,
+   "FEMMINE": 460,
+   "INDIRIZZO": "VIA MASSAUA 5"
+ },
+ {
+   "SEZIONE": 2000,
+   "TIPO_SEZ": "N",
+   "MASCHI": 393,
+   "FEMMINE": 471,
+   "INDIRIZZO": "PZA GASPARRI CARD PIETRO 6"
+ },
+ {
+   "SEZIONE": 2001,
+   "TIPO_SEZ": "N",
+   "MASCHI": 390,
+   "FEMMINE": 482,
+   "INDIRIZZO": "PZA GASPARRI CARD PIETRO 6/A"
+ },
+ {
+   "SEZIONE": 2004,
+   "TIPO_SEZ": "N",
+   "MASCHI": 358,
+   "FEMMINE": 430,
+   "INDIRIZZO": "VIA VEGLIA 80"
+ },
+ {
+   "SEZIONE": 2015,
+   "TIPO_SEZ": "N",
+   "MASCHI": 508,
+   "FEMMINE": 559,
+   "INDIRIZZO": "VIA TOSI FRANCO 21"
+ },
+ {
+   "SEZIONE": 2017,
+   "TIPO_SEZ": "N",
+   "MASCHI": 379,
+   "FEMMINE": 470,
+   "INDIRIZZO": "VIA DOLCI CARLO 5/A"
+ },
+ {
+   "SEZIONE": 2019,
+   "TIPO_SEZ": "N",
+   "MASCHI": 286,
+   "FEMMINE": 366,
+   "INDIRIZZO": "VIA PISTOIA 30"
+ },
+ {
+   "SEZIONE": 2021,
+   "TIPO_SEZ": "N",
+   "MASCHI": 324,
+   "FEMMINE": 366,
+   "INDIRIZZO": "VIA GNOCCHI DON CARLO 25/A"
+ },
+ {
+   "SEZIONE": 2024,
+   "TIPO_SEZ": "S",
+   "MASCHI": 411,
+   "FEMMINE": 479,
+   "INDIRIZZO": "VIA GRAF ARTURO 70"
+ },
+ {
+   "SEZIONE": 2026,
+   "TIPO_SEZ": "O",
+   "MASCHI": 26,
+   "FEMMINE": 251,
+   "INDIRIZZO": "VIA ANTONINI GIACOMO 3"
+ },
+ {
+   "SEZIONE": 2029,
+   "TIPO_SEZ": "N",
+   "MASCHI": 369,
+   "FEMMINE": 452,
+   "INDIRIZZO": "VIA LORIA MOISE 37"
+ },
+ {
+   "SEZIONE": 2042,
+   "TIPO_SEZ": "N",
+   "MASCHI": 405,
+   "FEMMINE": 425,
+   "INDIRIZZO": "VIA AIRAGHI 42"
+ },
+ {
+   "SEZIONE": 2044,
+   "TIPO_SEZ": "N",
+   "MASCHI": 377,
+   "FEMMINE": 472,
+   "INDIRIZZO": "VIA SCROSATI LUIGI 4"
+ },
+ {
+   "SEZIONE": 2046,
+   "TIPO_SEZ": "N",
+   "MASCHI": 484,
+   "FEMMINE": 523,
+   "INDIRIZZO": "VIA PESTALOZZI GIOVANNI 13"
+ },
+ {
+   "SEZIONE": 2050,
+   "TIPO_SEZ": "N",
+   "MASCHI": 436,
+   "FEMMINE": 465,
+   "INDIRIZZO": "VIA BRESCIANI TURRONI COSTANTI"
+ },
+ {
+   "SEZIONE": 2053,
+   "TIPO_SEZ": "N",
+   "MASCHI": 373,
+   "FEMMINE": 453,
+   "INDIRIZZO": "VIA SALERNO 1"
+ },
+ {
+   "SEZIONE": 2055,
+   "TIPO_SEZ": "N",
+   "MASCHI": 498,
+   "FEMMINE": 529,
+   "INDIRIZZO": "VIA PESCARENICO 6"
+ },
+ {
+   "SEZIONE": 2058,
+   "TIPO_SEZ": "N",
+   "MASCHI": 334,
+   "FEMMINE": 425,
+   "INDIRIZZO": "VIA VESPRI SICILIANI 75"
+ },
+ {
+   "SEZIONE": 2060,
+   "TIPO_SEZ": "N",
+   "MASCHI": 419,
+   "FEMMINE": 427,
+   "INDIRIZZO": "VIA GRAF ARTURO 70"
+ },
+ {
+   "SEZIONE": 2062,
+   "TIPO_SEZ": "N",
+   "MASCHI": 354,
+   "FEMMINE": 444,
+   "INDIRIZZO": "VIA GRAF ARTURO 70"
+ },
+ {
+   "SEZIONE": 2063,
+   "TIPO_SEZ": "N",
+   "MASCHI": 277,
+   "FEMMINE": 345,
+   "INDIRIZZO": "VIA TRILUSSA 10/A"
+ },
+ {
+   "SEZIONE": 2064,
+   "TIPO_SEZ": "N",
+   "MASCHI": 362,
+   "FEMMINE": 447,
+   "INDIRIZZO": "VIA TRILUSSA 10"
+ },
+ {
+   "SEZIONE": 2065,
+   "TIPO_SEZ": "N",
+   "MASCHI": 322,
+   "FEMMINE": 362,
+   "INDIRIZZO": "VIA MONTE BALDO 11/A"
+ },
+ {
+   "SEZIONE": 2066,
+   "TIPO_SEZ": "N",
+   "MASCHI": 389,
+   "FEMMINE": 470,
+   "INDIRIZZO": "VIA SAN GIACOMO 1"
+ },
+ {
+   "SEZIONE": 2069,
+   "TIPO_SEZ": "N",
+   "MASCHI": 334,
+   "FEMMINE": 405,
+   "INDIRIZZO": "VIA CRIMEA 22/A"
+ },
+ {
+   "SEZIONE": 2070,
+   "TIPO_SEZ": "N",
+   "MASCHI": 368,
+   "FEMMINE": 401,
+   "INDIRIZZO": "VIA FELTRE 68/1A"
+ },
+ {
+   "SEZIONE": 2072,
+   "TIPO_SEZ": "N",
+   "MASCHI": 292,
+   "FEMMINE": 365,
+   "INDIRIZZO": "VIA MARTINETTI PIERO 25/A"
+ },
+ {
+   "SEZIONE": 2082,
+   "TIPO_SEZ": "O",
+   "MASCHI": 0,
+   "FEMMINE": 0,
+   "INDIRIZZO": "VIA PAREA CARLO 4"
+ },
+ {
+   "SEZIONE": 2083,
+   "TIPO_SEZ": "N",
+   "MASCHI": 319,
+   "FEMMINE": 356,
+   "INDIRIZZO": "VIA VEGLIA 80"
+ },
+ {
+   "SEZIONE": 2089,
+   "TIPO_SEZ": "N",
+   "MASCHI": 357,
+   "FEMMINE": 420,
+   "INDIRIZZO": "VIA MONVISO 2"
+ },
+ {
+   "SEZIONE": 2091,
+   "TIPO_SEZ": "N",
+   "MASCHI": 367,
+   "FEMMINE": 449,
+   "INDIRIZZO": "PZA ASCOLI GRAZIADIO ISAIA 2/B"
+ },
+ {
+   "SEZIONE": 2092,
+   "TIPO_SEZ": "N",
+   "MASCHI": 379,
+   "FEMMINE": 448,
+   "INDIRIZZO": "VIA PESTALOZZI GIOVANNI 13"
+ },
+ {
+   "SEZIONE": 2102,
+   "TIPO_SEZ": "N",
+   "MASCHI": 265,
+   "FEMMINE": 281,
+   "INDIRIZZO": "VIA GIACOSA GIUSEPPE 46"
+ },
+ {
+   "SEZIONE": 2103,
+   "TIPO_SEZ": "N",
+   "MASCHI": 331,
+   "FEMMINE": 428,
+   "INDIRIZZO": "VIA FELTRE 68/1A"
+ },
+ {
+   "SEZIONE": 2105,
+   "TIPO_SEZ": "N",
+   "MASCHI": 420,
+   "FEMMINE": 535,
+   "INDIRIZZO": "VIA EINSTEIN ALBERTO 3"
+ },
+ {
+   "SEZIONE": 2107,
+   "TIPO_SEZ": "N",
+   "MASCHI": 534,
+   "FEMMINE": 542,
+   "INDIRIZZO": "VIA MONTE POPERA 12/A"
+ },
+ {
+   "SEZIONE": 2108,
+   "TIPO_SEZ": "N",
+   "MASCHI": 530,
+   "FEMMINE": 529,
+   "INDIRIZZO": "VIA MONTE POPERA 12/A"
+ },
+ {
+   "SEZIONE": 2117,
+   "TIPO_SEZ": "N",
+   "MASCHI": 379,
+   "FEMMINE": 398,
+   "INDIRIZZO": "VIA AIRAGHI 42"
+ },
+ {
+   "SEZIONE": 2120,
+   "TIPO_SEZ": "N",
+   "MASCHI": 370,
+   "FEMMINE": 416,
+   "INDIRIZZO": "VIA CILEA FRANCESCO 12"
+ },
+ {
+   "SEZIONE": 2124,
+   "TIPO_SEZ": "N",
+   "MASCHI": 281,
+   "FEMMINE": 354,
+   "INDIRIZZO": "VIA PARAVIA PIER ALESSANDRO 83"
+ },
+ {
+   "SEZIONE": 2132,
+   "TIPO_SEZ": "N",
+   "MASCHI": 289,
+   "FEMMINE": 369,
+   "INDIRIZZO": "VIA ASTURIE 1"
+ },
+ {
+   "SEZIONE": 2141,
+   "TIPO_SEZ": "N",
+   "MASCHI": 332,
+   "FEMMINE": 403,
+   "INDIRIZZO": "VIA DELL' ARCADIA 22/A"
+ },
+ {
+   "SEZIONE": 2144,
+   "TIPO_SEZ": "N",
+   "MASCHI": 392,
+   "FEMMINE": 481,
+   "INDIRIZZO": "VIA DE ANDREIS LUIGI 10/A"
+ },
+ {
+   "SEZIONE": 2147,
+   "TIPO_SEZ": "N",
+   "MASCHI": 438,
+   "FEMMINE": 507,
+   "INDIRIZZO": "VIA FORZE ARMATE 279"
+ },
+ {
+   "SEZIONE": 2158,
+   "TIPO_SEZ": "N",
+   "MASCHI": 543,
+   "FEMMINE": 464,
+   "INDIRIZZO": "VIA SAN MAMETE 11/A"
+ },
+ {
+   "SEZIONE": 2159,
+   "TIPO_SEZ": "N",
+   "MASCHI": 417,
+   "FEMMINE": 449,
+   "INDIRIZZO": "VIA SAN MAMETE 11/B"
+ },
+ {
+   "SEZIONE": 2172,
+   "TIPO_SEZ": "N",
+   "MASCHI": 308,
+   "FEMMINE": 366,
+   "INDIRIZZO": "VIA DALMAZIA 4"
+ },
+ {
+   "SEZIONE": 2181,
+   "TIPO_SEZ": "N",
+   "MASCHI": 540,
+   "FEMMINE": 551,
+   "INDIRIZZO": "VIA PESCARENICO 6"
+ },
+ {
+   "SEZIONE": 2183,
+   "TIPO_SEZ": "N",
+   "MASCHI": 340,
+   "FEMMINE": 448,
+   "INDIRIZZO": "VIA FELTRE 68/1A"
+ },
+ {
+   "SEZIONE": 2184,
+   "TIPO_SEZ": "N",
+   "MASCHI": 304,
+   "FEMMINE": 297,
+   "INDIRIZZO": "VIA MARTINETTI PIERO 25/A"
+ },
+ {
+   "SEZIONE": 2186,
+   "TIPO_SEZ": "N",
+   "MASCHI": 426,
+   "FEMMINE": 510,
+   "INDIRIZZO": "VIA SAN GIACOMO 1"
+ },
+ {
+   "SEZIONE": 2192,
+   "TIPO_SEZ": "N",
+   "MASCHI": 339,
+   "FEMMINE": 418,
+   "INDIRIZZO": "VIA PALMIERI NICOLA 24/A"
+ },
+ {
+   "SEZIONE": 2193,
+   "TIPO_SEZ": "N",
+   "MASCHI": 392,
+   "FEMMINE": 445,
+   "INDIRIZZO": "VIA PESCARENICO 6"
+ },
+ {
+   "SEZIONE": 2195,
+   "TIPO_SEZ": "N",
+   "MASCHI": 428,
+   "FEMMINE": 456,
+   "INDIRIZZO": "VIA PESCARENICO 6"
+ },
+ {
+   "SEZIONE": 2196,
+   "TIPO_SEZ": "N",
+   "MASCHI": 280,
+   "FEMMINE": 376,
+   "INDIRIZZO": "LGO GUERRIERI GONZAGA 4"
+ },
+ {
+   "SEZIONE": 2210,
+   "TIPO_SEZ": "N",
+   "MASCHI": 432,
+   "FEMMINE": 516,
+   "INDIRIZZO": "VIA ANSELMO DA BAGGIO 60"
+ },
+ {
+   "SEZIONE": 2212,
+   "TIPO_SEZ": "N",
+   "MASCHI": 296,
+   "FEMMINE": 334,
+   "INDIRIZZO": "VIA DEI NARCISI 4/A"
+ },
+ {
+   "SEZIONE": 2222,
+   "TIPO_SEZ": "N",
+   "MASCHI": 433,
+   "FEMMINE": 454,
+   "INDIRIZZO": "VIA CITTADINI PIER FRANCESCO 1"
+ },
+ {
+   "SEZIONE": 2229,
+   "TIPO_SEZ": "N",
+   "MASCHI": 393,
+   "FEMMINE": 426,
+   "INDIRIZZO": "VIA GUICCIARDI DIEGO 1"
+ },
+ {
+   "SEZIONE": 2241,
+   "TIPO_SEZ": "N",
+   "MASCHI": 340,
+   "FEMMINE": 344,
+   "INDIRIZZO": "VIA CRIMEA 22"
+ },
+ {
+   "SEZIONE": 2243,
+   "TIPO_SEZ": "N",
+   "MASCHI": 392,
+   "FEMMINE": 453,
+   "INDIRIZZO": "VIA DE CONTI BERNARDINO 3"
+ }
+]
